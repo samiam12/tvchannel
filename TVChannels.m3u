@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,My9 WWOR-TV (New York)
+http://206.212.244.71:8080/4wVQA7/625159/176368
+#EXTINF:-1,Fox 5
+https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1,TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1,Lifetime Movies
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1,LMN
+https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1,ID (Investigation Discovery)
+http://45.159.74.22/InvestigationDiscovery/mono.m3u8
+#EXTINF:-1,MLB Network
+http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
