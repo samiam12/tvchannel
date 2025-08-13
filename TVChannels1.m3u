@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U tvg-url="https://epg.pw/xmltv/epg_US.xml"
 #EXTINF:-1 tvg-id="My9.us" tvg-name="MY9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5PHKiTAE7JUFx_HYInWdsbibl58txBuHngzcHgbxQ0AEn1Ps7Vx5dozyKwIqVv4GGzqYYvAJGEcYDNhaupGqvG--hpuxWBTf9jkMg9w" group-title="News",WWOR-My9
 http://206.212.244.71:8080/4wVQA7/625159/176368
 #EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/WNYW_2006_logo.svg/250px-WNYW_2006_logo.svg.png" group-title="News",FOX5 New York
@@ -263,6 +263,7 @@ http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Sports",YES Network
 http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 
 
