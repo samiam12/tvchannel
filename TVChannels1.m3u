@@ -99,7 +99,7 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 http://fl1.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX_SOCCER_PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports",FOX Soccer Plus
 http://fl1.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="FoxSoul1.us" tvg-name="FOX Soul Network" tvg-logo="https://play-lh.googleusercontent.com/BePjUWt4xWU88TnVQv7i3lKZTNcduxYCbnO4x17qZUWH6OCZ0Fqcy05nDTSldZPbCeg" group-title="FOX",FOX Soul
+#EXTINF:-1 tvg-id="FoxSoul1.us" tvg-name="FOX Soul Network" tvg-logo="https://play-lh.googleusercontent.com/BePjUWt4xWU88TnVQv7i3lKZTNcduxYCbnO4x17qZUWH6OCZ0Fqcy05nDTSldZPbCeg" group-title="Entertainment",FOX Soul
 https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS1
 http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
@@ -267,6 +267,7 @@ http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Sports",YES Network
 http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 
 
