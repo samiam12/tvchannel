@@ -3,6 +3,8 @@
 http://206.212.244.71:8080/4wVQA7/625159/176368
 #EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/WNYW_2006_logo.svg/250px-WNYW_2006_logo.svg.png" group-title="News",FOX5 New York
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="PIX11.us" tvg-name="PIX11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/1200px-PIX11_2017.svg.png?20180304001403" group-title="News",PIX11 (WPIX)
+http://206.212.244.71:8080/4wVQA7/625159/120897
 #EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC_EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="News",ABC (WOLO)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC_NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="Sports",ACC Network
@@ -261,5 +263,6 @@ http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Sports",YES Network
 http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 
