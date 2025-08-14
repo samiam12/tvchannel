@@ -3,7 +3,7 @@
 http://206.212.244.71:8080/4wVQA7/625159/176368
 #EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/WNYW_2006_logo.svg/250px-WNYW_2006_logo.svg.png" group-title="News",FOX5 New York
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="PIX11.us" tvg-name="PIX11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/1200px-PIX11_2017.svg.png?20180304001403" group-title="News",PIX11 (WPIX)
+#EXTINF:-1 tvg-id="404678" tvg-name="PIX11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/1200px-PIX11_2017.svg.png?20180304001403" group-title="News",PIX11 (WPIX)
 http://206.212.244.71:8080/4wVQA7/625159/120897
 #EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC_EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="News",ABC (WOLO)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -309,6 +309,7 @@ http://206.212.244.71:8080/4wVQA7/625159/17752
 http://206.212.244.71:8080/4wVQA7/625159/108178
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/NBC_Sports_Bay_Area_logo.svg/1200px-NBC_Sports_Bay_Area_logo.svg.png" group-title="MLB Games",NBC Sports Bay Area
 http://206.212.244.71:8080/4wVQA7/625159/9900
+
 
 
 
