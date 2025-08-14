@@ -267,6 +267,49 @@ http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Sports",YES Network
 http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MASN.us" tvg-name="MASN" tvg-logo="https://www.masnsports.com/images/masn.svg" group-title="MLB Games",MASN
+http://206.212.244.71:8080/4wVQA7/625159/65697
+#EXTINF:-1 tvg-id="NESN.us" tvg-name="NESN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/NESN_logo.svg/1200px-NESN_logo.svg.png" group-title="MLB Games",NESN
+http://206.212.244.71:8080/4wVQA7/625159/46726
+#EXTINF:-1 tvg-id="BallySportsSun.us" tvg-name="Bally Sports Sun" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="MLB Games",Bally Sports Sun
+http://206.212.244.71:8080/4wVQA7/625159/104917
+#EXTINF:-1 tvg-id="CASportsnetEast.us" tvg-name="CA Sportsnet East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Sportsnet_logo.svg/1200px-Sportsnet_logo.svg.png" group-title="MLB Games",CA Sportsnet East
+http://206.212.244.71:8080/4wVQA7/625159/41836
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="NBC Sports Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/NBC_Sports_Chicago_logo.svg/1200px-NBC_Sports_Chicago_logo.svg.png" group-title="MLB Games",NBC Sports Chicago
+http://206.212.244.71:8080/4wVQA7/625159/20941
+#EXTINF:-1 tvg-id="BallySportsGreatLakes.us" tvg-name="Bally Sports Great Lakes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="MLB Games",Bally Sports Great Lakes
+http://206.212.244.71:8080/4wVQA7/625159/139272
+#EXTINF:-1 tvg-id="BallySportsDetroit.us" tvg-name="Bally Sports Detroit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="MLB Games",Bally Sports Detroit
+http://206.212.244.71:8080/4wVQA7/625159/20930
+#EXTINF:-1 tvg-id="BallySportsMidwest.us" tvg-name="Bally Sports Midwest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="MLB Games",Bally Sports Midwest
+http://206.212.244.71:8080/4wVQA7/625159/66795
+#EXTINF:-1 tvg-id="BallySportsNorth.us" tvg-name="Bally Sports North" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="MLB Games",Bally Sports North
+http://206.212.244.71:8080/4wVQA7/625159/58827
+#EXTINF:-1 tvg-id="ATTSportsNetSouthwest.us" tvg-name="AT&T SportsNet Southwest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/AT%26T_SportsNet_logo.svg/1200px-AT%26T_SportsNet_logo.svg.png" group-title="MLB Games",AT&T SportsNet Southwest
+http://206.212.244.71:8080/4wVQA7/625159/136909
+#EXTINF:-1 tvg-id="BallySportsWest.us" tvg-name="Bally Sports West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="MLB Games",Bally Sports West
+http://206.212.244.71:8080/4wVQA7/625159/20932
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/NBC_Sports_California_logo.svg/1200px-NBC_Sports_California_logo.svg.png" group-title="MLB Games",NBC Sports California
+http://206.212.244.71:8080/4wVQA7/625159/20940
+#EXTINF:-1 tvg-id="RootSportsNetwork.us" tvg-name="Root Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Root_Sports_logo.svg/1200px-Root_Sports_logo.svg.png" group-title="MLB Games",Root Sports Network
+http://206.212.244.71:8080/4wVQA7/625159/85232
+#EXTINF:-1 tvg-id="BallySportsSouthwest.us" tvg-name="Bally Sports Southwest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="MLB Games",Bally Sports Southwest
+http://206.212.244.71:8080/4wVQA7/625159/21843
+#EXTINF:-1 tvg-id="BallySportsSouth.us" tvg-name="Bally Sports South" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="MLB Games",Bally Sports South
+http://206.212.244.71:8080/4wVQA7/625159/81111
+#EXTINF:-1 tvg-id="BallySportsFlorida.us" tvg-name="Bally Sports Florida" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="MLB Games",Bally Sports Florida
+http://206.212.244.71:8080/4wVQA7/625159/46794
+#EXTINF:-1 tvg-id="SNY.us" tvg-name="SNY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="MLB Games",SNY
+http://206.212.244.71:8080/4wVQA7/625159/20938
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Marquee_Sports_Network_logo.svg/1200px-Marquee_Sports_Network_logo.svg.png" group-title="MLB Games",Marquee Sports Network
+http://206.212.244.71:8080/4wVQA7/625159/13379
+#EXTINF:-1 tvg-id="BallySportsOhio.us" tvg-name="Bally Sports Ohio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Bally_Sports_logo.svg/1200px-Bally_Sports_logo.svg.png" group-title="MLB Games",Bally Sports Ohio
+http://206.212.244.71:8080/4wVQA7/625159/17752
+#EXTINF:-1 tvg-id="SportsNetPittsburgh.us" tvg-name="SportsNet Pittsburgh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/SportsNet_Pittsburgh_logo.svg/1200px-SportsNet_Pittsburgh_logo.svg.png" group-title="MLB Games",SportsNet Pittsburgh
+http://206.212.244.71:8080/4wVQA7/625159/108178
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/NBC_Sports_Bay_Area_logo.svg/1200px-NBC_Sports_Bay_Area_logo.svg.png" group-title="MLB Games",NBC Sports Bay Area
+http://206.212.244.71:8080/4wVQA7/625159/9900
+
 
 
 
