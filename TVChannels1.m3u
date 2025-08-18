@@ -142,7 +142,7 @@ http://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="Lifetime Movies Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Movies",Lifetime Movies Network
 http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="Music",Logo
-http://fl3.moveonjoy.com/Logo/index.m3u8
+http://206.212.244.71:8080/4wVQA7/625159/20862
 #EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Entertainment",MeTV
 http://fl1.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="MLB Games",MLB Network
@@ -303,6 +303,7 @@ http://206.212.244.71:8080/4wVQA7/625159/17752
 http://206.212.244.71:8080/4wVQA7/625159/108178
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/NBC_Sports_Bay_Area_logo.svg/1200px-NBC_Sports_Bay_Area_logo.svg.png" group-title="MLB Games",NBC Sports Bay Area
 http://206.212.244.71:8080/4wVQA7/625159/9900
+
 
 
 
