@@ -303,6 +303,9 @@ http://206.212.244.71:8080/4wVQA7/625159/17752
 http://206.212.244.71:8080/4wVQA7/625159/108178
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/NBC_Sports_Bay_Area_logo.svg/1200px-NBC_Sports_Bay_Area_logo.svg.png" group-title="MLB Games",NBC Sports Bay Area
 http://206.212.244.71:8080/4wVQA7/625159/9900
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Soccer Games",USA Network
+http://206.212.244.71:8080/4wVQA7/625159/10252
+
 
 
 
