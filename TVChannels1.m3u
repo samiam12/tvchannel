@@ -305,6 +305,9 @@ http://206.212.244.71:8080/4wVQA7/625159/108178
 http://206.212.244.71:8080/4wVQA7/625159/9900
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Soccer Games",USA Network
 http://206.212.244.71:8080/4wVQA7/625159/10252
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="Soccer Games",NBC
+http://206.212.244.71:8080/4wVQA7/625159/46687
+
 
 
 
