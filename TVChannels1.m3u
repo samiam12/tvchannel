@@ -249,7 +249,7 @@ http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Golf.Channel.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" tvg-name="NBC Golf",NBC Golf
 http://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://play-lh.googleusercontent.com/Tb2x4l2dlgyZYOUUEWlprQiu279mBQ4_fh8vVSProE9hpwUdTBjV8hr29znZ7N7hLZ4" group-title="Sports",NBC Sports Bay Area
-https://list.iptvcat.com/my_list/s/13eae4a057f9014d3550dc8ea9cb1279.m3u8
+http://206.212.244.71:8080/4wVQA7/625159/9900
 #EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://play-lh.googleusercontent.com/Tb2x4l2dlgyZYOUUEWlprQiu279mBQ4_fh8vVSProE9hpwUdTBjV8hr29znZ7N7hLZ4" group-title="Sports",NBC Sports California
 http://206.212.244.71:8080/4wVQA7/625159/20940
 #EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="NBC Sports Chicago" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/NBC-sports-Chicago-logo.png" group-title="Sports",NBC Sports Chicago
@@ -382,6 +382,7 @@ http://fl3.moveonjoy.com/WGN/index.m3u8
 http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 
 
