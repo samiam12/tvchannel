@@ -21,7 +21,7 @@ http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Sports",beIN Sports
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Entertainment",BET
+#EXTINF:-1 tvg-id="BET - Eastern Feed.us" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Entertainment",BET
 http://fl1.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET_GOSPEL" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/0/0f/90E6F9AB-9C31-47C3-8E27-6724099F9941.png/revision/latest?cb=20191208013200" group-title="Music",BET Gospel
 http://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
@@ -309,6 +309,7 @@ http://143.244.60.30/NBC_EAST/index.m3u8
 https://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="NFLRedzone.us" tvg-name="NFL Redzone" tvg-logo="https://images-cdn2.welcomesoftware.com/assets/Redzone.jpg/Zz0xYzc5ZTExYTY2M2ExMWVmOTBjYjNlMGMyZDA1YzQ1ZA==?width=1200" group-title="Football Games",NFL Redzone
 https://tvpass.org/live/NFLRedZone/hd?checkedby:iptvcat.com
+
 
 
 
