@@ -205,7 +205,7 @@ http://fl3.moveonjoy.com/MAV_TV/index.m3u8
 #EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network" tvg-logo="https://yt3.googleusercontent.com/BPWSCvkDbheiitC6dPG1Yn153WZcRpvC1lFmXAlit0v-Jv4vbQtn8dYL2thMl3cdlURZyVSF8g=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Marquee Sports Network
 http://206.212.244.71:8080/4wVQA7/625159/13379
 #EXTINF:-1 tvg-id="MASN.us" tvg-name="MASN" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1745242435/mlb/jov4fxbzmqikc8umj5kr" group-title="Sports",MASN
-http://206.212.244.71:8080/4wVQA7/625159/65697
+http://thevdm.xyz:25461/timmadden/timmad4765/139335
 #EXTINF:-1 group-title="Entertainment" tvg-id="MeTV.KSAT-DT2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" tvg-name="MeTV",MeTV
 http://fl3.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" tvg-name="MGM+",MGM+
@@ -233,7 +233,7 @@ http://fl3.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Much.Music.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" tvg-name="MUCH",MUCH
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 tvg-id="404678" tvg-name="MY9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5PHKiTAE7JUFx_HYInWdsbibl58txBuHngzcHgbxQ0AEn1Ps7Vx5dozyKwIqVv4GGzqYYvAJGEcYDNhaupGqvG--hpuxWBTf9jkMg9w" group-title="Entertainment",My9
-http://206.212.244.71:8080/4wVQA7/625159/176368
+http://mytvstream.net:8080/ltx-nl02152023/123456/176368
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
 http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.Wild.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" tvg-name="National Geographic Wild",National Geographic Wild
@@ -285,7 +285,7 @@ http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel",Pursuit Channel
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:-1 tvg-id="404678" tvg-name="PIX11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/1200px-PIX11_2017.svg.png?20180304001403" group-title="News",PIX11(WPIX)
-http://206.212.244.71:8080/4wVQA7/625159/120897
+https://streamer1.nexgen.bz/WPIX/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="QVC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/qvc-us.png" tvg-name="QVC",QVC
 http://fl3.moveonjoy.com/QVC/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ReelzChannel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" tvg-name="ReelzChannel",ReelzChannel
@@ -380,6 +380,7 @@ http://fl3.moveonjoy.com/WGN/index.m3u8
 http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 
 
