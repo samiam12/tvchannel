@@ -15,6 +15,8 @@ http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 http://ahostingportal.com:8000/3875147095/3458182665/81
 #EXTINF:-1 group-title="Entertainment" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
 http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ArizonaDiamondbacksTV.us" tvg-logo="https://1000logos.net/wp-content/uploads/2018/06/Arizona-Diamondbacks-Logo-2007.png" tvg-name="Arizona Diamondbacks TV",Arizona Diamondbacks TV
+http://thevdm.xyz:25461/timmadden/timmad4765/93435
 #EXTINF:-1 tvg-id="ATTSportsNetSouthwest.us" tvg-name="AT&T SportsNet Southwest" tvg-logo="https://www.tvguide.com/a/img/resize/79d92d382d5405afc216b7be0ceae94c93b3aae6/hub/2024/10/30/c663b222-9ed1-4611-9955-441f2c506c5e/attsportsnetlogo.jpg?auto=webp" group-title="Sports",AT&T SportsNet Southwest
 http://xxip25.top:8080/zC3Eby/245776/136909
 #EXTINF:-1 tvg-id="BallySportsDetroit.us" tvg-name="Bally Sports Detroit" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/qbfqemucswdzxzejkedo.jpg" group-title="Sports",Bally Sports Detroit
@@ -385,6 +387,7 @@ http://fl3.moveonjoy.com/WGN/index.m3u8
 http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 
 
