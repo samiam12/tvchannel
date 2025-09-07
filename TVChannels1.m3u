@@ -136,7 +136,7 @@ http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" tvg-name="FOOD NETWORK",FOOD NETWORK
 http://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX 5(WNYW)
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+http://xxip25.top:8080/zC3Eby/245776/120750
 #EXTINF:-1 group-title="News" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
 http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
@@ -387,6 +387,7 @@ http://fl3.moveonjoy.com/WGN/index.m3u8
 http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 
 
