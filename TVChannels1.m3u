@@ -2,19 +2,19 @@
 #EXTINF:-1 group-title="Entertainment" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
 http://xxip25.top:8080/zC3Eby/245776/57476
 #EXTINF:-1 group-title="News" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+http://xxip25.top:8080/zC3Eby/245776/121139
 #EXTINF:-1 group-title="Sports" tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
-http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+http://xxip25.top:8080/zC3Eby/245776/9273
 #EXTINF:-1 group-title="Movies" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://xxip25.top:8080/zC3Eby/245776/18925
 #EXTINF:-1 group-title="Entertainment" tvg-id="American.Heroes.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",American Heroes Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+http://xxip25.top:8080/zC3Eby/245776/10456
 #EXTINF:-1 group-title="Documentary" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
-http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+http://xxip25.top:8080/zC3Eby/245776/17870
 #EXTINF:-1 group-title="Entertainment" tvg-id="Antenna.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna",Antenna
-http://ahostingportal.com:8000/3875147095/3458182665/81
+http://xxip25.top:8080/zC3Eby/245776/20180
 #EXTINF:-1 group-title="Entertainment" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
-http://fl3.moveonjoy.com/Aspire/index.m3u8
+http://xxip25.top:8080/zC3Eby/245776/21927
 #EXTINF:-1 group-title="Sports" tvg-id="ArizonaDiamondbacksTV.us" tvg-logo="https://1000logos.net/wp-content/uploads/2018/06/Arizona-Diamondbacks-Logo-2007.png" tvg-name="Arizona Diamondbacks TV",Arizona Diamondbacks TV
 http://thevdm.xyz:25461/timmadden/timmad4765/93435
 #EXTINF:-1 tvg-id="ATTSportsNetSouthwest.us" tvg-name="AT&T SportsNet Southwest" tvg-logo="https://www.tvguide.com/a/img/resize/79d92d382d5405afc216b7be0ceae94c93b3aae6/hub/2024/10/30/c663b222-9ed1-4611-9955-441f2c506c5e/attsportsnetlogo.jpg?auto=webp" group-title="Sports",AT&T SportsNet Southwest
@@ -387,6 +387,7 @@ http://fl3.moveonjoy.com/WGN/index.m3u8
 http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 
 
