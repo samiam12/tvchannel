@@ -138,7 +138,7 @@ http://xxip25.top:8080/zC3Eby/245776/120750
 #EXTINF:-1 group-title="News" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
 http://xxip25.top:8080/zC3Eby/245776/17639
 #EXTINF:-1 group-title="Entertainment" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
-http://user.scalecdn.co:8080/26725074/92867131/625076
+https://aegis-cloudfront-1.tubi.video/b11786a7-f859-4047-ae52-c467e16d377e/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Freeform.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="Freeform",Freeform
 http://xxip25.top:8080/zC3Eby/245776/13370
 #EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FS1",FS1
@@ -385,6 +385,7 @@ http://xxip25.top:8080/zC3Eby/245776/9237
 http://xxip25.top:8080/zC3Eby/245776/10477
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://xxip25.top:8080/zC3Eby/245776/57972
+
 
 
 
