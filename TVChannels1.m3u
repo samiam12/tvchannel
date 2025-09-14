@@ -277,26 +277,38 @@ https://fl7.moveonjoy.com/NFL_8/index.m3u8
 https://fl7.moveonjoy.com/NFL_9/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NFL10.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 10",NFL 10
 https://fl7.moveonjoy.com/NFL_10/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL11.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 11",NFL 11
+https://fl7.moveonjoy.com/NFL_11/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL12.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 12",NFL 12
+https://fl7.moveonjoy.com/NFL_12/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL13.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 13",NFL 13
+https://fl7.moveonjoy.com/NFL_13/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL14.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 14",NFL 14
+https://fl7.moveonjoy.com/NFL_14/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL15.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 15",NFL 15
+https://fl7.moveonjoy.com/NFL_15/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 9",NFL 9
+http://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-name="NFL RedZone",NFL RedZone
 https://fl7.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" tvg-name="NHL Network",NHL Network
-http://xxip25.top:8080/zC3Eby/245776/20179
+http://fl7.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",Nickelodeon
-http://xxip25.top:8080/zC3Eby/245776/38
+http://fl7.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Nick.Jr..-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" tvg-name="NickJr",NickJr
-http://xxip25.top:8080/zC3Eby/245776/9807
+http://fl6.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Nick.Music.(NICM).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" tvg-name="NickMusic USA",NickMusic USA
-http://user.scalecdn.co:8080/26725074/92867131/89095
+http://fl7.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Nicktoons.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" tvg-name="NickToons",NickToons
-http://xxip25.top:8080/zC3Eby/245776/36
+http://fl7.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" tvg-name="Oprah Winfrey Network",Oprah Winfrey Network
-http://xxip25.top:8080/zC3Eby/245776/46698
+http://fl7.moveonjoy.com/OWN/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Outdoor.Channel.US.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" tvg-name="Outdoor Channel",Outdoor Channel
-http://xxip25.top:8080/zC3Eby/245776/9244
+http://fl7.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="OutsideTelevision.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" tvg-name="OUTSIDE TV",OUTSIDE TV
 http://xxip25.top:8080/zC3Eby/245776/20865
 #EXTINF:-1 group-title="Entertainment" tvg-id="Ovation.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" tvg-name="Ovation",Ovation
-http://toh-users.xyz:8080/FTWZ8YmnZ/40J7a8zRkq/999467
+http://fl7.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" tvg-name="Oxygen",Oxygen
 http://xxip25.top:8080/zC3Eby/245776/9245
 #EXTINF:-1 group-title="Entertainment" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" tvg-name="Paramount Network",Paramount Network
@@ -403,6 +415,7 @@ http://xxip25.top:8080/zC3Eby/245776/9237
 http://xxip25.top:8080/zC3Eby/245776/10477
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://xxip25.top:8080/zC3Eby/245776/57972
+
 
 
 
