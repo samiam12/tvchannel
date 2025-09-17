@@ -47,8 +47,6 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2663
 http://fl7.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="bet.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" tvg-name="BET",BET
 https://streamer1.nexgen.bz/BET/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="betgospel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" tvg-name="BET GOSPEL",BET GOSPEL
-http://fl7.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="bether.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" tvg-name="BET HER",BET HER
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2665
 #EXTINF:-1 group-title="Entertainment" tvg-id="betjams.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET Jams
@@ -211,7 +209,7 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2742
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2744
 #EXTINF:-1 tvg-id="fubomlbextrainningskansascityroyals.us" tvg-name="Kansas City Royals" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/MLB/Kansas_City_Royals.svg.png" group-title="Sports", Kansas City Royals
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10334
-#EXTINF:-1 group-title="Entertainment" tvg-id="laff.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" tvg-name="Laff TV",Laff TV
+#EXTINF:-1 group-title="Entertainment" tvg-id="lafftv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" tvg-name="Laff TV",Laff TV
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10268
 #EXTINF:-1 group-title="Movies" tvg-id="lifetimenetwork.uss" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" tvg-name="Lifetime",Lifetime
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2745
@@ -275,22 +273,32 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2759
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2760
 #EXTINF:-1 group-title="Sports" tvg-id="nbatv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2927
-#EXTINF:-1 group-title="News" tvg-id="nbcwnbc.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="NBC",NBC
+#EXTINF:-1 group-title="News" tvg-id="nbcwnbc.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="WNBC",WNBC
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/5270
 #EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://play-lh.googleusercontent.com/Tb2x4l2dlgyZYOUUEWlprQiu279mBQ4_fh8vVSProE9hpwUdTBjV8hr29znZ7N7hLZ4" group-title="Sports",NBC Sports Bay Area
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2929
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="NBCSN Boston" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nbcsn-boston-us.png" group-title="Sports",NBCSN Boston
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2930
 #EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://play-lh.googleusercontent.com/Tb2x4l2dlgyZYOUUEWlprQiu279mBQ4_fh8vVSProE9hpwUdTBjV8hr29znZ7N7hLZ4" group-title="Sports",NBC Sports California
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2931
 #EXTINF:-1 tvg-id="nbcsportschicagoplus.us" tvg-name="NBC Sports Chicago Plus" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/NBC-sports-Chicago-logo.png" group-title="Sports",NBC Sports Chicago Plus
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2933
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="NBCSN Philadelphia" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nbcsn-philadelphia-us.png" group-title="Sports",NBCSN Philadelphia
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2935
+#EXTINF:-1 tvg-id="nbcsportsphiladelphiaplus.us" tvg-name="NBCSN Philadelphia Plus" tvg-logo="http://iptvboss.xyz/logos/USA/NBCSportsPhiladelphiaPlus.us.png" group-title="Sports",NBCSN Philadelphia Plus
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2936
+#EXTINF:-1 tvg-id="NBCSportsWashington.us" tvg-name="NBCSN Washington" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nbcsn-washington-us.png" group-title="Sports",NBCSN Washington
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2937
 #EXTINF:-1 tvg-id="fubomlbextrainningsnewyorkmets.us" tvg-name="New York Mets" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/MLB/New_York_Mets.svg.png" group-title="Sports",New York Mets
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10340
 #EXTINF:-1 tvg-id="fubomlbextrainningsnewyorkyankees.us" tvg-name="New York Yankees" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/MLB/NewYorkYankees_PrimaryLogo.svg.png" group-title="Sports",New York Yankees
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10341
 #EXTINF:-1 group-title="News" tvg-id="newsnation.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" tvg-name="NewsNation",NewsNation
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10002
-#EXTINF:-1 tvg-id="nesn.us" tvg-name="NESN" tvg-logo="https://s47719.pcdn.co/wp-content/uploads/sites/5/2021/02/nesn_logo.png" group-title="Sports",NESN
+#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="NESN" tvg-logo="https://s47719.pcdn.co/wp-content/uploads/sites/5/2021/02/nesn_logo.png" group-title="Sports",NESN
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2938
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="NESN Plus" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nesn-plus-us.png" group-title="Sports",NESN Plus
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2939
 #EXTINF:-1 tvg-id="n12news12newjersey.us" tvg-name="News12 NewJersey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News12 NewJersey
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/74087
 #EXTINF:-1 group-title="Sports" tvg-id="NFL1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 1",NFL 1
@@ -397,8 +405,10 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2796
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2952
 #EXTINF:-1 tvg-id="sportsnetpittsburgh.us" tvg-name="SportsNet Pittsburgh" tvg-logo="https://getsnp360.com/wp-content/uploads/sites/9/2023/11/PRIMARY_ICON_SQUARE_2048x2048.png" group-title="Sports",SportsNet Pittsburgh
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/27990
-#EXTINF:-1 tvg-id="SpectrumSportsNetLADodgers.us" tvg-name="Spectrum Sportsnet LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Spectrum_Sportsnet_LA.svg" group-title="Sports",Spectrum Sportsnet LA
+#EXTINF:-1 tvg-id="SpectrumSportsNetLADodgers.us" tvg-name="Spectrum Sportsnet Dodgers" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/spectrum-sportsnet-la-us.png" group-title="Sports",Spectrum Sportsnet Dodgers
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8424
+#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="Spectrum Sportsnet Lakers" tvg-logo="http://iptvboss.xyz/logos/USA/SpectrumSportsNetLALakers.us.png" group-title="USports",Spectrum Sportsnet Lakers
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8425
 #EXTINF:-1 group-title="Sports" tvg-id="stadium.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",Stadium
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2953
 #EXTINF:-1 group-title="Entertainment" tvg-id="starttv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",Start TV
@@ -475,6 +485,7 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2859
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2959
 #EXTINF:-1 group-title="Sports" tvg-id="yesnetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/11140
+
 
 
 
