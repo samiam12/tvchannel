@@ -447,6 +447,26 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2955
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2823
 #EXTINF:-1 group-title="Entertainment" tvg-id="tnt.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2956
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT Sport 01" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports1.uk.png" group-title="Sports",TNT Sport 01
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7041
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="TNT Sport 02" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports2.uk.png" group-title="Sports",TNT Sport 02
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7044
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="TNT Sport 03" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports3.uk.png" group-title="Sports",TNT Sport 03
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7048
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="TNT Sport 04" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports4.uk.png" group-title="Sports",TNT Sport 04
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/76268
+#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="TNT Sport 05" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports5.uk.png" group-title="Sports",TNT Sport 05
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/76269
+#EXTINF:-1 tvg-id="tntsports6.uk" tvg-name="TNT Sport 06" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports6.uk.png" group-title="Sports",TNT Sport 06
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/76270
+#EXTINF:-1 tvg-id="tntsports7.uk" tvg-name="TNT Sport 07" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports7.uk.png" group-title="Sports",TNT Sport 07
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7057
+#EXTINF:-1 tvg-id="tntsports8.uk" tvg-name="TNT Sport 08" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports8.uk.png" group-title="Sports",TNT Sport 08
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7058
+#EXTINF:-1 tvg-id="tntsports9.uk" tvg-name="TNT Sport 09" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports9.uk.png" group-title="Sports",TNT Sport 09
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7059
+#EXTINF:-1 tvg-id="tntsports10.uk" tvg-name="TNT Sport 10" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports10.uk.png" group-title="Sports",TNT Sport 10
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7060
 #EXTINF:-1 tvg-id="fubomlbextrainningstorontobluejays.us" tvg-name="Toronto Blue Jays" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/MLB/Toronto_Blue_Jays_logo.svg.png" group-title="Sports",Toronto Blue Jays
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10351
 #EXTINF:-1 group-title="Documentary" tvg-id="travelchannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
@@ -467,6 +487,8 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2295
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2842
 #EXTINF:-1 group-title="Entertainment" tvg-id="tvone.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2844
+#EXTINF:-1 tvg-id="tudn.us" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tudn-us.png" group-title="Sports",TUDN
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7297
 #EXTINF:-1 group-title="Entertainment" tvg-id="usanetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2853
 #EXTINF:-1 group-title="Entertainment" tvg-id="vh1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1",VH1
@@ -485,6 +507,7 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2859
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2959
 #EXTINF:-1 group-title="Sports" tvg-id="yesnetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/11140
+
 
 
 
