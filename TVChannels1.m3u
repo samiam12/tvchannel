@@ -245,7 +245,7 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10338
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10339
 #EXTINF:-1 group-title="Sports" tvg-id="mlbnetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-name="MLB Network",MLB Network
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2921
-#EXTINF:-1 tvg-id="mlbstrikezone.us" tvg-name="mlbstrikezone.us" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/mlb-network-strike-zone-us.png" group-title="Sports",MLB Strike Zone
+#EXTINF:-1 tvg-id="mlbstrikezone.us" tvg-name="MLB Strike Zone" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/mlb-network-strike-zone-us.png" group-title="Sports",MLB Strike Zone
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/4238
 #EXTINF:-1 group-title="Entertainment" tvg-id="motortrend.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" tvg-name="MotorTrend",MotorTrend
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2922
@@ -301,36 +301,38 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2938
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2939
 #EXTINF:-1 tvg-id="n12news12newjersey.us" tvg-name="News12 NewJersey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News12 NewJersey
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/74087
-#EXTINF:-1 group-title="Sports" tvg-id="NFL1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 1",NFL 1
-https://fl7.moveonjoy.com/NFL_1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 2",NFL 2
-https://fl7.moveonjoy.com/NFL_2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL3.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 3",NFL 3
-https://fl7.moveonjoy.com/NFL_3/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL4.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 4",NFL 4
-https://fl7.moveonjoy.com/NFL_4/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL5.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 5",NFL 5
-https://fl7.moveonjoy.com/NFL_5/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL6.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 6",NFL 6
-https://fl7.moveonjoy.com/NFL_6/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL7.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 7",NFL 7
-https://fl7.moveonjoy.com/NFL_7/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL8.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 8",NFL 8
-https://fl7.moveonjoy.com/NFL_8/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL9.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 9",NFL 9
-https://fl7.moveonjoy.com/NFL_9/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL10.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 10",NFL 10
-https://fl7.moveonjoy.com/NFL_10/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL11.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 11",NFL 11
-https://fl7.moveonjoy.com/NFL_11/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL12.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 12",NFL 12
-https://fl7.moveonjoy.com/NFL_12/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL13.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 13",NFL 13
-https://fl7.moveonjoy.com/NFL_13/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL14.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 14",NFL 14
-https://fl7.moveonjoy.com/NFL_14/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="NFL15.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL 15",NFL 15
-https://fl7.moveonjoy.com/NFL_15/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="NFL1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 1",NFL 1
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8386
+#EXTINF:-1 group-title="Sports" tvg-id="NFL2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 2",NFL 2
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8388
+#EXTINF:-1 group-title="Sports" tvg-id="NFL3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 3",NFL 3
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8390
+#EXTINF:-1 group-title="Sports" tvg-id="NFL4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 4",NFL 4
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8392
+#EXTINF:-1 group-title="Sports" tvg-id="NFL5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 5",NFL 5
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8394
+#EXTINF:-1 group-title="Sports" tvg-id="NFL6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 6",NFL 6
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8396
+#EXTINF:-1 group-title="Sports" tvg-id="NFL7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 7",NFL 7
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8398
+#EXTINF:-1 group-title="Sports" tvg-id="NFL8.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 8",NFL 8
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8400
+#EXTINF:-1 group-title="Sports" tvg-id="NFL9.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 9",NFL 9
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8402
+#EXTINF:-1 group-title="Sports" tvg-id="NFL10.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 10",NFL 10
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8404
+#EXTINF:-1 group-title="Sports" tvg-id="NFL11.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 11",NFL 11
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8406
+#EXTINF:-1 group-title="Sports" tvg-id="NFL12.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 12",NFL 12
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8408
+#EXTINF:-1 group-title="Sports" tvg-id="NFL13.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 13",NFL 13
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8410
+#EXTINF:-1 group-title="Sports" tvg-id="NFL14.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 14",NFL 14
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8412
+#EXTINF:-1 group-title="Sports" tvg-id="NFL15.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 15",NFL 15
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8414
+#EXTINF:-1 group-title="Sports" tvg-id="NFL16.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 16",NFL 16
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/8416
 #EXTINF:-1 group-title="Sports" tvg-id="nflnetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL Network",NFL Network
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2940
 #EXTINF:-1 group-title="Sports" tvg-id="nflredzone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-name="NFL RedZone",NFL RedZone
@@ -507,6 +509,7 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2859
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2959
 #EXTINF:-1 group-title="Sports" tvg-id="yesnetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/11140
+
 
 
 
