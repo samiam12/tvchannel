@@ -445,6 +445,8 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2817
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10350
 #EXTINF:-1 group-title="Sports" tvg-id="tennischannel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2955
+#EXTINF:-1 tvg-id="telewnju.us" tvg-name="Telemundo (WNJU) Linden NJ" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/telemundo-us.png" group-title="Español",Telemundo (WNJU) Linden NJ
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/5335
 #EXTINF:-1 group-title="Documentary" tvg-id="tlc.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-name="TLC",TLC
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2823
 #EXTINF:-1 group-title="Entertainment" tvg-id="tnt.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
@@ -489,7 +491,7 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2295
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2842
 #EXTINF:-1 group-title="Entertainment" tvg-id="tvone.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2844
-#EXTINF:-1 tvg-id="tudn.us" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tudn-us.png" group-title="Sports",TUDN
+#EXTINF:-1 tvg-id="tudn.us" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tudn-us.png" group-title="Español",TUDN
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7297
 #EXTINF:-1 group-title="Entertainment" tvg-id="usanetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2853
@@ -509,6 +511,9 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2859
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2959
 #EXTINF:-1 group-title="Sports" tvg-id="yesnetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/11140
+#EXTINF:-1 tvg-id="univisionwxtv.us" tvg-name="Univision(WXTV) Paterson NJ" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
+http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/5370
+
 
 
 
