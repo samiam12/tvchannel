@@ -19,32 +19,14 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/21630
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10323
 #EXTINF:-1 tvg-id="AtlantaBraves.mlb" tvg-name="Atlanta Braves" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/MLB/Atlanta_Braves.svg.png" group-title="Sports",Atlanta Braves
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10324
+#EXTINF:-1 tvg-id="altitudesports.us" tvg-name="Altitude Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Logo-Altitude-Sports.png" group-title="Sports",Altitude Sports
+https://restream-live.realiptv.to:443/pablo/d2a0996643/332892
+#EXTINF:-1 tvg-id="azfamilysportsnetwork.us" tvg-name="AZ Family Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Arizona%27s_Family_Sports_Logo.jpg" group-title="Sports",AZ Family Sports Network
+https://restream-live.realiptv.to:443/pablo/d2a0996643/38298
 #EXTINF:-1 tvg-id="at&tsportsnetsouthwest.us" tvg-name="AT&T SportsNet Southwest" tvg-logo="https://www.tvguide.com/a/img/resize/79d92d382d5405afc216b7be0ceae94c93b3aae6/hub/2024/10/30/c663b222-9ed1-4611-9955-441f2c506c5e/attsportsnetlogo.jpg?auto=webp" group-title="Sports",AT&T SportsNet Southwest
 https://restream-live.realiptv.to:443/pablo/d2a0996643/149311
 #EXTINF:-1 tvg-id="BaltimoreOrioles.mlb" tvg-name="Baltimore Orioles" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/MLB/Baltimore_Orioles_Script.svg.png" group-title="Sports",Baltimore Orioles
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10325
-#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="Bally Sports Detroit" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/qbfqemucswdzxzejkedo.jpg" group-title="Sports",Bally Sports Detroit
-https://restream-live.realiptv.to:443/pablo/d2a0996643/663205
-#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="Bally Sports Florida" tvg-logo="https://teammarketing.com/wp-content/uploads/2021/03/Bally-Sports-Florida-Sun-Logo.png" group-title="Sports",Bally Sports Florida
-https://restream-live.realiptv.to:443/pablo/d2a0996643/663208
-#EXTINF:-1 tvg-id="ballysportsgreatlakes.us" tvg-name="Bally Sports Great Lakes" tvg-logo="https://teammarketing.com/wp-content/uploads/2019/01/Bally-Sports-Ohio-Great-Lakes-Logo.png" group-title="Sports",Bally Sports Great Lakes
-https://restream-live.realiptv.to:443/pablo/d2a0996643/663213
-#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="Bally Sports Midwest" tvg-logo="https://teammarketing.com/wp-content/uploads/2019/11/Bally-Sports-Midwest-Logo.png" group-title="Sports",Bally Sports Midwest
-https://restream-live.realiptv.to:443/pablo/d2a0996643/663221
-#EXTINF:-1 tvg-id="ballysportsnorth.us" tvg-name="Bally Sports North" tvg-logo="https://teammarketing.com/wp-content/uploads/2019/01/Bally-Sports-North-Logo.png" group-title="Sports",Bally Sports North
-https://restream-live.realiptv.to:443/pablo/d2a0996643/2519
-#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="Bally Sports Ohio" tvg-logo="https://teammarketing.com/wp-content/uploads/2019/01/Bally-Sports-Ohio-Great-Lakes-Logo.png" group-title="Sports",Bally Sports Ohio
-https://restream-live.realiptv.to:443/pablo/d2a0996643/663237
-#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="Bally Sports South" tvg-logo="https://teammarketing.com/wp-content/uploads/2019/09/Bally-Sports-South-Southeast-Logo.png" group-title="Sports",Bally Sports South
-https://restream-live.realiptv.to:443/pablo/d2a0996643/663172
-#EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-name="Bally Sports Southwest" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-1DP9o3o8o-aSWKBcS-xVlkbjapLDVTIRoQ&s" group-title="Sports",Bally Sports Southwest
-https://restream-live.realiptv.to:443/pablo/d2a0996643/663145
-#EXTINF:-1 tvg-id="ballysportssun.us" tvg-name="Bally Sports Sun" tvg-logo="https://teammarketing.com/wp-content/uploads/2021/03/Bally-Sports-Florida-Sun-Logo.png" group-title="Sports",Bally Sports Sun
-https://restream-live.realiptv.to:443/pablo/d2a0996643/663153
-#EXTINF:-1 tvg-id="ballysportswest.us" tvg-name="Bally Sports West" tvg-logo="https://teammarketing.com/wp-content/uploads/2021/03/Bally-Sports-West-SoCal-San-Diego-Logo.jpg" group-title="Sports",Bally Sports West
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3788
-#EXTINF:-1 tvg-id="ballysportswisconsin.us" tvg-name="Bally Sports Wisconsin" tvg-logo="https://teammarketing.com/wp-content/uploads/2021/04/Bally-Sports-Wisconsin-Logo.png" group-title="Sports",Bally Sports Wisconsin
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3787
 #EXTINF:-1 group-title="Entertainment" tvg-id="bbcamerica.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3610
 #EXTINF:-1 group-title="News" tvg-id="bbcworldnewsnorthamerica.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS",BBC WORLD NEWS
@@ -155,6 +137,34 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3637
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3640
 #EXTINF:-1 group-title="Sports" tvg-id="espnu.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" tvg-name="ESPN U",ESPN U
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3638
+#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="FanDuel Sports Detroit" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Detroit
+https://restream-live.realiptv.to:443/pablo/d2a0996643/3781
+#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="FanDuel Sports Florida" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Florida
+https://restream-live.realiptv.to:443/pablo/d2a0996643/2527
+#EXTINF:-1 tvg-id="ballysportsgreatlakes.us" tvg-name="FanDuel Sports Great Lakes" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Great Lakes
+https://restream-live.realiptv.to:443/pablo/d2a0996643/3803
+#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="FanDuel Sports Midwest" tvg-logo="https://teammarketing.com/wp-content/uploads/2019/11/Bally-Sports-Midwest-Logo.png" group-title="Sports",FanDuel Sports Midwest
+https://restream-live.realiptv.to:443/pablo/d2a0996643/3784
+#EXTINF:-1 tvg-id="ballysportsnorth.us" tvg-name="FanDuel Sports North" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports North
+https://restream-live.realiptv.to:443/pablo/d2a0996643/3783
+#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="FanDuel Sports Ohio" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Ohio
+https://restream-live.realiptv.to:443/pablo/d2a0996643/626324
+#EXTINF:-1 tvg-id="ballysportsindiana.us" tvg-name="FanDuel Sports Indiana" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Ohio
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214231
+#EXTINF:-1 tvg-id="ballysportsneworleans.us" tvg-name="FanDuel Sports New Orleans" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Ohio
+https://restream-live.realiptv.to:443/pablo/d2a0996643/56581
+#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="Fanduel Sports South" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",Bally Sports South
+https://restream-live.realiptv.to:443/pablo/d2a0996643/2513
+#EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-name="Fanduel Sports Southwest" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southwest
+https://restream-live.realiptv.to:443/pablo/d2a0996643/663270
+#EXTINF:-1 tvg-id="ballysportssoutheast.us" tvg-name="Fanduel Sports Southeast" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southwest
+https://restream-live.realiptv.to:443/pablo/d2a0996643/2512
+#EXTINF:-1 tvg-id="ballysportssun.us" tvg-name="FanDuel Sports Sun" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Sun
+https://restream-live.realiptv.to:443/pablo/d2a0996643/3788
+#EXTINF:-1 tvg-id="ballysportswest.us" tvg-name="FanDuel Sports West" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports West
+https://restream-live.realiptv.to:443/pablo/d2a0996643/2507
+#EXTINF:-1 tvg-id="ballysportswisconsin.us" tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Wisconsin
+https://restream-live.realiptv.to:443/pablo/d2a0996643/2506
 #EXTINF:-1 group-title="Entertainment" tvg-id="foodnetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" tvg-name="FOOD NETWORK",FOOD NETWORK
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3644
 #EXTINF:-1 group-title="News" tvg-id="foxwnywny.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX 5(WNYW)
@@ -219,6 +229,8 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3633
 https://restream-live.realiptv.to:443/pablo/d2a0996643/74682
 #EXTINF:-1 group-title="Entertainment" tvg-id="ion.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-name="ION",ION
 https://restream-live.realiptv.to:443/pablo/d2a0996643/555699
+#EXTINF:-1 tvg-id="kjzztv.us" tvg-name="KJZZ-TV (Utah Jazz)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/KJZZ_14_logo_2013.png/250px-KJZZ_14_logo_2013.png" group-title="Sports",KJZZ-TV (Utah Jazz)
+https://restream-live.realiptv.to:443/pablo/d2a0996643/332892
 #EXTINF:-1 tvg-id="fubomlbextrainningskansascityroyals.us" tvg-name="Kansas City Royals" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/MLB/Kansas_City_Royals.svg.png" group-title="Sports", Kansas City Royals
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10334
 #EXTINF:-1 group-title="Entertainment" tvg-id="lafftv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" tvg-name="Laff TV",Laff TV
@@ -293,8 +305,6 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/2436
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2435
 #EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="NBC Sports California" tvg-logo="https://play-lh.googleusercontent.com/Tb2x4l2dlgyZYOUUEWlprQiu279mBQ4_fh8vVSProE9hpwUdTBjV8hr29znZ7N7hLZ4" group-title="Sports",NBC Sports California
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3821
-#EXTINF:-1 tvg-id="nbcsportschicagoplus.us" tvg-name="NBC Sports Chicago Plus" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/NBC-sports-Chicago-logo.png" group-title="Sports",NBC Sports Chicago Plus
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3771
 #EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="NBCSN Philadelphia" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nbcsn-philadelphia-us.png" group-title="Sports",NBCSN Philadelphia
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3769
 #EXTINF:-1 tvg-id="nbcsportsphiladelphiaplus.us" tvg-name="NBCSN Philadelphia Plus" tvg-logo="http://iptvboss.xyz/logos/USA/NBCSportsPhiladelphiaPlus.us.png" group-title="Sports",NBCSN Philadelphia Plus
@@ -553,6 +563,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="univisionwxtv.us" tvg-name="Univision(WXTV) Paterson NJ" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
