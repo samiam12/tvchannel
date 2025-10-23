@@ -44,7 +44,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/4443
 #EXTINF:-1 group-title="News" tvg-id="bnn.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-name="BLOOMBERG",BLOOMBERG
 http://fl7.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",Boomerang
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3615
+https://restream-live.realiptv.to:443/pablo/d2a0996643/3616
 #EXTINF:-1 group-title="Entertainment" tvg-id="bouncetv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",Bounce
 https://streamer1.nexgen.bz/BOUNCE/index.m3u8
 #EXTINF:-1 tvg-id="BostonRedSox.mlb" tvg-name="Boston Red Sox" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/MLB/RedSoxPrimary_HangingSocks.svg.png" group-title="Sports",Boston Red Sox
@@ -362,7 +362,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3671
 #EXTINF:-1 group-title="Sports" tvg-id="nhlnetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" tvg-name="NHL Network",NHL Network
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3672
 #EXTINF:-1 group-title="Kids" tvg-id="nickelodeon.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",Nickelodeon
-https://restream-live.realiptv.to:443/pablo/d2a0996643/648956
+https://restream-live.realiptv.to:443/pablo/d2a0996643/3673
 #EXTINF:-1 group-title="Kids" tvg-id="nickjr.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" tvg-name="NickJr",NickJr
 https://restream-live.realiptv.to:443/pablo/d2a0996643/74691
 #EXTINF:-1 group-title="Kids" tvg-id="nickmusic.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" tvg-name="NickMusic USA",NickMusic USA
@@ -563,6 +563,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="univisionwxtv.us" tvg-name="Univision(WXTV) Paterson NJ" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
