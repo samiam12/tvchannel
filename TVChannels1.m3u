@@ -323,6 +323,30 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/149310
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2425
 #EXTINF:-1 tvg-id="n12news12newjersey.us" tvg-name="News12 NewJersey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News12 NewJersey
 https://restream-live.realiptv.to:443/pablo/d2a0996643/75361
+#EXTINF:-1 tvg-id="89729" tvg-name="NBA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 1
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214171
+#EXTINF:-1 tvg-id="89730" tvg-name="NBA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 2
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214172
+#EXTINF:-1 tvg-id="89731" tvg-name="NBA 3 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 3
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214173
+#EXTINF:-1 tvg-id="89732" tvg-name="NBA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 4
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214174
+#EXTINF:-1 tvg-id="89733" tvg-name="NBA 5" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 5
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214175
+#EXTINF:-1 tvg-id="89734" tvg-name="NBA 6" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 6
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214176
+#EXTINF:-1 tvg-id="89735" tvg-name="NBA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 7
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214177
+#EXTINF:-1 tvg-id="89736" tvg-name="NBA 8" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 08
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214178
+#EXTINF:-1 tvg-id="89737" tvg-name="NBA 9" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 09
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214179
+#EXTINF:-1 tvg-id="89738" tvg-name="NBA 10" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 10
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214180
+#EXTINF:-1 tvg-id="89739" tvg-name="NBA 11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 11
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214181
+#EXTINF:-1 tvg-id="89740" tvg-name="NBA 12" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 12
+https://restream-live.realiptv.to:443/pablo/d2a0996643/214182
 #EXTINF:-1 group-title="Sports" tvg-id="NFL1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 1",NFL 1 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3913
 #EXTINF:-1 group-title="Sports" tvg-id="NFL2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 2",NFL 2
@@ -563,6 +587,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="univisionwxtv.us" tvg-name="Univision(WXTV) Paterson NJ" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
