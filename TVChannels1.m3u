@@ -155,6 +155,8 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/214231
 https://restream-live.realiptv.to:443/pablo/d2a0996643/56581
 #EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="Fanduel Sports South" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",Bally Sports South
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2513
+#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="USA FanDuel Sports Socal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FanDuel_Sports_Network_SoCal_logo.svg/1200px-FanDuel_Sports_Network_SoCal_logo.svg.png" group-title="Sports",USA FanDuel Sports Socal
+https://restream-live.realiptv.to:443/pablo/d2a0996643/663253
 #EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-name="Fanduel Sports Southwest" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southwest
 https://restream-live.realiptv.to:443/pablo/d2a0996643/663270
 #EXTINF:-1 tvg-id="ballysportssoutheast.us" tvg-name="Fanduel Sports Southeast" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southwest
@@ -587,6 +589,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="univisionwxtv.us" tvg-name="Univision(WXTV) Paterson NJ" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
