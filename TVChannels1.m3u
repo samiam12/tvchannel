@@ -23,7 +23,7 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10324
 https://restream-live.realiptv.to:443/pablo/d2a0996643/332892
 #EXTINF:-1 tvg-id="azfamilysportsnetwork.us" tvg-name="AZ Family Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Arizona%27s_Family_Sports_Logo.jpg" group-title="Sports",AZ Family Sports Network
 https://restream-live.realiptv.to:443/pablo/d2a0996643/38298
-#EXTINF:-1 tvg-id="at&tsportsnetsouthwest.us" tvg-name="AT&T SportsNet Southwest" tvg-logo="https://www.tvguide.com/a/img/resize/79d92d382d5405afc216b7be0ceae94c93b3aae6/hub/2024/10/30/c663b222-9ed1-4611-9955-441f2c506c5e/attsportsnetlogo.jpg?auto=webp" group-title="Sports",AT&T SportsNet Southwest
+#EXTINF:-1 tvg-id="ATTSWHD.us" tvg-name="AT&T SportsNet Southwest" tvg-logo="https://www.tvguide.com/a/img/resize/79d92d382d5405afc216b7be0ceae94c93b3aae6/hub/2024/10/30/c663b222-9ed1-4611-9955-441f2c506c5e/attsportsnetlogo.jpg?auto=webp" group-title="Sports",AT&T SportsNet Southwest
 https://restream-live.realiptv.to:443/pablo/d2a0996643/149311
 #EXTINF:-1 tvg-id="BaltimoreOrioles.mlb" tvg-name="Baltimore Orioles" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/MLB/Baltimore_Orioles_Script.svg.png" group-title="Sports",Baltimore Orioles
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10325
@@ -649,6 +649,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="univision41wxtv.us" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
