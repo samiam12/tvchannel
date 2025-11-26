@@ -273,7 +273,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3661
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2480
 #EXTINF:-1 group-title="Entertainment" tvg-id="motortrend.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" tvg-name="MotorTrend",MotorTrend
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3662
-#EXTINF:-1 group-title="Entertainment" tvg-id="msgsnplus.us tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG",MSG
+#EXTINF:-1 group-title="Entertainment" tvg-id="msgsnplus.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG",MSG
 https://restream-live.realiptv.to:443/pablo/d2a0996643/4435
 #EXTINF:-1 group-title="News" tvg-id="msnbc.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" tvg-name="MSNBC",MSNBC
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3663
@@ -311,7 +311,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3821
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3769
 #EXTINF:-1 tvg-id="nbcsportsphiladelphiaplus.us" tvg-name="NBCSN Philadelphia Plus" tvg-logo="http://iptvboss.xyz/logos/USA/NBCSportsPhiladelphiaPlus.us.png" group-title="Sports",NBCSN Philadelphia Plus
 https://restream-live.realiptv.to:443/pablo/d2a0996643/50965
-#EXTINF:-1 tvg-id="NBCSportsWashington.us" tvg-name="NBCSN Washington" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nbcsn-washington-us.png" group-title="Sports",NBCSN Washington
+#EXTINF:-1 tvg-id="nbcsportnwashington.us" tvg-name="NBCSN Washington" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nbcsn-washington-us.png" group-title="Sports",NBCSN Washington
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3770
 #EXTINF:-1 tvg-id="fubomlbextrainningsnewyorkmets.us" tvg-name="New York Mets" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/MLB/New_York_Mets.svg.png" group-title="Sports",New York Mets
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10340
@@ -349,66 +349,6 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/214180
 https://restream-live.realiptv.to:443/pablo/d2a0996643/214181
 #EXTINF:-1 tvg-id="89740" tvg-name="NBA 12" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 12
 https://restream-live.realiptv.to:443/pablo/d2a0996643/214182
-#EXTINF:-1 tvg-id="AtlantaHawks.nba" tvg-name="NBA: ATLANTA HAWKS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/atlanta-hawks.png" group-title="NBA",NBA: ATLANTA HAWKS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2316
-#EXTINF:-1 tvg-id="BostonCeltics.nba" tvg-name="NBA: BOSTON CELTICS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/boston-celtics.png" group-title="NBA",NBA: BOSTON CELTICS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2317
-#EXTINF:-1 tvg-id="BrooklynNets.nba" tvg-name="NBA: BROOKLYN NETS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/brooklyn-nets.png" group-title="NBA",NBA: BROOKLYN NETS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2318
-#EXTINF:-1 tvg-id="CharlotteHornets.nba" tvg-name="NBA: CHARLOTTE HORNETS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/charlotte-hornets.png" group-title="NBA",NBA: CHARLOTTE HORNETS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2319
-#EXTINF:-1 tvg-id="ChicagoBulls.nba" tvg-name="NBA: CHICAGO BULLS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/chicago-bulls.png" group-title="NBA",NBA: CHICAGO BULLS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2320
-#EXTINF:-1 tvg-id="ClevelandCavaliers.nba" tvg-name="NBA: CLEVELAND CAVALIERS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/cleveland-cavaliers.png" group-title="NBA",NBA: CLEVELAND CAVALIERS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2321
-#EXTINF:-1 tvg-id="DallasMavericks.nba" tvg-name="NBA: DALLAS MAVERICKS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/dallas-mavericks.png" group-title="NBA",NBA: DALLAS MAVERICKS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2322
-#EXTINF:-1 tvg-id="DenverNuggets.nba" tvg-name="NBA: DENVER NUGGETS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/denver-nuggets.png" group-title="NBA",NBA: DENVER NUGGETS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2323
-#EXTINF:-1 tvg-id="DetroitPistons.nba" tvg-name="NBA: DETROIT PISTONS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/detroit-pistons.png" group-title="NBA",NBA: DETROIT PISTONS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2324
-#EXTINF:-1 tvg-id="GoldenStateWarriors.nba" tvg-name="NBA: GOLDEN STATE WARRIORS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/golden-state-warriors.png" group-title="NBA",NBA: GOLDEN STATE WARRIORS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2325
-#EXTINF:-1 tvg-id="HoustonRockets.nba" tvg-name="NBA: HOUSTON ROCKETS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/houston-rockets.png" group-title="NBA",NBA: HOUSTON ROCKETS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2326
-#EXTINF:-1 tvg-id="IndianaPacers.nba" tvg-name="NBA: INDIANA PACERS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/indiana-pacers.png" group-title="NBA",NBA: INDIANA PACERS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2327
-#EXTINF:-1 tvg-id="LosAngelesClippers.nba" tvg-name="NBA: LOS ANGELES CLIPPERS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/la-clippers.png" group-title="NBA",NBA: LOS ANGELES CLIPPERS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2328
-#EXTINF:-1 tvg-id="LosAngelesLakers.nba" tvg-name="NBA: LOS ANGELES LAKERS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/los-angeles-lakers.png" group-title="NBA",NBA: LOS ANGELES LAKERS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2329
-#EXTINF:-1 tvg-id="MemphisGrizzlies.nba" tvg-name="NBA: MEMPHIS GRIZZLIES" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/memphis-grizzlies.png" group-title="NBA",NBA: MEMPHIS GRIZZLIES
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2330
-#EXTINF:-1 tvg-id="MiamiHeat.nba" tvg-name="NBA: MIAMI HEAT" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/miami-heat.png" group-title="NBA",NBA: MIAMI HEAT
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2331
-#EXTINF:-1 tvg-id="MilwaukeeBucks.nba" tvg-name="NBA: MILWAUKEE BUCKS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/milwaukee-bucks.png" group-title="NBA",NBA: MILWAUKEE BUCKS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2332
-#EXTINF:-1 tvg-id="MinnesotaTimberwolves.nba" tvg-name="NBA: MINNESOTA TIMBERWOLVES" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/minnesota-timberwolves.png" group-title="NBA",NBA: MINNESOTA TIMBERWOLVES
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2333
-#EXTINF:-1 tvg-id="NewOrleansPelicans.nba" tvg-name="NBA: NEW ORLEANS PELICANS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/new-orleans-pelicans.png" group-title="NBA",NBA: NEW ORLEANS PELICANS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2334
-#EXTINF:-1 tvg-id="NewYorkKnicks.nba" tvg-name="NBA: NEW YORK KNICKS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/new-york-knicks.png" group-title="NBA",NBA: NEW YORK KNICKS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2335
-#EXTINF:-1 tvg-id="OklahomaCityThunder.nba" tvg-name="NBA: OKLAHOMA CITY THUNDER" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/oklahoma-city-thunder.png" group-title="NBA",NBA: OKLAHOMA CITY THUNDER
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2336
-#EXTINF:-1 tvg-id="OrlandoMagic.nba" tvg-name="NBA: ORLANDO MAGIC" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/orlando-magic.png" group-title="NBA",NBA: ORLANDO MAGIC
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2337
-#EXTINF:-1 tvg-id="Philadelphia76ers.nba" tvg-name="NBA: PHILADELPHIA 76ERS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/philadelphia-76ers.png" group-title="NBA",NBA: PHILADELPHIA 76ERS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2338
-#EXTINF:-1 tvg-id="PhoenixSuns.nba" tvg-name="NBA: PHOENIX SUNS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/phoenix-suns.png" group-title="NBA",NBA: PHOENIX SUNS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2339
-#EXTINF:-1 tvg-id="PortlandTrailBlazers.nba" tvg-name="NBA: PORTLAND TRAIL BLAZERS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/portland-trail-blazers.png" group-title="NBA",NBA: PORTLAND TRAIL BLAZERS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2340
-#EXTINF:-1 tvg-id="SacramentoKings.nba" tvg-name="NBA: SACRAMENTO KINGS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/sacramento-kings.png" group-title="NBA",NBA: SACRAMENTO KINGS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2341
-#EXTINF:-1 tvg-id="SanAntonioSpurs.nba" tvg-name="NBA: SAN ANTONIO SPURS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/san-antonio-spurs.png" group-title="NBA",NBA: SAN ANTONIO SPURS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2342
-#EXTINF:-1 tvg-id="TorontoRaptors.nba" tvg-name="NBA: TORONTO RAPTORS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/toronto-raptors.png" group-title="NBA",NBA: TORONTO RAPTORS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2343
-#EXTINF:-1 tvg-id="UtahJazz.nba" tvg-name="NBA: UTAH JAZZ" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/utah-jazz.png" group-title="NBA",NBA: UTAH JAZZ
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2344
-#EXTINF:-1 tvg-id="WashingtonWizards.nba" tvg-name="NBA: WASHINGTON WIZARDS" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/basketball/washington-wizards.png" group-title="NBA",NBA: WASHINGTON WIZARDS
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2345
 #EXTINF:-1 group-title="Sports" tvg-id="NFL1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 1",NFL 1 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3913
 #EXTINF:-1 group-title="Sports" tvg-id="NFL2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 2",NFL 2
@@ -587,26 +527,6 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/527261
 https://restream-live.realiptv.to:443/pablo/d2a0996643/527261
 #EXTINF:-1 group-title="Entertainment" tvg-id="tnt.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3683
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT Sport 01" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports1.uk.png" group-title="Sports",TNT Sport 01
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7041
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="TNT Sport 02" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports2.uk.png" group-title="Sports",TNT Sport 02
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7044
-#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="TNT Sport 03" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports3.uk.png" group-title="Sports",TNT Sport 03
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7048
-#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="TNT Sport 04" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports4.uk.png" group-title="Sports",TNT Sport 04
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/76268
-#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="TNT Sport 05" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports5.uk.png" group-title="Sports",TNT Sport 05
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/76269
-#EXTINF:-1 tvg-id="tntsports6.uk" tvg-name="TNT Sport 06" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports6.uk.png" group-title="Sports",TNT Sport 06
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/76270
-#EXTINF:-1 tvg-id="tntsports7.uk" tvg-name="TNT Sport 07" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports7.uk.png" group-title="Sports",TNT Sport 07
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7057
-#EXTINF:-1 tvg-id="tntsports8.uk" tvg-name="TNT Sport 08" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports8.uk.png" group-title="Sports",TNT Sport 08
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7058
-#EXTINF:-1 tvg-id="tntsports9.uk" tvg-name="TNT Sport 09" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports9.uk.png" group-title="Sports",TNT Sport 09
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7059
-#EXTINF:-1 tvg-id="tntsports10.uk" tvg-name="TNT Sport 10" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/TNTSports10.uk.png" group-title="Sports",TNT Sport 10
-http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/7060
 #EXTINF:-1 tvg-id="fubomlbextrainningstorontobluejays.us" tvg-name="Toronto Blue Jays" tvg-logo="https://turbostarz.xyz/logos/tv-master/misc/sports/MLB/Toronto_Blue_Jays_logo.svg.png" group-title="Sports",Toronto Blue Jays
 http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/10351
 #EXTINF:-1 group-title="Documentary" tvg-id="travel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
@@ -649,6 +569,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="univision41wxtv.us" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
