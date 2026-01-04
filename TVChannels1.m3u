@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://defaultgen.com:5050/xmltv.php?username=darrylrobinson1967@yahoo.com&password=jWagrjYOQx"
 #EXTINF:-1 tvg-id="galavision.eastern.us" tvg-name="LAT: Galavision Atlanta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA LOCALS US / LATIN",LAT: Galavision Atlanta HD
 http://defaultgen.com:5050/darrylrobinson1967@yahoo.com/jWagrjYOQx/410581
 #EXTINF:-1 tvg-id="Galavision.us" tvg-name="LAT: Galavision East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA LOCALS US / LATIN",LAT: Galavision East HD
@@ -3591,3 +3591,4 @@ http://defaultgen.com:5050/darrylrobinson1967@yahoo.com/jWagrjYOQx/419316
 http://defaultgen.com:5050/darrylrobinson1967@yahoo.com/jWagrjYOQx/419317
 #EXTINF:-1 tvg-id="TheMovieChannelExtraWest.us" tvg-name="US: The Movie Channel Extra (West)" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183" group-title="USA MOVIES HD",US: The Movie Channel Extra (West)
 http://defaultgen.com:5050/darrylrobinson1967@yahoo.com/jWagrjYOQx/419318
+
