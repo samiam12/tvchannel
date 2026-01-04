@@ -1,44 +1,38 @@
 #EXTM3U url-tvg="https://restream-live.realiptv.to/xmltv.xml"
 #EXTINF:-1 group-title="Entertainment" tvg-id="aande.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3607
+http://xxip25.top:8080/zC3Eby/245776/59056
 #EXTINF:-1 group-title="News" tvg-id="abcwabc.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
-https://restream-live.realiptv.to:443/pablo/d2a0996643/112234
+http://xxip25.top:8080/zC3Eby/245776/121139
 #EXTINF:-1 group-title="Sports" tvg-id="accnetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
-https://restream-live.realiptv.to:443/pablo/d2a0996643/5287
+http://xxip25.top:8080/zC3Eby/245776/9273
 #EXTINF:-1 group-title="Movies" tvg-id="amc.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3843
+http://xxip25.top:8080/zC3Eby/245776/18925
 #EXTINF:-1 group-title="Entertainment" tvg-id="americanheroeschannel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",American Heroes Channel
-https://restream-live.realiptv.to:443/pablo/d2a0996643/2663
+http://xxip25.top:8080/zC3Eby/245776/10456
 #EXTINF:-1 group-title="Documentary" tvg-id="animalplanet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3609
+http://xxip25.top:8080/zC3Eby/245776/17870
 #EXTINF:-1 group-title="Entertainment" tvg-id="antennatv.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna",Antenna
-https://restream-live.realiptv.to:443/pablo/d2a0996643/544767
+http://xxip25.top:8080/zC3Eby/245776/20180
 #EXTINF:-1 group-title="Entertainment" tvg-id="aspiretv.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
-https://restream-live.realiptv.to:443/pablo/d2a0996643/21630
+http://xxip25.top:8080/zC3Eby/245776/21927
 #EXTINF:-1 tvg-id="altitudesport.us" tvg-name="Altitude Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Logo-Altitude-Sports.png" group-title="Sports",Altitude Sports
-https://restream-live.realiptv.to:443/pablo/d2a0996643/332892
-#EXTINF:-1 tvg-id="azfamilysportsnetwork.us" tvg-name="AZ Family Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Arizona%27s_Family_Sports_Logo.jpg" group-title="Sports",AZ Family Sports Network
-https://restream-live.realiptv.to:443/pablo/d2a0996643/38298
+http://xxip25.top:8080/zC3Eby/245776/79545
 #EXTINF:-1 tvg-id="ATTSWHD.us" tvg-name="Space City Home Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Space_City_Home_Network_Logo.png" group-title="Sports",Space City Home Network
-https://restream-live.realiptv.to:443/pablo/d2a0996643/663927
+http://xxip25.top:8080/zC3Eby/245776/213668
 #EXTINF:-1 group-title="Entertainment" tvg-id="bbcamerica.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3610
-#EXTINF:-1 group-title="News" tvg-id="bbcworldnewsnorthamerica.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS",BBC WORLD NEWS
-https://restream-live.realiptv.to:443/pablo/d2a0996643/2657
+http://xxip25.top:8080/zC3Eby/245776/20194
 #EXTINF:-1 group-title="Entertainment" tvg-id="bet.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" tvg-name="BET",BET
 https://streamer1.nexgen.bz/BET/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="bether.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" tvg-name="BET HER",BET HER
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3946
-#EXTINF:-1 group-title="Entertainment" tvg-id="betjams.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET Jams
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3947
+http://xxip25.top:8080/zC3Eby/245776/137790
 #EXTINF:-1 group-title="Entertainment" tvg-id="betsoul.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" tvg-name="BET SOUL",BET SOUL
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3948
+http://xxip25.top:8080/zC3Eby/245776/21844
 #EXTINF:-1 group-title="Sports" tvg-id="bigtennetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-name="Big Ten Network HD",Big Ten Network HD
-https://restream-live.realiptv.to:443/pablo/d2a0996643/4443
+http://xxip25.top:8080/zC3Eby/245776/9828
 #EXTINF:-1 group-title="News" tvg-id="bloombergtv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-name="BLOOMBERG",BLOOMBERG
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3615
+http://xxip25.top:8080/zC3Eby/245776/15158
 #EXTINF:-1 group-title="Kids" tvg-id="boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",Boomerang
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3616
+http://xxip25.top:8080/zC3Eby/245776/14741
 #EXTINF:-1 group-title="Entertainment" tvg-id="bouncetv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",Bounce
 https://streamer1.nexgen.bz/BOUNCE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="bravo.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO",BRAVO
@@ -46,19 +40,17 @@ https://streamer1.nexgen.bz/BRAVO/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="buzzertv.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="Buzzr",Buzzr
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="cspan.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-name="C-SPAN",C-SPAN
-https://restream-live.realiptv.to:443/pablo/d2a0996643/92792
+http://xxip25.top:8080/zC3Eby/245776/136589
 #EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA Sportsnet East" tvg-logo="https://archive.org/download/SportsnetEast/sportsnet%20east.png" group-title="Sports",CA Sportsnet East
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3072
 #EXTINF:-1 group-title="Kids" tvg-id="cartoonnetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="CARTOON NETWORK",CARTOON NETWORK
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3618
+http://xxip25.top:8080/zC3Eby/245776/46708
 #EXTINF:-1 group-title="News" tvg-id="wcbs.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS New York
-https://restream-live.realiptv.to:443/pablo/d2a0996643/2631
+http://xxip25.top:8080/zC3Eby/245776/120749
 #EXTINF:-1 group-title="Sports" tvg-id="cbssportsnetworkusa.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK",CBS SPORTS NETWORK
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3621
-#EXTINF:-1 group-title="Sports" tvg-id="cbssportsgolazonetwork.us" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/18/image_80849179721695046851257-ygud8tyd.png" tvg-name="CBS SPORTS GOLAZO NETWORK",CBS SPORTS GOLAZO NETWORK
-https://restream-live.realiptv.to:443/pablo/d2a0996643/660925
+http://xxip25.top:8080/zC3Eby/245776/10454
 #EXTINF:-1 group-title="Movies" tvg-id="cinemax.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3622
+http://xxip25.top:8080/zC3Eby/245776/13380
 #EXTINF:-1 tvg-id="5starmax.us" tvg-name="Cinemax 5 Star Max" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/cinemax-5-starmax-us.png" group-title="Movies",Cinemax 5 Star Max
 https://restream-live.realiptv.to:443/pablo/d2a0996643/81384
 #EXTINF:-1 tvg-id="actionmax.us" tvg-name="Cinemax Action" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/cinemax-actionmax-us.png" group-title="Movies",Cinemax Action
@@ -503,6 +495,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="univision41wxtv.us" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
