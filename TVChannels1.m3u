@@ -237,7 +237,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3661
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2480
 #EXTINF:-1 group-title="Entertainment" tvg-id="motortrend.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" tvg-name="MotorTrend",MotorTrend
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3662
-#EXTINF:-1 group-title="Entertainment" tvg-id="msg1.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG",MSG
+#EXTINF:-1 group-title="Entertainment" tvg-id="MSG2.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG",MSG
 https://restream-live.realiptv.to:443/pablo/d2a0996643/4435
 #EXTINF:-1 group-title="News" tvg-id="msnbc.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" tvg-name="MSNBC",MSNBC
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3663
@@ -503,6 +503,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="univision41wxtv.us" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
