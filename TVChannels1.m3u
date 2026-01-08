@@ -15,7 +15,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3609
 https://restream-live.realiptv.to:443/pablo/d2a0996643/544767
 #EXTINF:-1 group-title="Entertainment" tvg-id="464951" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
 https://restream-live.realiptv.to:443/pablo/d2a0996643/21630
-#EXTINF:-1 tvg-id="465288" tvg-name="Altitude Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Logo-Altitude-Sports.png" group-title="Sports",Altitude Sports
+#EXTINF:-1 tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Logo-Altitude-Sports.png" group-title="Sports",Altitude Sports
 https://restream-live.realiptv.to:443/pablo/d2a0996643/332892
 #EXTINF:-1 tvg-id="464916" tvg-name="AZ Family Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Arizona%27s_Family_Sports_Logo.jpg" group-title="Sports",AZ Family Sports Network
 https://restream-live.realiptv.to:443/pablo/d2a0996643/38298
@@ -503,6 +503,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="univision41wxtv.us" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
