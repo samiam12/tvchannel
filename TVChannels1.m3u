@@ -281,7 +281,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/638792
 https://restream-live.realiptv.to:443/pablo/d2a0996643/149310
 #EXTINF:-1 tvg-id="NESN+.New.England.Sports.Network.Plus.us2" tvg-name="NESN Plus" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nesn-plus-us.png" group-title="Sports",NESN Plus
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2425
-#EXTINF:-1 tvg-id="News12NewJersey.us_locals1" tvg-name="News12 NewJersey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News12 NewJersey
+#EXTINF:-1 tvg-id="plex.tv.News.12.New.Jersey.plex" tvg-name="News12 NewJersey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News12 NewJersey
 https://restream-live.realiptv.to:443/pablo/d2a0996643/75361
 #EXTINF:-1 tvg-id="89729" tvg-name="NBA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 1
 https://restream-live.realiptv.to:443/pablo/d2a0996643/214171
@@ -501,6 +501,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
