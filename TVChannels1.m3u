@@ -125,9 +125,9 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3784
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3783
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.(Cleveland).HDTV.us" tvg-name="FanDuel Sports Ohio" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Ohio
 https://restream-live.realiptv.to:443/pablo/d2a0996643/626324
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Indiana.24/7.HDTV.us" tvg-name="FanDuel Sports Indiana" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Ohio
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Indiana.24/7.HDTV.us" tvg-name="FanDuel Sports Indiana" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Indiana
 https://restream-live.realiptv.to:443/pablo/d2a0996643/214231
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southwest.Alternate.DirecTV.(New.Orleans).us" tvg-name="FanDuel Sports New Orleans" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Ohio
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southwest.Alternate.DirecTV.(New.Orleans).us" tvg-name="FanDuel Sports New Orleans" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports New Orleans
 https://restream-live.realiptv.to:443/pablo/d2a0996643/56581
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.South.(Atlanta.DMA).24/7.HDTV.us" tvg-name="FanDuel Sports South" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports South
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2513
@@ -135,7 +135,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/2513
 https://restream-live.realiptv.to:443/pablo/d2a0996643/663253
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southwest.HDTV.24/7.(Main).us" tvg-name="Fanduel Sports Southwest" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southwest
 https://restream-live.realiptv.to:443/pablo/d2a0996643/663145
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southeast.HDTV.(Georgia).us" tvg-name="Fanduel Sports Southeast" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southwest
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southeast.HDTV.(Georgia).us" tvg-name="Fanduel Sports Southeast" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southeast
 https://restream-live.realiptv.to:443/pablo/d2a0996643/501911
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Sun.South.24/7.HDTV.(South.Marlins,.Rays,.Heat).us" tvg-name="FanDuel Sports Sun" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Sun
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3788
@@ -501,6 +501,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
