@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_US.xml"
+#EXTM3U url-tvg="http://10.0.0.91:8080/merged_epg.xml"
 #EXTINF:-1 group-title="Entertainment" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3607
 #EXTINF:-1 group-title="News" tvg-id="WABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
@@ -57,11 +57,11 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/2631
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3621
 #EXTINF:-1 group-title="Sports" tvg-id="cbssportsgolazonetwork.us" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/18/image_80849179721695046851257-ygud8tyd.png" tvg-name="CBS SPORTS GOLAZO NETWORK",CBS SPORTS GOLAZO NETWORK
 https://restream-live.realiptv.to:443/pablo/d2a0996643/660925
-#EXTINF:-1 group-title="Movies" tvg-id="Cinemax.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST
+#EXTINF:-1 group-title="Movies" tvg-id="Cinemax.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",Cinemax East
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3622
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="Cinemax 5 Star Max" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/cinemax-5-starmax-us.png" group-title="Movies",Cinemax 5 Star Max
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-name="Cinemax 5 Star Max" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/cinemax-5-starmax-us.png" group-title="Movies",Cinemax 5 Star Max
 https://restream-live.realiptv.to:443/pablo/d2a0996643/81384
-#EXTINF:-1 tvg-id="actionmax.us" tvg-name="Cinemax.Action.us2" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/cinemax-actionmax-us.png" group-title="Movies",Cinemax Action
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/cinemax-actionmax-us.png" group-title="Movies",Cinemax Action
 https://restream-live.realiptv.to:443/pablo/d2a0996643/51557
 #EXTINF:-1 group-title="Entertainment" tvg-id="Cleo.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",Cleo TV
 https://restream-live.realiptv.to:443/pablo/d2a0996643/573316
@@ -85,7 +85,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/2604
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3184
 #EXTINF:-1 group-title="Movies" tvg-id="Crave2.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3185
-#EXTINF:-1 group-title="Movies" tvg-id="Crave3.HD.ca2 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3
+#EXTINF:-1 group-title="Movies" tvg-id="Crave3.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3186
 #EXTINF:-1 group-title="Movies" tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3187
@@ -237,7 +237,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3661
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2480
 #EXTINF:-1 group-title="Entertainment" tvg-id="MOTORTREND.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" tvg-name="MotorTrend",MotorTrend
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3662
-#EXTINF:-1 group-title="Entertainment" tvg-id="MSG.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG",MSG
+#EXTINF:-1 group-title="Entertainment" tvg-id="MSG.(Alt..feed).-.MSG2.OVERFLOW.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG",MSG
 https://restream-live.realiptv.to:443/pablo/d2a0996643/4435
 #EXTINF:-1 group-title="News" tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" tvg-name="MSNBC",MSNBC
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3663
@@ -251,7 +251,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/57970
 https://restream-live.realiptv.to:443/pablo/d2a0996643/57968
 #EXTINF:-1 group-title="Entertainment" tvg-id="mtv-U.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" tvg-name="mtvU",mtvU
 https://restream-live.realiptv.to:443/pablo/d2a0996643/57971
-#EXTINF:-1 group-title="Entertainment" tvg-id="muchmusic.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" tvg-name="MUCH",MUCH
+#EXTINF:-1 group-title="Entertainment" tvg-id="Much.Music.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" tvg-name="MUCH",MUCH
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3094
 #EXTINF:-1 tvg-id="WWOR-DT.us_locals1" tvg-name="MY9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5PHKiTAE7JUFx_HYInWdsbibl58txBuHngzcHgbxQ0AEn1Ps7Vx5dozyKwIqVv4GGzqYYvAJGEcYDNhaupGqvG--hpuxWBTf9jkMg9w" group-title="Entertainment",My9
 https://restream-live.realiptv.to:443/pablo/d2a0996643/597173
@@ -389,8 +389,6 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/601154
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3864
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="Sports",Sky Sports Premier League
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2181
-#EXTINF:-1 group-title="Movies" tvg-id="Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" tvg-name="Showtime",Showtime
-https://restream-live.realiptv.to:443/pablo/d2a0996643/3678
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" tvg-name="Showtime 2",Showtime 2
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3965
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" tvg-name="Showtime Extreme",Showtime Extreme
@@ -457,7 +455,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3684
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3852
 #EXTINF:-1 group-title="Sports" tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3685
-#EXTINF:-1 tvg-id="WNJU-DT.us_locals1 tvg-name="Telemundo (WNJU) Linden NJ" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/telemundo-us.png" group-title="Español",Telemundo (WNJU) Linden NJ
+#EXTINF:-1 tvg-id="WNJU-DT.us_locals1" tvg-name="Telemundo (WNJU) Linden NJ" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/telemundo-us.png" group-title="Español",Telemundo (WNJU) Linden NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/89690
 #EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel
 https://restream-live.realiptv.to:443/pablo/d2a0996643/527261
@@ -467,7 +465,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/527261
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3683
 #EXTINF:-1 group-title="Documentary" tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3765
-#EXTINF:-1 group-title="Entertainment" tvg-id="truTV.HD.us2 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" tvg-name="truTV",truTV
+#EXTINF:-1 group-title="Entertainment" tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" tvg-name="truTV",truTV
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3688
 #EXTINF:-1 group-title="Sports" tvg-id="tsn1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3146
@@ -503,6 +501,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
