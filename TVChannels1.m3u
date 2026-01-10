@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 group-title="Entertainment" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3607
 #EXTINF:-1 group-title="News" tvg-id="WABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
@@ -501,6 +501,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
 
 
