@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-us.xml.gz"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-zsjehm.xml.gz"
 #EXTINF:-1 group-title="Entertainment" tvg-id="AandENetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3607
 #EXTINF:-1 group-title="News" tvg-id="ABCWABC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
@@ -543,4 +543,5 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="UnivisionWXTV.us" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
+
 
