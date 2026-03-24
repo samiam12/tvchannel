@@ -223,7 +223,7 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2703
 https://restream-live.realiptv.to:443/pablo/d2a0996643/5290
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="https://yt3.googleusercontent.com/BPWSCvkDbheiitC6dPG1Yn153WZcRpvC1lFmXAlit0v-Jv4vbQtn8dYL2thMl3cdlURZyVSF8g=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Marquee Sports Network
 https://restream-live.realiptv.to:443/pablo/d2a0996643/55178
-#EXTINF:-1 tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2" tvg-name="MASN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MASN
+#EXTINF:-1 tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2" tvg-name="MASN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/MASNLogo2026.png" group-title="Sports",MASN
 https://restream-live.realiptv.to:443/pablo/d2a0996643/149308
 #EXTINF:-1 group-title="Movies" tvg-id="MGM+.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" tvg-name="MGM+",MGM+
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3949
@@ -317,7 +317,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3769
 https://restream-live.realiptv.to:443/pablo/d2a0996643/50965
 #EXTINF:-1 group-title="News" tvg-id="NewsNation.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" tvg-name="NewsNation",NewsNation
 https://restream-live.realiptv.to:443/pablo/d2a0996643/638792
-#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN" tvg-logo="https://s47719.pcdn.co/wp-content/uploads/sites/5/2021/02/nesn_logo.png" group-title="Sports",NESN
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/NESN_logo_2019.png" group-title="Sports",NESN
 https://restream-live.realiptv.to:443/pablo/d2a0996643/149310
 #EXTINF:-1 tvg-id="NESN+.New.England.Sports.Network.Plus.us2" tvg-name="NESN Plus" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nesn-plus-us.png" group-title="Sports",NESN Plus
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2425
@@ -347,37 +347,37 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/214180
 https://restream-live.realiptv.to:443/pablo/d2a0996643/214181
 #EXTINF:-1 tvg-id="89740" tvg-name="NBA 12" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 12
 https://restream-live.realiptv.to:443/pablo/d2a0996643/214182
-#EXTINF:-1 group-title="Sports" tvg-id="NFL1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 1",NFL 1 
+#EXTINF:-1 group-title="Sports" tvg-id="NFL1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 1",NFL 1 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3913
-#EXTINF:-1 group-title="Sports" tvg-id="NFL2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 2",NFL 2
+#EXTINF:-1 group-title="Sports" tvg-id="NFL2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 2",NFL 2
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3914
-#EXTINF:-1 group-title="Sports" tvg-id="NFL3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 3",NFL 3 
+#EXTINF:-1 group-title="Sports" tvg-id="NFL3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 3",NFL 3 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3915
-#EXTINF:-1 group-title="Sports" tvg-id="NFL4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 4",NFL 4 
+#EXTINF:-1 group-title="Sports" tvg-id="NFL4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 4",NFL 4 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3916
-#EXTINF:-1 group-title="Sports" tvg-id="NFL5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 5",NFL 5 
+#EXTINF:-1 group-title="Sports" tvg-id="NFL5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 5",NFL 5 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3917
-#EXTINF:-1 group-title="Sports" tvg-id="NFL6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 6",NFL 6 
+#EXTINF:-1 group-title="Sports" tvg-id="NFL6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 6",NFL 6 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3919
-#EXTINF:-1 group-title="Sports" tvg-id="NFL7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 7",NFL 7 
+#EXTINF:-1 group-title="Sports" tvg-id="NFL7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 7",NFL 7 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3920
-#EXTINF:-1 group-title="Sports" tvg-id="NFL8.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 8",NFL 8 
+#EXTINF:-1 group-title="Sports" tvg-id="NFL8.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 8",NFL 8 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3921
-#EXTINF:-1 group-title="Sports" tvg-id="NFL9.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 9",NFL 9 
+#EXTINF:-1 group-title="Sports" tvg-id="NFL9.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 9",NFL 9 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3922
-#EXTINF:-1 group-title="Sports" tvg-id="NFL10.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 10",NFL 10 
+#EXTINF:-1 group-title="Sports" tvg-id="NFL10.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 10",NFL 10 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3923
-#EXTINF:-1 group-title="Sports" tvg-id="NFL11.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 11",NFL 11 
+#EXTINF:-1 group-title="Sports" tvg-id="NFL11.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 11",NFL 11 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3924
-#EXTINF:-1 group-title="Sports" tvg-id="NFL12.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 12",NFL 12
+#EXTINF:-1 group-title="Sports" tvg-id="NFL12.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 12",NFL 12
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3925
-#EXTINF:-1 group-title="Sports" tvg-id="NFL13.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 13",NFL 13
+#EXTINF:-1 group-title="Sports" tvg-id="NFL13.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 13",NFL 13
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3926
-#EXTINF:-1 group-title="Sports" tvg-id="NFL14.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 14",NFL 14
+#EXTINF:-1 group-title="Sports" tvg-id="NFL14.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 14",NFL 14
 https://restream-live.realiptv.to:443/pablo/d2a0996643/506721
-#EXTINF:-1 group-title="Sports" tvg-id="NFL15.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 15",NFL 15
+#EXTINF:-1 group-title="Sports" tvg-id="NFL15.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 15",NFL 15
 https://restream-live.realiptv.to:443/pablo/d2a0996643/401123
-#EXTINF:-1 group-title="Sports" tvg-id="NFL16.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1024px-National_Football_League_logo.svg.png" tvg-name="NFL 16",NFL 16
+#EXTINF:-1 group-title="Sports" tvg-id="NFL16.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 16",NFL 16
 https://restream-live.realiptv.to:443/pablo/d2a0996643/401125
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL Network",NFL Network
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3670
@@ -521,7 +521,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3142
 https://restream-live.realiptv.to:443/pablo/d2a0996643/614330
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV.ONE.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne
 https://restream-live.realiptv.to:443/pablo/d2a0996643/21897
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/tudn-us.png" group-title="Español",TUDN
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png?_=20200204003557" group-title="Español",TUDN
 https://restream-live.realiptv.to:443/pablo/d2a0996643/4640
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3694
