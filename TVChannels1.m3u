@@ -55,7 +55,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3618
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2631
 #EXTINF:-1 group-title="Sports" tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK",CBS SPORTS NETWORK
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3621
-#EXTINF:-1 group-title="Sports" tvg-id="cbssportsgolazonetwork.us" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/18/image_80849179721695046851257-ygud8tyd.png" tvg-name="CBS SPORTS GOLAZO NETWORK",CBS SPORTS GOLAZO NETWORK
+#EXTINF:-1 group-title="Sports" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/18/image_80849179721695046851257-ygud8tyd.png" tvg-name="CBS SPORTS GOLAZO NETWORK",CBS SPORTS GOLAZO NETWORK
 https://restream-live.realiptv.to:443/pablo/d2a0996643/660925
 #EXTINF:-1 group-title="Movies" tvg-id="Cinemax.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",Cinemax East
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3622
@@ -97,7 +97,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3629
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2598
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Life.Channel.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" tvg-name="DISCOVERY LIFE",DISCOVERY LIFE
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3858
-#EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Science.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" tvg-name="Discovery Science",Discovery Science
+#EXTINF:-1 group-title="Documentary" tvg-id="Science.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" tvg-name="Discovery Science",Discovery Science
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3679
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3630
@@ -115,33 +115,33 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3637
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3640
 #EXTINF:-1 group-title="Sports" tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" tvg-name="ESPN U",ESPN U
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3638
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Detroit.24/7.HDTV.us" tvg-name="FanDuel Sports Detroit" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Detroit
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Detroit.HD.us" tvg-name="FanDuel Sports Detroit" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Detroit
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3781
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.24/7.(Rays,.Marlins,.Panthers).us" tvg-name="FanDuel Sports Florida" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Florida
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.us" tvg-name="FanDuel Sports Florida" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Florida
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2527
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Midwest.24/7.HDTV.us" tvg-name="FanDuel Sports Midwest" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Midwest
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us" tvg-name="FanDuel Sports Midwest" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Midwest
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3784
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.HDTV.us" tvg-name="FanDuel Sports North" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports North
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.us" tvg-name="FanDuel Sports North" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports North
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3783
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.(Cleveland).HDTV.us" tvg-name="FanDuel Sports Ohio" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Ohio
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-name="FanDuel Sports Ohio" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Ohio
 https://restream-live.realiptv.to:443/pablo/d2a0996643/626324
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Indiana.24/7.HDTV.us" tvg-name="FanDuel Sports Indiana" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Indiana
+#EXTINF:-1 tvg-id="FanDuel.Sports.Indiana.us" tvg-name="FanDuel Sports Indiana" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Indiana
 https://restream-live.realiptv.to:443/pablo/d2a0996643/214231
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southwest.Alternate.DirecTV.(New.Orleans).us" tvg-name="FanDuel Sports New Orleans" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports New Orleans
+#EXTINF:-1 tvg-id="FanDuel.Sports.New.Orleans.us" tvg-name="FanDuel Sports New Orleans" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports New Orleans
 https://restream-live.realiptv.to:443/pablo/d2a0996643/56581
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South.(Atlanta.DMA).24/7.HDTV.us" tvg-name="FanDuel Sports South" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports South
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South.us" tvg-name="FanDuel Sports South" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports South
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2513
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.SoCal.HDTV.us" tvg-name="USA FanDuel Sports Socal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FanDuel_Sports_Network_SoCal_logo.svg/1200px-FanDuel_Sports_Network_SoCal_logo.svg.png" group-title="Sports",USA FanDuel Sports Socal
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-name="USA FanDuel Sports Socal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FanDuel_Sports_Network_SoCal_logo.svg/1200px-FanDuel_Sports_Network_SoCal_logo.svg.png" group-title="Sports",USA FanDuel Sports Socal
 https://restream-live.realiptv.to:443/pablo/d2a0996643/663253
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southwest.HDTV.24/7.(Main).us" tvg-name="Fanduel Sports Southwest" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southwest
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southwest.us" tvg-name="Fanduel Sports Southwest" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southwest
 https://restream-live.realiptv.to:443/pablo/d2a0996643/663145
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southeast.HDTV.(Georgia).us" tvg-name="Fanduel Sports Southeast" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southeast
+#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.Georgia.us" tvg-name="Fanduel Sports Southeast" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southeast
 https://restream-live.realiptv.to:443/pablo/d2a0996643/501911
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Sun.South.24/7.HDTV.(South.Marlins,.Rays,.Heat).us" tvg-name="FanDuel Sports Sun" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Sun
+#EXTINF:-1 tvg-id="Fanduel.Sports.Sun.HD.us" tvg-name="FanDuel Sports Sun" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Sun
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3788
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.West.HDTV.us" tvg-name="FanDuel Sports West" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports West
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.West.us" tvg-name="FanDuel Sports West" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports West
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2507
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Wisconsin.24/7.HDTV.us" tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Wisconsin
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Wisconsin
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2506
 #EXTINF:-1 group-title="Entertainment" tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" tvg-name="FOOD NETWORK",FOOD NETWORK
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3644
@@ -149,7 +149,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3644
 https://restream-live.realiptv.to/pablo/d2a0996643/38209
 #EXTINF:-1 group-title="News" tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3643
-#EXTINF:-1 group-title="Entertainment" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
+#EXTINF:-1 group-title="Entertainment" tvg-id="FOX.SOUL.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
 https://restream-live.realiptv.to:443/pablo/d2a0996643/625076
 #EXTINF:-1 group-title="Entertainment" tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="Freeform",Freeform
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3648
@@ -183,7 +183,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3653
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3655
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy
 https://restream-live.realiptv.to:443/pablo/d2a0996643/51550
-#EXTINF:-1 group-title="Movies" tvg-id="HBO.Family.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO Family
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO Family
 https://restream-live.realiptv.to:443/pablo/d2a0996643/4927
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO Zone
 https://restream-live.realiptv.to:443/pablo/d2a0996643/51552
@@ -191,7 +191,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/51552
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3656
 #EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNet Movies" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/hdnet-movies-us.png" group-title="Movies",HDNet Movies
 https://restream-live.realiptv.to:443/pablo/d2a0996643/89182
-#EXTINF:-1 group-title="Entertainment" tvg-id="HGTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV
+#EXTINF:-1 group-title="Entertainment" tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3654
 #EXTINF:-1 group-title="News" tvg-id="HLN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN",HLN
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3658
@@ -223,7 +223,7 @@ http://ragnarokserve.com:847/TDSDHFRHA7/8P5GHZYJMF/2703
 https://restream-live.realiptv.to:443/pablo/d2a0996643/5290
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="https://yt3.googleusercontent.com/BPWSCvkDbheiitC6dPG1Yn153WZcRpvC1lFmXAlit0v-Jv4vbQtn8dYL2thMl3cdlURZyVSF8g=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Marquee Sports Network
 https://restream-live.realiptv.to:443/pablo/d2a0996643/55178
-#EXTINF:-1 tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2" tvg-name="MASN" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1745242435/mlb/jov4fxbzmqikc8umj5kr" group-title="Sports",MASN
+#EXTINF:-1 tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2" tvg-name="MASN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MASN
 https://restream-live.realiptv.to:443/pablo/d2a0996643/149308
 #EXTINF:-1 group-title="Movies" tvg-id="MGM+.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" tvg-name="MGM+",MGM+
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3949
@@ -233,47 +233,47 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/4431
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3724
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-name="MLB Network",MLB Network
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3661
-#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Strike Zone" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/mlb-network-strike-zone-us.png" group-title="Sports",MLB Strike Zone
+#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Strike Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB Strike Zone
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2480
-#EXTINF:-1 tvg-id="89592" tvg-name="MLB 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 1
+#EXTINF:-1 tvg-id="89592" tvg-name="MLB 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 1
 https://restream-live.realiptv.to/pablo/d2a0996643/177038
-#EXTINF:-1 tvg-id="89593" tvg-name="MLB 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 2
+#EXTINF:-1 tvg-id="89593" tvg-name="MLB 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 2
 https://restream-live.realiptv.to/pablo/d2a0996643/177039
-#EXTINF:-1 tvg-id="89594" tvg-name="MLB 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 3
+#EXTINF:-1 tvg-id="89594" tvg-name="MLB 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 3
 https://restream-live.realiptv.to/pablo/d2a0996643/177040
-#EXTINF:-1 tvg-id="89595" tvg-name="MLB 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 4
+#EXTINF:-1 tvg-id="89595" tvg-name="MLB 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 4
 https://restream-live.realiptv.to/pablo/d2a0996643/177041
-#EXTINF:-1 tvg-id="89596" tvg-name="MLB 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 5
+#EXTINF:-1 tvg-id="89596" tvg-name="MLB 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 5
 https://restream-live.realiptv.to/pablo/d2a0996643/177042
-#EXTINF:-1 tvg-id="89597" tvg-name="MLB 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 6
+#EXTINF:-1 tvg-id="89597" tvg-name="MLB 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 6
 https://restream-live.realiptv.to/pablo/d2a0996643/177043
-#EXTINF:-1 tvg-id="89598" tvg-name="MLB 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 7
+#EXTINF:-1 tvg-id="89598" tvg-name="MLB 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 7
 https://restream-live.realiptv.to/pablo/d2a0996643/177044
-#EXTINF:-1 tvg-id="89599" tvg-name="MLB 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 8
+#EXTINF:-1 tvg-id="89599" tvg-name="MLB 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 8
 https://restream-live.realiptv.to/pablo/d2a0996643/177045
-#EXTINF:-1 tvg-id="89600" tvg-name="MLB 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 9
+#EXTINF:-1 tvg-id="89600" tvg-name="MLB 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 9
 https://restream-live.realiptv.to/pablo/d2a0996643/177046
-#EXTINF:-1 tvg-id="89601" tvg-name="MLB 10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 10
+#EXTINF:-1 tvg-id="89601" tvg-name="MLB 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 10
 https://restream-live.realiptv.to/pablo/d2a0996643/177047
-#EXTINF:-1 tvg-id="89602" tvg-name="MLB 11" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 11
+#EXTINF:-1 tvg-id="89602" tvg-name="MLB 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 11
 https://restream-live.realiptv.to/pablo/d2a0996643/177048
-#EXTINF:-1 tvg-id="89603" tvg-name="MLB 12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 12
+#EXTINF:-1 tvg-id="89603" tvg-name="MLB 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 12
 https://restream-live.realiptv.to/pablo/d2a0996643/177049
-#EXTINF:-1 tvg-id="89604" tvg-name="MLB 13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 13
+#EXTINF:-1 tvg-id="89604" tvg-name="MLB 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 13
 https://restream-live.realiptv.to/pablo/d2a0996643/177050
-#EXTINF:-1 tvg-id="89605" tvg-name="MLB 14" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 14
+#EXTINF:-1 tvg-id="89605" tvg-name="MLB 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 14
 https://restream-live.realiptv.to/pablo/d2a0996643/177051
-#EXTINF:-1 tvg-id="89606" tvg-name="MLB 15" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 15
+#EXTINF:-1 tvg-id="89606" tvg-name="MLB 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 15
 https://restream-live.realiptv.to/pablo/d2a0996643/177052
-#EXTINF:-1 tvg-id="89607" tvg-name="MLB 16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 16
+#EXTINF:-1 tvg-id="89607" tvg-name="MLB 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 16
 https://restream-live.realiptv.to/pablo/d2a0996643/177053
-#EXTINF:-1 tvg-id="89608" tvg-name="MLB 17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 17
+#EXTINF:-1 tvg-id="89608" tvg-name="MLB 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 17
 https://restream-live.realiptv.to/pablo/d2a0996643/177054
-#EXTINF:-1 tvg-id="89609" tvg-name="MLB 18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 18
+#EXTINF:-1 tvg-id="89609" tvg-name="MLB 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 18
 https://restream-live.realiptv.to/pablo/d2a0996643/177055
-#EXTINF:-1 tvg-id="89610" tvg-name="MLB 19" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 19
+#EXTINF:-1 tvg-id="89610" tvg-name="MLB 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 19
 https://restream-live.realiptv.to/pablo/d2a0996643/177056
-#EXTINF:-1 tvg-id="89611" tvg-name="MLB 20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Sports",MLB 20
+#EXTINF:-1 tvg-id="89611" tvg-name="MLB 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB 20
 https://restream-live.realiptv.to/pablo/d2a0996643/177057
 #EXTINF:-1 group-title="Entertainment" tvg-id="MOTORTREND.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" tvg-name="MotorTrend",MotorTrend
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3662
@@ -321,7 +321,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/638792
 https://restream-live.realiptv.to:443/pablo/d2a0996643/149310
 #EXTINF:-1 tvg-id="NESN+.New.England.Sports.Network.Plus.us2" tvg-name="NESN Plus" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nesn-plus-us.png" group-title="Sports",NESN Plus
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2425
-#EXTINF:-1 tvg-id="plex.tv.News.12.New.Jersey.plex" tvg-name="News12 NewJersey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News12 NewJersey
+#EXTINF:-1 tvg-id="News.12.New.Jersey.us2" tvg-name="News12 NewJersey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News12 NewJersey
 https://restream-live.realiptv.to:443/pablo/d2a0996643/75361
 #EXTINF:-1 tvg-id="89729" tvg-name="NBA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 1
 https://restream-live.realiptv.to:443/pablo/d2a0996643/214171
@@ -427,7 +427,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/601155
 https://restream-live.realiptv.to:443/pablo/d2a0996643/601154
 #EXTINF:-1 group-title="Sports" tvg-id="SEC.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network",SEC Network
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3864
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="Sports",Sky Sports Premier League
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" tvg-name="Sky Sports Premier League" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="Sports",Sky Sports Premier League
 https://restream-live.realiptv.to:443/pablo/d2a0996643/2181
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" tvg-name="Showtime 2",Showtime 2
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3965
@@ -453,7 +453,7 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/78636
 https://restream-live.realiptv.to:443/pablo/d2a0996643/74683
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="Spectrum Sportsnet Lakers" tvg-logo="http://iptvboss.xyz/logos/USA/SpectrumSportsNetLALakers.us.png" group-title="Sports",Spectrum Sportsnet Lakers
 https://restream-live.realiptv.to:443/pablo/d2a0996643/74684
-#EXTINF:-1 group-title="Sports" tvg-id="stadium.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",Stadium
+#EXTINF:-1 group-title="Sports" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",Stadium
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3867
 #EXTINF:-1 group-title="Entertainment" tvg-id="Start.TV.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",Start TV
 https://restream-live.realiptv.to:443/pablo/d2a0996643/469939
@@ -507,15 +507,15 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3683
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3765
 #EXTINF:-1 group-title="Entertainment" tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" tvg-name="truTV",truTV
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3688
-#EXTINF:-1 group-title="Sports" tvg-id="tsn1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1
+#EXTINF:-1 group-title="Sports" tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3146
-#EXTINF:-1 group-title="Sports" tvg-id="tsn2.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2",TSN 2
+#EXTINF:-1 group-title="Sports" tvg-id="TSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2",TSN 2
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3145
-#EXTINF:-1 group-title="Sports" tvg-id="tsn3.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3",TSN 3
+#EXTINF:-1 group-title="Sports" tvg-id="TSN.3.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3",TSN 3
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3144
-#EXTINF:-1 group-title="Sports" tvg-id="tsn4.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4",TSN 4
+#EXTINF:-1 group-title="Sports" tvg-id="TSN.4.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4",TSN 4
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3143
-#EXTINF:-1 group-title="Sports" tvg-id="tsn5.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5",TSN 5
+#EXTINF:-1 group-title="Sports" tvg-id="TSN.5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5",TSN 5
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3142
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV.Land.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLand",TVLand
 https://restream-live.realiptv.to:443/pablo/d2a0996643/614330
@@ -541,6 +541,3 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/58043
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3695
 #EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
 https://restream-live.realiptv.to:443/pablo/d2a0996643/59850
-
-
-
