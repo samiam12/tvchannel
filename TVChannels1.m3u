@@ -205,8 +205,6 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/3633
 https://restream-live.realiptv.to:443/pablo/d2a0996643/74682
 #EXTINF:-1 group-title="Entertainment" tvg-id="ION.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-name="ION",ION
 https://restream-live.realiptv.to:443/pablo/d2a0996643/555699
-#EXTINF:-1 tvg-id="KJZZ-DT.us_locals1" tvg-name="KJZZ-TV (Utah Jazz)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/KJZZ_14_logo_2013.png/250px-KJZZ_14_logo_2013.png" group-title="Sports",KJZZ-TV (Utah Jazz)
-http://vocotv.pro:80/mmckandes1/P2022ssword/642213
 #EXTINF:-1 group-title="Entertainment" tvg-id="Laff.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" tvg-name="Laff TV",Laff TV
 https://restream-live.realiptv.to:443/pablo/d2a0996643/648969
 #EXTINF:-1 group-title="Movies" tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" tvg-name="Lifetime",Lifetime
@@ -347,6 +345,8 @@ https://restream-live.realiptv.to:443/pablo/d2a0996643/214180
 https://restream-live.realiptv.to:443/pablo/d2a0996643/214181
 #EXTINF:-1 tvg-id="89740" tvg-name="NBA 12" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 12
 https://restream-live.realiptv.to:443/pablo/d2a0996643/214182
+#EXTINF:-1 tvg-id="KJZZ-DT.us_locals1" tvg-name="NBA 13 (UTAH JAZZ)" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Sports",NBA 13 (UTAH JAZZ)
+https://restream-live.realiptv.to/pablo/d2a0996643/89087
 #EXTINF:-1 group-title="Sports" tvg-id="NFL1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 1",NFL 1 
 https://restream-live.realiptv.to:443/pablo/d2a0996643/3913
 #EXTINF:-1 group-title="Sports" tvg-id="NFL2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/500px-National_Football_League_logo.svg.png" tvg-name="NFL 2",NFL 2
