@@ -1,22 +1,22 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 group-title="Entertainment" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
-http://s.rocketdns.info:8080/live/james1728/112494/3607.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/79.ts
 #EXTINF:-1 group-title="News" tvg-id="WABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
-http://s.rocketdns.info:8080/live/james1728/112494/112234.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/418.ts
 #EXTINF:-1 group-title="Sports" tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
-http://s.rocketdns.info:8080/live/james1728/112494/5287.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/1122.ts
 #EXTINF:-1 group-title="Movies" tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
-http://s.rocketdns.info:8080/live/james1728/112494/3843.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/86.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="American.Heroes.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",American Heroes Channel
-http://s.rocketdns.info:8080/live/james1728/112494/2663.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/278.ts
 #EXTINF:-1 group-title="Documentary" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
-http://s.rocketdns.info:8080/live/james1728/112494/3609.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/264.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="Antenna.TV.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna",Antenna
-http://s.rocketdns.info:8080/live/james1728/112494/544767.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/46.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="ASPiRE.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
-http://s.rocketdns.info:8080/live/james1728/112494/21630.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/98.ts
 #EXTINF:-1 tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Logo-Altitude-Sports.png" group-title="Sports",Altitude Sports
-http://s.rocketdns.info:8080/live/james1728/112494/332892.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/1145.ts
 #EXTINF:-1 tvg-id="Arizona.Family.Sports.us2" tvg-name="AZ Family Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Arizona%27s_Family_Sports_Logo.jpg" group-title="Sports",AZ Family Sports Network
 http://s.rocketdns.info:8080/live/james1728/112494/38298.ts
 #EXTINF:-1 tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Space_City_Home_Network_Logo.png" group-title="Sports",Space City Home Network
@@ -26,11 +26,11 @@ http://s.rocketdns.info:8080/live/james1728/112494/3610.ts
 #EXTINF:-1 group-title="News" tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS",BBC WORLD NEWS
 http://s.rocketdns.info:8080/live/james1728/112494/2657.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" tvg-name="BET",BET
-http://s.rocketdns.info:8080/live/james1728/112494/21895.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/17.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" tvg-name="BET HER",BET HER
-http://s.rocketdns.info:8080/live/james1728/112494/3946.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/113.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BET.Jams.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET Jams
-http://s.rocketdns.info:8080/live/james1728/112494/3947.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/19.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BET.Soul.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" tvg-name="BET SOUL",BET SOUL
 http://s.rocketdns.info:8080/live/james1728/112494/3948.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-name="Big Ten Network HD",Big Ten Network HD
