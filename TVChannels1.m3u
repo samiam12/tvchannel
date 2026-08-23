@@ -20,7 +20,7 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/1145.ts
 #EXTINF:-1 tvg-id="Arizona.Family.Sports.us2" tvg-name="AZ Family Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Arizona%27s_Family_Sports_Logo.jpg" group-title="Sports",AZ Family Sports Network
 http://pixelip.tv:80/Ignacio123/Ignacio123/5098.ts
 #EXTINF:-1 tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Space_City_Home_Network_Logo.png" group-title="Sports",Space City Home Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/1146.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/6152.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA
 http://pixelip.tv:80/Ignacio123/Ignacio123/250.ts
 #EXTINF:-1 group-title="News" tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS",BBC WORLD NEWS
@@ -36,9 +36,9 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/85.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-name="Big Ten Network HD",Big Ten Network HD
 http://pixelip.tv:80/Ignacio123/Ignacio123/1107.ts
 #EXTINF:-1 group-title="News" tvg-id="Bloomberg.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-name="BLOOMBERG",BLOOMBERG
-http://pixelip.tv:80/Ignacio123/Ignacio123/2701.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/255.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",Boomerang
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644125.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/299.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="Bounce.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",Bounce
 http://pixelip.tv:80/Ignacio123/Ignacio123/97.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO",BRAVO
@@ -46,7 +46,7 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/66.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BUZZR.Stream.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="Buzzr",Buzzr
 http://pixelip.tv:80/Ignacio123/Ignacio123/68.ts
 #EXTINF:-1 group-title="News" tvg-id="CSPAN.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-name="C-SPAN",C-SPAN
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644129.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/227.ts
 #EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" tvg-name="CA Sportsnet East" tvg-logo="https://archive.org/download/SportsnetEast/sportsnet%20east.png" group-title="Sports",CA Sportsnet East
 http://pixelip.tv:80/Ignacio123/Ignacio123/2688.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="CARTOON NETWORK",CARTOON NETWORK
@@ -81,24 +81,16 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/27.ts
 http://pixelip.tv:80/Ignacio123/Ignacio123/83.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="COZI.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" tvg-name="COZI TV",COZI TV
 http://pixelip.tv:80/Ignacio123/Ignacio123/82.ts
-#EXTINF:-1 group-title="Movies" tvg-id="Crave1.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1
-http://pixelip.tv:80/Ignacio123/Ignacio123/2504.ts
-#EXTINF:-1 group-title="Movies" tvg-id="Crave2.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2
-http://pixelip.tv:80/Ignacio123/Ignacio123/2587.ts
-#EXTINF:-1 group-title="Movies" tvg-id="Crave3.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3
-http://pixelip.tv:80/Ignacio123/Ignacio123/2556.ts
-#EXTINF:-1 group-title="Movies" tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
-http://pixelip.tv:80/Ignacio123/Ignacio123/2616.ts
 #EXTINF:-1 group-title="Documentary" tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-name="Destination America",Destination America
 http://pixelip.tv:80/Ignacio123/Ignacio123/282.ts
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
 http://pixelip.tv:80/Ignacio123/Ignacio123/270.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" tvg-name="DISCOVERY FAMILY CHANNEL",DISCOVERY FAMILY CHANNEL
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644154.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/287.ts
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Life.Channel.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" tvg-name="DISCOVERY LIFE",DISCOVERY LIFE
 http://pixelip.tv:80/Ignacio123/Ignacio123/269.ts
 #EXTINF:-1 group-title="Documentary" tvg-id="Science.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" tvg-name="Discovery Science",Discovery Science
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/272.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
 http://pixelip.tv:80/Ignacio123/Ignacio123/303.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-name="DISNEY JR",DISNEY JR
@@ -115,40 +107,12 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/1120.ts
 http://pixelip.tv:80/Ignacio123/Ignacio123/1103.ts
 #EXTINF:-1 group-title="Sports" tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" tvg-name="ESPN U",ESPN U
 http://pixelip.tv:80/Ignacio123/Ignacio123/1109.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Detroit.HD.us" tvg-name="FanDuel Sports Detroit" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Detroit
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.us" tvg-name="FanDuel Sports Florida" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Florida
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us" tvg-name="FanDuel Sports Midwest" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Midwest
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.us" tvg-name="FanDuel Sports North" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports North
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-name="FanDuel Sports Ohio" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Ohio
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Indiana.us" tvg-name="FanDuel Sports Indiana" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Indiana
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.New.Orleans.us" tvg-name="FanDuel Sports New Orleans" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports New Orleans
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South.us" tvg-name="FanDuel Sports South" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports South
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-name="USA FanDuel Sports Socal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FanDuel_Sports_Network_SoCal_logo.svg/1200px-FanDuel_Sports_Network_SoCal_logo.svg.png" group-title="Sports",USA FanDuel Sports Socal
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southwest.us" tvg-name="Fanduel Sports Southwest" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southwest
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.Georgia.us" tvg-name="Fanduel Sports Southeast" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Southeast
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="Fanduel.Sports.Sun.HD.us" tvg-name="FanDuel Sports Sun" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Sun
-http://pixelip.tv:80/Ignacio123/Ignacio123/1129.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.West.us" tvg-name="FanDuel Sports West" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports West
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644175.ts
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://sportsmansadventures.com/wp-content/uploads/sites/3/2024/10/Fan-Duel-Sports-Web-Graphic-1.png" group-title="Sports",FanDuel Sports Wisconsin
-http://pixelip.tv:80/Ignacio123/Ignacio123/1130.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" tvg-name="FOOD NETWORK",FOOD NETWORK
 http://pixelip.tv:80/Ignacio123/Ignacio123/40.ts
 #EXTINF:-1 group-title="News" tvg-id="WNYW-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX 5(WNYW)
 http://pixelip.tv:80/Ignacio123/Ignacio123/884.ts
 #EXTINF:-1 group-title="News" tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644180.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/230.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="FOX.SOUL.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
 http://pixelip.tv:80/Ignacio123/Ignacio123/128.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="Freeform",Freeform
@@ -183,8 +147,6 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/172.ts
 http://pixelip.tv:80/Ignacio123/Ignacio123/168.ts
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy
 http://pixelip.tv:80/Ignacio123/Ignacio123/209.ts
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO Family
-http://pixelip.tv:80/Ignacio123/Ignacio123/2924.ts
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO Zone
 http://pixelip.tv:80/Ignacio123/Ignacio123/206.ts
 #EXTINF:-1 group-title="Movies" tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2",HBO2
@@ -196,7 +158,7 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/133.ts
 #EXTINF:-1 group-title="News" tvg-id="HLN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN",HLN
 http://pixelip.tv:80/Ignacio123/Ignacio123/117.ts
 #EXTINF:-1 group-title="Documentary" tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",History
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644211.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/266.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="Home.Shopping.Network.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" tvg-name="HSN",HSN
 http://pixelip.tv:80/Ignacio123/Ignacio123/15.ts
 #EXTINF:-1 group-title="Documentary" tvg-id="Investigation.Discovery.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" tvg-name="ID (Investigation Discovery)",ID (Investigation Discovery)
@@ -214,9 +176,9 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/153.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="Logo.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" tvg-name="Logo",Logo
 http://pixelip.tv:80/Ignacio123/Ignacio123/7.ts
 #EXTINF:-1 group-title="Documentary" tvg-id="Love.Nature.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" tvg-name="LOVE NATURE",LOVE NATURE
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644232.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/2516.ts
 #EXTINF:-1 group-title="Documentary" tvg-id="Magnolia.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/diy-network-ca.png" tvg-name="DIY",DIY
-http://pixelip.tv:80/Ignacio123/Ignacio123/67.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/41.ts
 #EXTINF:-1 group-title="Sports" tvg-id="RACER.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" tvg-name="RACER Network",RACER Network
 http://pixelip.tv:80/Ignacio123/Ignacio123/808837.ts
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="https://yt3.googleusercontent.com/BPWSCvkDbheiitC6dPG1Yn153WZcRpvC1lFmXAlit0v-Jv4vbQtn8dYL2thMl3cdlURZyVSF8g=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Marquee Sports Network
@@ -233,128 +195,74 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/152.ts
 http://pixelip.tv:80/Ignacio123/Ignacio123/1114.ts
 #EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Strike Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB Strike Zone
 http://pixelip.tv:80/Ignacio123/Ignacio123/1084.ts
-#EXTINF:-1 tvg-id="89592" tvg-name="MLB 01" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 01
+#EXTINF:-1 tvg-id="89592" tvg-name="MLB 01" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 01
 http://pixelip.tv:80/Ignacio123/Ignacio123/5001.ts
-#EXTINF:-1 tvg-id="89593" tvg-name="MLB 02" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 02
+#EXTINF:-1 tvg-id="89593" tvg-name="MLB 02" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 02
 http://pixelip.tv:80/Ignacio123/Ignacio123/5002.ts
-#EXTINF:-1 tvg-id="89594" tvg-name="MLB 03" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 03
+#EXTINF:-1 tvg-id="89594" tvg-name="MLB 03" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 03
 http://pixelip.tv:80/Ignacio123/Ignacio123/5003.ts
-#EXTINF:-1 tvg-id="89595" tvg-name="MLB 04" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 04
+#EXTINF:-1 tvg-id="89595" tvg-name="MLB 04" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 04
 http://pixelip.tv:80/Ignacio123/Ignacio123/5004.ts
-#EXTINF:-1 tvg-id="89596" tvg-name="MLB 05" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 05
+#EXTINF:-1 tvg-id="89596" tvg-name="MLB 05" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 05
 http://pixelip.tv:80/Ignacio123/Ignacio123/5005.ts
-#EXTINF:-1 tvg-id="89597" tvg-name="MLB 06" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 06
+#EXTINF:-1 tvg-id="89597" tvg-name="MLB 06" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 06
 http://pixelip.tv:80/Ignacio123/Ignacio123/5006.ts
-#EXTINF:-1 tvg-id="89598" tvg-name="MLB 07" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 07
+#EXTINF:-1 tvg-id="89598" tvg-name="MLB 07" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 07
 http://pixelip.tv:80/Ignacio123/Ignacio123/5007.ts
-#EXTINF:-1 tvg-id="89599" tvg-name="MLB 08" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 08
+#EXTINF:-1 tvg-id="89599" tvg-name="MLB 08" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 08
 http://pixelip.tv:80/Ignacio123/Ignacio123/5008.ts
-#EXTINF:-1 tvg-id="89600" tvg-name="MLB 09" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 09
+#EXTINF:-1 tvg-id="89600" tvg-name="MLB 09" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 09
 http://pixelip.tv:80/Ignacio123/Ignacio123/5009.ts
-#EXTINF:-1 tvg-id="89601" tvg-name="MLB 10" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 10
+#EXTINF:-1 tvg-id="89601" tvg-name="MLB 10" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 10
 http://pixelip.tv:80/Ignacio123/Ignacio123/5010.ts
-#EXTINF:-1 tvg-id="89602" tvg-name="MLB 11" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 11
+#EXTINF:-1 tvg-id="89602" tvg-name="MLB 11" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 11
 http://pixelip.tv:80/Ignacio123/Ignacio123/5011.ts
-#EXTINF:-1 tvg-id="89603" tvg-name="MLB 12" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 12
+#EXTINF:-1 tvg-id="89603" tvg-name="MLB 12" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 12
 http://pixelip.tv:80/Ignacio123/Ignacio123/5012.ts
-#EXTINF:-1 tvg-id="89604" tvg-name="MLB 13" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 13
+#EXTINF:-1 tvg-id="89604" tvg-name="MLB 13" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 13
 http://pixelip.tv:80/Ignacio123/Ignacio123/5013.ts
-#EXTINF:-1 tvg-id="89605" tvg-name="MLB 14" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 14
+#EXTINF:-1 tvg-id="89605" tvg-name="MLB 14" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 14
 http://pixelip.tv:80/Ignacio123/Ignacio123/5014.ts
-#EXTINF:-1 tvg-id="89606" tvg-name="MLB 15" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 15
+#EXTINF:-1 tvg-id="89606" tvg-name="MLB 15" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 15
 http://pixelip.tv:80/Ignacio123/Ignacio123/5015.ts
-#EXTINF:-1 tvg-id="89607" tvg-name="MLB 16" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 16
+#EXTINF:-1 tvg-id="89607" tvg-name="MLB 16" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 16
 http://pixelip.tv:80/Ignacio123/Ignacio123/5016.ts
-#EXTINF:-1 tvg-id="89608" tvg-name="MLB 17" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 17
+#EXTINF:-1 tvg-id="89608" tvg-name="MLB 17" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 17
 http://pixelip.tv:80/Ignacio123/Ignacio123/5017.ts
-#EXTINF:-1 tvg-id="89609" tvg-name="MLB 18" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 18
+#EXTINF:-1 tvg-id="89609" tvg-name="MLB 18" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 18
 http://pixelip.tv:80/Ignacio123/Ignacio123/5018.ts
-#EXTINF:-1 tvg-id="89610" tvg-name="MLB 19" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 19
+#EXTINF:-1 tvg-id="89610" tvg-name="MLB 19" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 19
 http://pixelip.tv:80/Ignacio123/Ignacio123/5019.ts
-#EXTINF:-1 tvg-id="89611" tvg-name="MLB 20" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 20
+#EXTINF:-1 tvg-id="89611" tvg-name="MLB 20" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 20
 http://pixelip.tv:80/Ignacio123/Ignacio123/5020.ts
-#EXTINF:-1 tvg-id="89612" tvg-name="MLB 21" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 21
+#EXTINF:-1 tvg-id="89612" tvg-name="MLB 01" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 01
 http://pixelip.tv:80/Ignacio123/Ignacio123/1219.ts
-#EXTINF:-1 tvg-id="89613" tvg-name="MLB 22" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 22
+#EXTINF:-1 tvg-id="89613" tvg-name="MLB 02" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 02
 http://pixelip.tv:80/Ignacio123/Ignacio123/3700.ts
-#EXTINF:-1 tvg-id="89614" tvg-name="MLB 23" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 23
+#EXTINF:-1 tvg-id="89614" tvg-name="MLB 03" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 03
 http://pixelip.tv:80/Ignacio123/Ignacio123/3701.ts
-#EXTINF:-1 tvg-id="89615" tvg-name="MLB 24" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 24
+#EXTINF:-1 tvg-id="89615" tvg-name="MLB 04" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 04
 http://pixelip.tv:80/Ignacio123/Ignacio123/3702.ts
-#EXTINF:-1 tvg-id="89616" tvg-name="MLB 25" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 25
+#EXTINF:-1 tvg-id="89616" tvg-name="MLB 05" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 05
 http://pixelip.tv:80/Ignacio123/Ignacio123/3703.ts
-#EXTINF:-1 tvg-id="89617" tvg-name="MLB 26" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 26
+#EXTINF:-1 tvg-id="89617" tvg-name="MLB 06" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 06
 http://pixelip.tv:80/Ignacio123/Ignacio123/3704.ts
-#EXTINF:-1 tvg-id="89618" tvg-name="MLB 27" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 27
+#EXTINF:-1 tvg-id="89618" tvg-name="MLB 07" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 07
 http://pixelip.tv:80/Ignacio123/Ignacio123/3705.ts
-#EXTINF:-1 tvg-id="89619" tvg-name="MLB 28" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 28
+#EXTINF:-1 tvg-id="89619" tvg-name="MLB 08" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 08
 http://pixelip.tv:80/Ignacio123/Ignacio123/3706.ts
-#EXTINF:-1 tvg-id="89620" tvg-name="MLB 29" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 29
+#EXTINF:-1 tvg-id="89620" tvg-name="MLB 09" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 09
 http://pixelip.tv:80/Ignacio123/Ignacio123/3707.ts
-#EXTINF:-1 tvg-id="89621" tvg-name="MLB 30" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 30
+#EXTINF:-1 tvg-id="89621" tvg-name="MLB 10" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 10
 http://pixelip.tv:80/Ignacio123/Ignacio123/3708.ts
-#EXTINF:-1 tvg-id="89622" tvg-name="MLB 31" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 31
+#EXTINF:-1 tvg-id="89622" tvg-name="MLB 11" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 11
 http://pixelip.tv:80/Ignacio123/Ignacio123/3709.ts
-#EXTINF:-1 tvg-id="89623" tvg-name="MLB 32" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 32
+#EXTINF:-1 tvg-id="89623" tvg-name="MLB 12" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 12
 http://pixelip.tv:80/Ignacio123/Ignacio123/3710.ts
-#EXTINF:-1 tvg-id="89624" tvg-name="MLB 33" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 33
+#EXTINF:-1 tvg-id="89624" tvg-name="MLB 13" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 13
 http://pixelip.tv:80/Ignacio123/Ignacio123/3711.ts
-#EXTINF:-1 tvg-id="89625" tvg-name="MLB 34" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 34
+#EXTINF:-1 tvg-id="89625" tvg-name="MLB 14" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 14
 http://pixelip.tv:80/Ignacio123/Ignacio123/3712.ts
-#EXTINF:-1 tvg-id="89626" tvg-name="MLB 35" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 35
-http://pixelip.tv:80/Ignacio123/Ignacio123/1237.ts
-#EXTINF:-1 tvg-id="89627" tvg-name="MLB 36" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 36
-http://pixelip.tv:80/Ignacio123/Ignacio123/1258.ts
-#EXTINF:-1 tvg-id="89628" tvg-name="MLB 37" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 37
-http://pixelip.tv:80/Ignacio123/Ignacio123/1246.ts
-#EXTINF:-1 tvg-id="89629" tvg-name="MLB 38" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 38
-http://pixelip.tv:80/Ignacio123/Ignacio123/1236.ts
-#EXTINF:-1 tvg-id="89630" tvg-name="MLB 39" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 39
-http://pixelip.tv:80/Ignacio123/Ignacio123/1247.ts
-#EXTINF:-1 tvg-id="89631" tvg-name="MLB 40" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 40
-http://pixelip.tv:80/Ignacio123/Ignacio123/1241.ts
-#EXTINF:-1 tvg-id="89632" tvg-name="MLB 41" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 41
-http://pixelip.tv:80/Ignacio123/Ignacio123/1251.ts
-#EXTINF:-1 tvg-id="89633" tvg-name="MLB 42" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 42
-http://pixelip.tv:80/Ignacio123/Ignacio123/1253.ts
-#EXTINF:-1 tvg-id="89634" tvg-name="MLB 43" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 43
-http://pixelip.tv:80/Ignacio123/Ignacio123/1243.ts
-#EXTINF:-1 tvg-id="89635" tvg-name="MLB 44" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 44
-http://pixelip.tv:80/Ignacio123/Ignacio123/1255.ts
-#EXTINF:-1 tvg-id="89636" tvg-name="MLB 45" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 45
-http://pixelip.tv:80/Ignacio123/Ignacio123/1257.ts
-#EXTINF:-1 tvg-id="89637" tvg-name="MLB 46" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 46
-http://pixelip.tv:80/Ignacio123/Ignacio123/1245.ts
-#EXTINF:-1 tvg-id="89637" tvg-name="MLB 47" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 47
-http://pixelip.tv:80/Ignacio123/Ignacio123/1239.ts
-#EXTINF:-1 tvg-id="89638" tvg-name="MLB 48" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 48
-http://pixelip.tv:80/Ignacio123/Ignacio123/1235.ts
-#EXTINF:-1 tvg-id="89639" tvg-name="MLB 49" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 49
-http://pixelip.tv:80/Ignacio123/Ignacio123/1240.ts
-#EXTINF:-1 tvg-id="89640" tvg-name="MLB 50" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 50
-http://pixelip.tv:80/Ignacio123/Ignacio123/1256.ts
-#EXTINF:-1 tvg-id="89641" tvg-name="MLB 51" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 51
-http://pixelip.tv:80/Ignacio123/Ignacio123/1230.ts
-#EXTINF:-1 tvg-id="89642" tvg-name="MLB 52" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 52
-http://pixelip.tv:80/Ignacio123/Ignacio123/1233.ts
-#EXTINF:-1 tvg-id="89643" tvg-name="MLB 53" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 53
-http://pixelip.tv:80/Ignacio123/Ignacio123/1252.ts
-#EXTINF:-1 tvg-id="89644" tvg-name="MLB 54" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 54
-http://pixelip.tv:80/Ignacio123/Ignacio123/1244.ts
-#EXTINF:-1 tvg-id="89645" tvg-name="MLB 55" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 55
-http://pixelip.tv:80/Ignacio123/Ignacio123/1248.ts
-#EXTINF:-1 tvg-id="89646" tvg-name="MLB 56" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 56
-http://pixelip.tv:80/Ignacio123/Ignacio123/1238.ts
-#EXTINF:-1 tvg-id="89647" tvg-name="MLB 57" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 57
-http://pixelip.tv:80/Ignacio123/Ignacio123/1232.ts
-#EXTINF:-1 tvg-id="89648" tvg-name="MLB 58" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 58
-http://pixelip.tv:80/Ignacio123/Ignacio123/1254.ts
-#EXTINF:-1 tvg-id="89649" tvg-name="MLB 59" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 59
-http://pixelip.tv:80/Ignacio123/Ignacio123/1234.ts
-#EXTINF:-1 tvg-id="89650" tvg-name="MLB 60" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 60
-http://pixelip.tv:80/Ignacio123/Ignacio123/1231.ts
-#EXTINF:-1 tvg-id="89651" tvg-name="MLB 61" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games",MLB 61
-http://pixelip.tv:80/Ignacio123/Ignacio123/1249.ts
 #EXTINF:-1 tvg-id="MLB-ArizonaDiamondbacks.us" tvg-name="MLB: Arizona Diamondbacks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Arizona Diamondbacks
 http://pixelip.tv:80/Ignacio123/Ignacio123/1237.ts
 #EXTINF:-1 tvg-id="MLB-AtlantaBraves.us" tvg-name="MLB: Atlanta Braves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Atlanta Braves
@@ -452,7 +360,7 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/1136.ts
 #EXTINF:-1 tvg-id="NBC.Sports.California.Plus.us2" tvg-name="NBC Sports California" tvg-logo="https://play-lh.googleusercontent.com/Tb2x4l2dlgyZYOUUEWlprQiu279mBQ4_fh8vVSProE9hpwUdTBjV8hr29znZ7N7hLZ4" group-title="Sports",NBC Sports California
 http://pixelip.tv:80/Ignacio123/Ignacio123/1176.ts
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBCSN Philadelphia" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nbcsn-philadelphia-us.png" group-title="Sports",NBCSN Philadelphia
-http://pixelip.tv:80/Ignacio123/Ignacio123/1169.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/1181.ts
 #EXTINF:-1 group-title="News" tvg-id="NewsNation.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" tvg-name="NewsNation",NewsNation
 http://pixelip.tv:80/Ignacio123/Ignacio123/238.ts
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/NESN_logo_2019.png" group-title="Sports",NESN
@@ -490,96 +398,6 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/1311.ts
 #EXTINF:-1 tvg-id="89742" tvg-name="NBA 14" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 14
 http://pixelip.tv:80/Ignacio123/Ignacio123/1312.ts
 #EXTINF:-1 tvg-id="89743" tvg-name="NBA 15" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 15
-http://pixelip.tv:80/Ignacio123/Ignacio123/1313.ts
-#EXTINF:-1 tvg-id="89744" tvg-name="NBA 16" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 16
-http://pixelip.tv:80/Ignacio123/Ignacio123/4977.ts
-#EXTINF:-1 tvg-id="89745" tvg-name="NBA 17" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 17
-http://pixelip.tv:80/Ignacio123/Ignacio123/4997.ts
-#EXTINF:-1 tvg-id="89746" tvg-name="NBA 18" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 18
-http://pixelip.tv:80/Ignacio123/Ignacio123/4986.ts
-#EXTINF:-1 tvg-id="89747" tvg-name="NBA 19" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 19
-http://pixelip.tv:80/Ignacio123/Ignacio123/4970.ts
-#EXTINF:-1 tvg-id="89748" tvg-name="NBA 20" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 20
-http://pixelip.tv:80/Ignacio123/Ignacio123/4984.ts
-#EXTINF:-1 tvg-id="89749" tvg-name="NBA 21" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 21
-http://pixelip.tv:80/Ignacio123/Ignacio123/4980.ts
-#EXTINF:-1 tvg-id="89750" tvg-name="NBA 22" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 22
-http://pixelip.tv:80/Ignacio123/Ignacio123/4983.ts
-#EXTINF:-1 tvg-id="89751" tvg-name="NBA 23" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 23
-http://pixelip.tv:80/Ignacio123/Ignacio123/4979.ts
-#EXTINF:-1 tvg-id="89752" tvg-name="NBA 24" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 24
-http://pixelip.tv:80/Ignacio123/Ignacio123/4985.ts
-#EXTINF:-1 tvg-id="89753" tvg-name="NBA 25" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 25
-http://pixelip.tv:80/Ignacio123/Ignacio123/4972.ts
-#EXTINF:-1 tvg-id="89754" tvg-name="NBA 26" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 26
-http://pixelip.tv:80/Ignacio123/Ignacio123/4982.ts
-#EXTINF:-1 tvg-id="89755" tvg-name="NBA 27" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 27
-http://pixelip.tv:80/Ignacio123/Ignacio123/4987.ts
-#EXTINF:-1 tvg-id="89756" tvg-name="NBA 28" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 28
-http://pixelip.tv:80/Ignacio123/Ignacio123/4996.ts
-#EXTINF:-1 tvg-id="89757" tvg-name="NBA 29" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 29
-http://pixelip.tv:80/Ignacio123/Ignacio123/4974.ts
-#EXTINF:-1 tvg-id="89758" tvg-name="NBA 30" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 30
-http://pixelip.tv:80/Ignacio123/Ignacio123/4993.ts
-#EXTINF:-1 tvg-id="89759" tvg-name="NBA 31" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 31
-http://pixelip.tv:80/Ignacio123/Ignacio123/4975.ts
-#EXTINF:-1 tvg-id="89760" tvg-name="NBA 32" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 32
-http://pixelip.tv:80/Ignacio123/Ignacio123/4973.ts
-#EXTINF:-1 tvg-id="89761" tvg-name="NBA 33" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 33
-http://pixelip.tv:80/Ignacio123/Ignacio123/4968.ts
-#EXTINF:-1 tvg-id="89762" tvg-name="NBA 34" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 34
-http://pixelip.tv:80/Ignacio123/Ignacio123/4994.ts
-#EXTINF:-1 tvg-id="89763" tvg-name="NBA 35" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 35
-http://pixelip.tv:80/Ignacio123/Ignacio123/4991.ts
-#EXTINF:-1 tvg-id="89764" tvg-name="NBA 36" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 36
-http://pixelip.tv:80/Ignacio123/Ignacio123/4969.ts
-#EXTINF:-1 tvg-id="89765" tvg-name="NBA 37" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 37
-http://pixelip.tv:80/Ignacio123/Ignacio123/4976.ts
-#EXTINF:-1 tvg-id="89766" tvg-name="NBA 38" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 38
-http://pixelip.tv:80/Ignacio123/Ignacio123/4992.ts
-#EXTINF:-1 tvg-id="89767" tvg-name="NBA 39" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 39
-http://pixelip.tv:80/Ignacio123/Ignacio123/4978.ts
-#EXTINF:-1 tvg-id="89768" tvg-name="NBA 40" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 40
-http://pixelip.tv:80/Ignacio123/Ignacio123/4990.ts
-#EXTINF:-1 tvg-id="89769" tvg-name="NBA 41" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 41
-http://pixelip.tv:80/Ignacio123/Ignacio123/4989.ts
-#EXTINF:-1 tvg-id="89770" tvg-name="NBA 42" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 42
-http://pixelip.tv:80/Ignacio123/Ignacio123/4971.ts
-#EXTINF:-1 tvg-id="89771" tvg-name="NBA 43" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 43
-http://pixelip.tv:80/Ignacio123/Ignacio123/4988.ts
-#EXTINF:-1 tvg-id="89772" tvg-name="NBA 44" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 44
-http://pixelip.tv:80/Ignacio123/Ignacio123/4981.ts
-#EXTINF:-1 tvg-id="89773" tvg-name="NBA 45" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 45
-http://pixelip.tv:80/Ignacio123/Ignacio123/4995.ts
-#EXTINF:-1 tvg-id="89774" tvg-name="NBA 46" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 46
-http://pixelip.tv:80/Ignacio123/Ignacio123/1299.ts
-#EXTINF:-1 tvg-id="89775" tvg-name="NBA 47" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 47
-http://pixelip.tv:80/Ignacio123/Ignacio123/1300.ts
-#EXTINF:-1 tvg-id="89776" tvg-name="NBA 48" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 48
-http://pixelip.tv:80/Ignacio123/Ignacio123/1301.ts
-#EXTINF:-1 tvg-id="89777" tvg-name="NBA 49" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 49
-http://pixelip.tv:80/Ignacio123/Ignacio123/1302.ts
-#EXTINF:-1 tvg-id="89778" tvg-name="NBA 50" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 50
-http://pixelip.tv:80/Ignacio123/Ignacio123/1303.ts
-#EXTINF:-1 tvg-id="89783" tvg-name="NBA 51" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 51
-http://pixelip.tv:80/Ignacio123/Ignacio123/1304.ts
-#EXTINF:-1 tvg-id="89779" tvg-name="NBA 52" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 52
-http://pixelip.tv:80/Ignacio123/Ignacio123/1305.ts
-#EXTINF:-1 tvg-id="89780" tvg-name="NBA 53" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 53
-http://pixelip.tv:80/Ignacio123/Ignacio123/1306.ts
-#EXTINF:-1 tvg-id="89781" tvg-name="NBA 54" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 54
-http://pixelip.tv:80/Ignacio123/Ignacio123/1307.ts
-#EXTINF:-1 tvg-id="89782" tvg-name="NBA 55" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 55
-http://pixelip.tv:80/Ignacio123/Ignacio123/1308.ts
-#EXTINF:-1 tvg-id="89784" tvg-name="NBA 56" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 56
-http://pixelip.tv:80/Ignacio123/Ignacio123/1309.ts
-#EXTINF:-1 tvg-id="89785" tvg-name="NBA 57" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 57
-http://pixelip.tv:80/Ignacio123/Ignacio123/1310.ts
-#EXTINF:-1 tvg-id="89786" tvg-name="NBA 58" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 58
-http://pixelip.tv:80/Ignacio123/Ignacio123/1311.ts
-#EXTINF:-1 tvg-id="89787" tvg-name="NBA 59" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 59
-http://pixelip.tv:80/Ignacio123/Ignacio123/1312.ts
-#EXTINF:-1 tvg-id="89788" tvg-name="NBA 60" tvg-logo="https://cdn.nba.com/manage/2021/10/GettyImages-1228132003.png" group-title="NBA Games",NBA 60
 http://pixelip.tv:80/Ignacio123/Ignacio123/1313.ts
 #EXTINF:-1 tvg-id="NBA-AtlantaHawks.us" tvg-name="US NBA Atlanta Hawks" tvg-logo="https://i.ibb.co/7V6nqg1/atlanta-hawks.png" group-title="NBA Teams",US NBA Atlanta Hawks
 http://pixelip.tv:80/Ignacio123/Ignacio123/4977.ts
@@ -641,6 +459,66 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/4988.ts
 http://pixelip.tv:80/Ignacio123/Ignacio123/4981.ts
 #EXTINF:-1 tvg-id="NBA-WashingtonWizards.us" tvg-name="US NBA Washington Wizards" tvg-logo="https://i.ibb.co/QQ3YXPp/washington-wizards.png" group-title="NBA Teams",US NBA Washington Wizards
 http://pixelip.tv:80/Ignacio123/Ignacio123/4995.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 01",NFL 01
+http://pixelip.tv:80/Ignacio123/Ignacio123/4495.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 02",NFL 02
+http://pixelip.tv:80/Ignacio123/Ignacio123/4497.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 03",NFL 03
+http://pixelip.tv:80/Ignacio123/Ignacio123/4494.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 04",NFL 04
+http://pixelip.tv:80/Ignacio123/Ignacio123/4483.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 05",NFL 05
+http://pixelip.tv:80/Ignacio123/Ignacio123/4490.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 06",NFL 06
+http://pixelip.tv:80/Ignacio123/Ignacio123/4486.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 07",NFL 07
+http://pixelip.tv:80/Ignacio123/Ignacio123/4491.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 08",NFL 08
+http://pixelip.tv:80/Ignacio123/Ignacio123/4487.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 09",NFL 09
+http://pixelip.tv:80/Ignacio123/Ignacio123/4489.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 10",NFL 10
+http://pixelip.tv:80/Ignacio123/Ignacio123/4496.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 11",NFL 11
+http://pixelip.tv:80/Ignacio123/Ignacio123/4493.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 12",NFL 12
+http://pixelip.tv:80/Ignacio123/Ignacio123/4492.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 13",NFL 13
+http://pixelip.tv:80/Ignacio123/Ignacio123/4498.ts
+#EXTINF:-1 group-title="NFL Games (Source 1)" tvg-name="NFL 14",NFL 14
+http://pixelip.tv:80/Ignacio123/Ignacio123/4484.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 01",NFL 01
+http://pixelip.tv:80/Ignacio123/Ignacio123/1265.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 02",NFL 02
+http://pixelip.tv:80/Ignacio123/Ignacio123/1263.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 03",NFL 03
+http://pixelip.tv:80/Ignacio123/Ignacio123/1262.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 04",NFL 04
+http://pixelip.tv:80/Ignacio123/Ignacio123/1260.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 05",NFL 05
+http://pixelip.tv:80/Ignacio123/Ignacio123/4477.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 06",NFL 06
+http://pixelip.tv:80/Ignacio123/Ignacio123/4476.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 07",NFL 07
+http://pixelip.tv:80/Ignacio123/Ignacio123/4471.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 08",NFL 08
+http://pixelip.tv:80/Ignacio123/Ignacio123/4474.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 09",NFL 09
+http://pixelip.tv:80/Ignacio123/Ignacio123/4468.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 10",NFL 10
+http://pixelip.tv:80/Ignacio123/Ignacio123/4475.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 11",NFL 11
+http://pixelip.tv:80/Ignacio123/Ignacio123/4469.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 12",NFL 12
+http://pixelip.tv:80/Ignacio123/Ignacio123/4473.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 13",NFL 13
+http://pixelip.tv:80/Ignacio123/Ignacio123/4472.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 14",NFL 14
+http://pixelip.tv:80/Ignacio123/Ignacio123/4478.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 15",NFL 15
+http://pixelip.tv:80/Ignacio123/Ignacio123/4470.ts
+#EXTINF:-1 group-title="NFL Games (Source 2)" tvg-name="NFL 16",NFL 16
+http://pixelip.tv:80/Ignacio123/Ignacio123/4479.ts
 #EXTINF:-1 tvg-id="NFL-ArizonaCardinals.us" tvg-name="US : NFL ARIZONA CARDINALS" tvg-logo="http://onlytimewilltell.xyz:2086/images/a0b1b014aa06286b74887d6403aa60fd.png" group-title="NFL Teams",US : NFL ARIZONA CARDINALS
 http://pixelip.tv:80/Ignacio123/Ignacio123/1276.ts
 #EXTINF:-1 tvg-id="NFL-AtlantaFalcons.us" tvg-name="US : NFL ATLANTA FALCONS" tvg-logo="http://onlytimewilltell.xyz:2086/images/2b174e7b8565eebfa5352081481751e7.png" group-title="NFL Teams",US : NFL ATLANTA FALCONS
@@ -751,8 +629,6 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/148.ts
 http://pixelip.tv:80/Ignacio123/Ignacio123/187.ts
 #EXTINF:-1 group-title="Sports" tvg-id="SEC.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network",SEC Network
 http://pixelip.tv:80/Ignacio123/Ignacio123/1119.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" tvg-name="Sky Sports Premier League" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="Sports",Sky Sports Premier League
-http://pixelip.tv:80/Ignacio123/Ignacio123/2851.ts
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://i.ibb.co/9wyhp92/showtime-icon-us.png" group-title="Movies",Showtime
 http://pixelip.tv:80/Ignacio123/Ignacio123/200.ts
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" tvg-name="Showtime 2",Showtime 2
@@ -805,8 +681,6 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/211.ts
 http://pixelip.tv:80/Ignacio123/Ignacio123/182.ts
 #EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-encore-suspense-us.png" group-title="Movies",Starz Encore Suspense
 http://pixelip.tv:80/Ignacio123/Ignacio123/160.ts
-#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-name="Starz Encore West" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-encore-us.png" group-title="Movies",Starz Encore West
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644331.ts
 #EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-encore-westerns-us.png" group-title="Movies",Starz Encore Westerns
 http://pixelip.tv:80/Ignacio123/Ignacio123/167.ts
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-in-black-us.png" group-title="Movies",Starz In Black
@@ -820,7 +694,7 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/102.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-name="TBS",TBS
 http://pixelip.tv:80/Ignacio123/Ignacio123/123.ts
 #EXTINF:-1 group-title="Movies" tvg-id="Turner.Classic.Movies.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" tvg-name="TCM",TCM
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644343.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/155.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel
 http://pixelip.tv:80/Ignacio123/Ignacio123/1098.ts
 #EXTINF:-1 tvg-id="WNJU-DT.us_locals1" tvg-name="Telemundo (WNJU) Linden NJ" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/telemundo-us.png" group-title="Español",Telemundo (WNJU) Linden NJ
@@ -850,7 +724,7 @@ http://pixelip.tv:80/Ignacio123/Ignacio123/18.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV.ONE.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne
 http://pixelip.tv:80/Ignacio123/Ignacio123/114.ts
 #EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png?_=20200204003557" group-title="Español",TUDN
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644363.ts
+http://pixelip.tv:80/Ignacio123/Ignacio123/2886.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
 http://pixelip.tv:80/Ignacio123/Ignacio123/87.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1",VH1
