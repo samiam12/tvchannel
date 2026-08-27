@@ -1,749 +1,1219 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 group-title="Entertainment" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
-http://pixelip.tv:80/Ignacio123/Ignacio123/79.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/15966.ts
 #EXTINF:-1 group-title="News" tvg-id="WABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
-http://pixelip.tv:80/Ignacio123/Ignacio123/418.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/49422.ts
 #EXTINF:-1 group-title="Sports" tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
-http://pixelip.tv:80/Ignacio123/Ignacio123/1122.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/46401.ts
 #EXTINF:-1 group-title="Movies" tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
-http://pixelip.tv:80/Ignacio123/Ignacio123/86.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/15923.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="American.Heroes.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",American Heroes Channel
-http://pixelip.tv:80/Ignacio123/Ignacio123/278.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/23360.ts
 #EXTINF:-1 group-title="Documentary" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
-http://pixelip.tv:80/Ignacio123/Ignacio123/264.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/22570.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="Antenna.TV.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna",Antenna
-http://pixelip.tv:80/Ignacio123/Ignacio123/46.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/23228.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="ASPiRE.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
-http://pixelip.tv:80/Ignacio123/Ignacio123/98.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/48333.ts
 #EXTINF:-1 tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Logo-Altitude-Sports.png" group-title="Sports",Altitude Sports
-http://pixelip.tv:80/Ignacio123/Ignacio123/1145.ts
-#EXTINF:-1 tvg-id="Arizona.Family.Sports.us2" tvg-name="AZ Family Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Arizona%27s_Family_Sports_Logo.jpg" group-title="Sports",AZ Family Sports Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/5098.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/48335.ts
+#EXTINF:-1 tvg-id="KPHO-DT.us_locals1" tvg-name="AZ Family Sports Network (KPHO CBS 5)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Arizona%27s_Family_Sports_Logo.jpg" group-title="Sports",AZ Family Sports Network (KPHO CBS 5)
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9859
 #EXTINF:-1 tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Space_City_Home_Network_Logo.png" group-title="Sports",Space City Home Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/1146.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/47475.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA
-http://pixelip.tv:80/Ignacio123/Ignacio123/250.ts
-#EXTINF:-1 group-title="News" tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS",BBC WORLD NEWS
-http://pixelip.tv:80/Ignacio123/Ignacio123/232.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/23359.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" tvg-name="BET",BET
-http://pixelip.tv:80/Ignacio123/Ignacio123/17.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/22566.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" tvg-name="BET HER",BET HER
-http://pixelip.tv:80/Ignacio123/Ignacio123/113.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/23356.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BET.Jams.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET Jams
-http://pixelip.tv:80/Ignacio123/Ignacio123/19.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/48362.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BET.Soul.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" tvg-name="BET SOUL",BET SOUL
-http://pixelip.tv:80/Ignacio123/Ignacio123/85.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/48363.ts
 #EXTINF:-1 group-title="Sports" tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-name="Big Ten Network HD",Big Ten Network HD
-http://pixelip.tv:80/Ignacio123/Ignacio123/1107.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/23355.ts
 #EXTINF:-1 group-title="News" tvg-id="Bloomberg.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-name="BLOOMBERG",BLOOMBERG
-http://pixelip.tv:80/Ignacio123/Ignacio123/2701.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/15958.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",Boomerang
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644125.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/23354.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="Bounce.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",Bounce
-http://pixelip.tv:80/Ignacio123/Ignacio123/97.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/23353.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO",BRAVO
-http://pixelip.tv:80/Ignacio123/Ignacio123/66.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/22562.ts
 #EXTINF:-1 group-title="Entertainment" tvg-id="BUZZR.Stream.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="Buzzr",Buzzr
-http://pixelip.tv:80/Ignacio123/Ignacio123/68.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/23352.ts
 #EXTINF:-1 group-title="News" tvg-id="CSPAN.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-name="C-SPAN",C-SPAN
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644129.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137010
 #EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" tvg-name="CA Sportsnet East" tvg-logo="https://archive.org/download/SportsnetEast/sportsnet%20east.png" group-title="Sports",CA Sportsnet East
-http://pixelip.tv:80/Ignacio123/Ignacio123/2688.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/142480
 #EXTINF:-1 group-title="Kids" tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="CARTOON NETWORK",CARTOON NETWORK
-http://pixelip.tv:80/Ignacio123/Ignacio123/296.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137675
 #EXTINF:-1 group-title="News" tvg-id="WCBS-DT.us_locals1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS New York
-http://pixelip.tv:80/Ignacio123/Ignacio123/681.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/15935.ts
 #EXTINF:-1 group-title="Sports" tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK",CBS SPORTS NETWORK
-http://pixelip.tv:80/Ignacio123/Ignacio123/1121.ts
+http://kstv.us:8080/live/9ghKpgH5pR/8319619204/15944.ts
 #EXTINF:-1 group-title="Sports" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/18/image_80849179721695046851257-ygud8tyd.png" tvg-name="CBS SPORTS GOLAZO NETWORK",CBS SPORTS GOLAZO NETWORK
 http://pixelip.tv:80/Ignacio123/Ignacio123/808822.ts
 #EXTINF:-1 group-title="Movies" tvg-id="Cinemax.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",Cinemax East
-http://pixelip.tv:80/Ignacio123/Ignacio123/203.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129982
 #EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-name="Cinemax 5 Star Max" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/cinemax-5-starmax-us.png" group-title="Movies",Cinemax 5 Star Max
-http://pixelip.tv:80/Ignacio123/Ignacio123/147.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/257496
 #EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="Cinemax Action" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/cinemax-actionmax-us.png" group-title="Movies",Cinemax Action
-http://pixelip.tv:80/Ignacio123/Ignacio123/139.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129981
 #EXTINF:-1 group-title="Entertainment" tvg-id="Cleo.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",Cleo TV
-http://pixelip.tv:80/Ignacio123/Ignacio123/1.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129849
 #EXTINF:-1 group-title="Entertainment" tvg-id="CMT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" tvg-name="CMT",CMT
-http://pixelip.tv:80/Ignacio123/Ignacio123/75.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129850
 #EXTINF:-1 group-title="News" tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC",CNBC
-http://pixelip.tv:80/Ignacio123/Ignacio123/243.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/8341
 #EXTINF:-1 group-title="News" tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN",CNN
-http://pixelip.tv:80/Ignacio123/Ignacio123/234.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136581
 #EXTINF:-1 group-title="Entertainment" tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
-http://pixelip.tv:80/Ignacio123/Ignacio123/61.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129852
 #EXTINF:-1 group-title="Entertainment" tvg-id="Comet.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" tvg-name="COMET",COMET
-http://pixelip.tv:80/Ignacio123/Ignacio123/69.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129854
 #EXTINF:-1 group-title="Entertainment" tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING",COOKING
-http://pixelip.tv:80/Ignacio123/Ignacio123/27.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129855
 #EXTINF:-1 group-title="Entertainment" tvg-id="Court.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" tvg-name="COURT TV",COURT TV
-http://pixelip.tv:80/Ignacio123/Ignacio123/83.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129856
 #EXTINF:-1 group-title="Entertainment" tvg-id="COZI.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" tvg-name="COZI TV",COZI TV
-http://pixelip.tv:80/Ignacio123/Ignacio123/82.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129858
 #EXTINF:-1 group-title="Documentary" tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-name="Destination America",Destination America
-http://pixelip.tv:80/Ignacio123/Ignacio123/282.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129863
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
-http://pixelip.tv:80/Ignacio123/Ignacio123/270.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129864
 #EXTINF:-1 group-title="Kids" tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" tvg-name="DISCOVERY FAMILY CHANNEL",DISCOVERY FAMILY CHANNEL
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644154.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129865
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Life.Channel.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" tvg-name="DISCOVERY LIFE",DISCOVERY LIFE
-http://pixelip.tv:80/Ignacio123/Ignacio123/269.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129866
 #EXTINF:-1 group-title="Documentary" tvg-id="Science.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" tvg-name="Discovery Science",Discovery Science
-http://pixelip.tv:80/Ignacio123/Ignacio123/272.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129867
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
-http://pixelip.tv:80/Ignacio123/Ignacio123/303.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137677
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-name="DISNEY JR",DISNEY JR
-http://pixelip.tv:80/Ignacio123/Ignacio123/295.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137679
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" tvg-name="DISNEY XD",DISNEY XD
-http://pixelip.tv:80/Ignacio123/Ignacio123/297.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137681
 #EXTINF:-1 group-title="Entertainment" tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" tvg-name="E ENTERTAINMENT TELEVISION",E ENTERTAINMENT TELEVISION
-http://pixelip.tv:80/Ignacio123/Ignacio123/4.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129869
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN
-http://pixelip.tv:80/Ignacio123/Ignacio123/1093.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141457
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" tvg-name="ESPN 2",ESPN 2
-http://pixelip.tv:80/Ignacio123/Ignacio123/1120.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136155
 #EXTINF:-1 group-title="Sports" tvg-id="ESPNEWS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" tvg-name="ESPN NEWS",ESPN NEWS
-http://pixelip.tv:80/Ignacio123/Ignacio123/1103.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136160
 #EXTINF:-1 group-title="Sports" tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" tvg-name="ESPN U",ESPN U
-http://pixelip.tv:80/Ignacio123/Ignacio123/1109.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136159
 #EXTINF:-1 group-title="Entertainment" tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" tvg-name="FOOD NETWORK",FOOD NETWORK
-http://pixelip.tv:80/Ignacio123/Ignacio123/40.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129872
 #EXTINF:-1 group-title="News" tvg-id="WNYW-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX 5(WNYW)
-http://pixelip.tv:80/Ignacio123/Ignacio123/884.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10056
 #EXTINF:-1 group-title="News" tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644180.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/8258
 #EXTINF:-1 group-title="Entertainment" tvg-id="FOX.SOUL.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
-http://pixelip.tv:80/Ignacio123/Ignacio123/128.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261527
 #EXTINF:-1 group-title="Entertainment" tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="Freeform",Freeform
-http://pixelip.tv:80/Ignacio123/Ignacio123/134.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/11205
 #EXTINF:-1 group-title="Sports" tvg-id="FS1.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FS1",FS1
-http://pixelip.tv:80/Ignacio123/Ignacio123/1095.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141466
 #EXTINF:-1 group-title="Sports" tvg-id="FS2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-name="FS2",FS2
-http://pixelip.tv:80/Ignacio123/Ignacio123/1117.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141467
 #EXTINF:-1 group-title="Entertainment" tvg-id="Fuse.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="Fuse",Fuse
-http://pixelip.tv:80/Ignacio123/Ignacio123/63.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129876
 #EXTINF:-1 group-title="Entertainment" tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" tvg-name="FX",FX
-http://pixelip.tv:80/Ignacio123/Ignacio123/119.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129877
 #EXTINF:-1 group-title="Movies" tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" tvg-name="FXM",FXM
-http://pixelip.tv:80/Ignacio123/Ignacio123/808771.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129878
 #EXTINF:-1 group-title="Entertainment" tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX",FXX
-http://pixelip.tv:80/Ignacio123/Ignacio123/34.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129879
 #EXTINF:-1 group-title="Entertainment" tvg-id="FYI.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" tvg-name="FYI FHD",FYI FHD
-http://pixelip.tv:80/Ignacio123/Ignacio123/80.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129881
 #EXTINF:-1 group-title="Entertainment" tvg-id="Game.Show.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" tvg-name="GAME SHOW NETWORK",GAME SHOW NETWORK
-http://pixelip.tv:80/Ignacio123/Ignacio123/101.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129883
 #EXTINF:-1 group-title="Entertainment" tvg-id="get.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" tvg-name="getTV",getTV
-http://pixelip.tv:80/Ignacio123/Ignacio123/84.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129884
 #EXTINF:-1 group-title="Entertainment" tvg-id="Grit.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true" tvg-name="GRIT TV",GRIT TV
-http://pixelip.tv:80/Ignacio123/Ignacio123/28.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129885
 #EXTINF:-1 group-title="Movies" tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" tvg-name="Hallmark Channel",Hallmark Channel
-http://pixelip.tv:80/Ignacio123/Ignacio123/186.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129886
 #EXTINF:-1 group-title="Movies" tvg-id="Hallmark.Family.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" tvg-name="Hallmark Family",Hallmark Family
-http://pixelip.tv:80/Ignacio123/Ignacio123/208.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129887
 #EXTINF:-1 group-title="Movies" tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" tvg-name="Hallmark Mystery",Hallmark Mystery
-http://pixelip.tv:80/Ignacio123/Ignacio123/172.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129888
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" tvg-name="HBO",HBO
-http://pixelip.tv:80/Ignacio123/Ignacio123/168.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129991
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy
-http://pixelip.tv:80/Ignacio123/Ignacio123/209.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129990
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO Zone
-http://pixelip.tv:80/Ignacio123/Ignacio123/206.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129995
 #EXTINF:-1 group-title="Movies" tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2",HBO2
-http://pixelip.tv:80/Ignacio123/Ignacio123/216.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130015
 #EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNet Movies" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/hdnet-movies-us.png" group-title="Movies",HDNet Movies
-http://pixelip.tv:80/Ignacio123/Ignacio123/808815.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130055
 #EXTINF:-1 group-title="Entertainment" tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV
-http://pixelip.tv:80/Ignacio123/Ignacio123/133.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129890
 #EXTINF:-1 group-title="News" tvg-id="HLN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN",HLN
-http://pixelip.tv:80/Ignacio123/Ignacio123/117.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/176763
 #EXTINF:-1 group-title="Documentary" tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",History
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644211.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129892
 #EXTINF:-1 group-title="Entertainment" tvg-id="Home.Shopping.Network.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" tvg-name="HSN",HSN
-http://pixelip.tv:80/Ignacio123/Ignacio123/15.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129894
 #EXTINF:-1 group-title="Documentary" tvg-id="Investigation.Discovery.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" tvg-name="ID (Investigation Discovery)",ID (Investigation Discovery)
-http://pixelip.tv:80/Ignacio123/Ignacio123/279.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129899
 #EXTINF:-1 group-title="Entertainment" tvg-id="INSP.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/insp-us.png?raw=true" tvg-name="INSP TV",INSP TV
-http://pixelip.tv:80/Ignacio123/Ignacio123/126.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129898
 #EXTINF:-1 group-title="Entertainment" tvg-id="ION.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-name="ION",ION
-http://pixelip.tv:80/Ignacio123/Ignacio123/38.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129903
 #EXTINF:-1 group-title="Entertainment" tvg-id="Laff.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" tvg-name="Laff TV",Laff TV
-http://pixelip.tv:80/Ignacio123/Ignacio123/73.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129907
 #EXTINF:-1 group-title="Movies" tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" tvg-name="Lifetime",Lifetime
-http://pixelip.tv:80/Ignacio123/Ignacio123/29.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129909
 #EXTINF:-1 group-title="Movies" tvg-id="LMN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" tvg-name="Lifetime Movies Network",Lifetime Movies Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/153.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129910
 #EXTINF:-1 group-title="Entertainment" tvg-id="Logo.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" tvg-name="Logo",Logo
-http://pixelip.tv:80/Ignacio123/Ignacio123/7.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129911
 #EXTINF:-1 group-title="Documentary" tvg-id="Love.Nature.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" tvg-name="LOVE NATURE",LOVE NATURE
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644232.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129724
 #EXTINF:-1 group-title="Documentary" tvg-id="Magnolia.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/diy-network-ca.png" tvg-name="DIY",DIY
-http://pixelip.tv:80/Ignacio123/Ignacio123/67.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129725
 #EXTINF:-1 group-title="Sports" tvg-id="RACER.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" tvg-name="RACER Network",RACER Network
 http://pixelip.tv:80/Ignacio123/Ignacio123/808837.ts
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="https://yt3.googleusercontent.com/BPWSCvkDbheiitC6dPG1Yn153WZcRpvC1lFmXAlit0v-Jv4vbQtn8dYL2thMl3cdlURZyVSF8g=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Marquee Sports Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/1113.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141475
 #EXTINF:-1 tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2" tvg-name="MASN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/MASNLogo2026.png" group-title="Sports",MASN
-http://pixelip.tv:80/Ignacio123/Ignacio123/1167.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141476
 #EXTINF:-1 group-title="Movies" tvg-id="MGM+.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" tvg-name="MGM+",MGM+
-http://pixelip.tv:80/Ignacio123/Ignacio123/210.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129987
 #EXTINF:-1 group-title="Movies" tvg-id="MGM+.Drive-In.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" tvg-name="MGM+ Drive-In",MGM+ Drive-In
-http://pixelip.tv:80/Ignacio123/Ignacio123/145.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130059
 #EXTINF:-1 group-title="Movies" tvg-id="MGM+.Hits.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" tvg-name="MGM+ HITS",MGM+ HITS
-http://pixelip.tv:80/Ignacio123/Ignacio123/152.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129988
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-name="MLB Network",MLB Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/1114.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141479
 #EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Strike Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/960px-Major_League_Baseball_logo.svg.png?_=20190424101007" group-title="Sports",MLB Strike Zone
-http://pixelip.tv:80/Ignacio123/Ignacio123/1084.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/257189
+#EXTINF:-1 group-title="Movies" tvg-id="Crave1.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129643
+#EXTINF:-1 group-title="Movies" tvg-id="Crave2.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129644
+#EXTINF:-1 group-title="Movies" tvg-id="Crave3.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129645
+#EXTINF:-1 group-title="Movies" tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129646
+#EXTINF:-1 group-title="News" tvg-id="al.jazeera.english.ca" tvg-logo="http://pluspng.com/img-png/al-jazeera-logo-png-al-jazeera-channel-png-pluspng-com-al-jazeera-television-png-268.png" tvg-name="AL JAZEERA ENGLISH HD",AL JAZEERA ENGLISH HD
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256064
+#EXTINF:-1 group-title="Sports" tvg-id="golfchannel.us" tvg-logo="https://www.lyngsat.com//logo/tv/gg/golf_channel_us.png" tvg-name="GOLF CHANNEL HD",GOLF CHANNEL HD
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141471
+#EXTINF:-1 group-title="Movies" tvg-id="moremax.us" tvg-logo="https://tlgrm.re/images/cinemax-moremax-us.png" tvg-name="MOREMAX HD",MOREMAX HD
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129984
+#EXTINF:-1 group-title="Sports" tvg-id="sportsnet360.ca" tvg-logo="https://tlgrm.re/images/sportsnet-360-ca.png" tvg-name="SPORTSNET 360 HD",SPORTSNET 360 HD
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/21635
+#EXTINF:-1 group-title="Sports" tvg-id="sportsnetontario.ca" tvg-logo="https://tlgrm.re/images/sportsnet-ontario-ca.png" tvg-name="SPORTSNET ONTARIO HD",SPORTSNET ONTARIO HD
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/142483
 #EXTINF:-1 tvg-id="89592" tvg-name="MLB 01" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 01
-http://pixelip.tv:80/Ignacio123/Ignacio123/5001.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10471
 #EXTINF:-1 tvg-id="89593" tvg-name="MLB 02" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 02
-http://pixelip.tv:80/Ignacio123/Ignacio123/5002.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10472
 #EXTINF:-1 tvg-id="89594" tvg-name="MLB 03" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 03
-http://pixelip.tv:80/Ignacio123/Ignacio123/5003.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10473
 #EXTINF:-1 tvg-id="89595" tvg-name="MLB 04" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 04
-http://pixelip.tv:80/Ignacio123/Ignacio123/5004.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10474
 #EXTINF:-1 tvg-id="89596" tvg-name="MLB 05" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 05
-http://pixelip.tv:80/Ignacio123/Ignacio123/5005.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10475
 #EXTINF:-1 tvg-id="89597" tvg-name="MLB 06" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 06
-http://pixelip.tv:80/Ignacio123/Ignacio123/5006.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10476
 #EXTINF:-1 tvg-id="89598" tvg-name="MLB 07" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 07
-http://pixelip.tv:80/Ignacio123/Ignacio123/5007.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10477
 #EXTINF:-1 tvg-id="89599" tvg-name="MLB 08" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 08
-http://pixelip.tv:80/Ignacio123/Ignacio123/5008.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10478
 #EXTINF:-1 tvg-id="89600" tvg-name="MLB 09" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 09
-http://pixelip.tv:80/Ignacio123/Ignacio123/5009.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10479
 #EXTINF:-1 tvg-id="89601" tvg-name="MLB 10" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 10
-http://pixelip.tv:80/Ignacio123/Ignacio123/5010.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10480
 #EXTINF:-1 tvg-id="89602" tvg-name="MLB 11" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 11
-http://pixelip.tv:80/Ignacio123/Ignacio123/5011.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10481
 #EXTINF:-1 tvg-id="89603" tvg-name="MLB 12" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 12
-http://pixelip.tv:80/Ignacio123/Ignacio123/5012.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10482
 #EXTINF:-1 tvg-id="89604" tvg-name="MLB 13" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 13
-http://pixelip.tv:80/Ignacio123/Ignacio123/5013.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10483
 #EXTINF:-1 tvg-id="89605" tvg-name="MLB 14" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 14
-http://pixelip.tv:80/Ignacio123/Ignacio123/5014.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10484
 #EXTINF:-1 tvg-id="89606" tvg-name="MLB 15" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 15
-http://pixelip.tv:80/Ignacio123/Ignacio123/5015.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10485
 #EXTINF:-1 tvg-id="89607" tvg-name="MLB 16" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 16
-http://pixelip.tv:80/Ignacio123/Ignacio123/5016.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10486
 #EXTINF:-1 tvg-id="89608" tvg-name="MLB 17" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 17
-http://pixelip.tv:80/Ignacio123/Ignacio123/5017.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10487
 #EXTINF:-1 tvg-id="89609" tvg-name="MLB 18" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 18
-http://pixelip.tv:80/Ignacio123/Ignacio123/5018.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10488
 #EXTINF:-1 tvg-id="89610" tvg-name="MLB 19" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 19
-http://pixelip.tv:80/Ignacio123/Ignacio123/5019.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10489
 #EXTINF:-1 tvg-id="89611" tvg-name="MLB 20" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 1)",MLB 20
-http://pixelip.tv:80/Ignacio123/Ignacio123/5020.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10490
 #EXTINF:-1 tvg-id="89612" tvg-name="MLB 21" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 21
-http://pixelip.tv:80/Ignacio123/Ignacio123/1219.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26477
 #EXTINF:-1 tvg-id="89613" tvg-name="MLB 22" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 22
-http://pixelip.tv:80/Ignacio123/Ignacio123/3700.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26478
 #EXTINF:-1 tvg-id="89614" tvg-name="MLB 23" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 23
-http://pixelip.tv:80/Ignacio123/Ignacio123/3701.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26479
 #EXTINF:-1 tvg-id="89615" tvg-name="MLB 24" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 24
-http://pixelip.tv:80/Ignacio123/Ignacio123/3702.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26480
 #EXTINF:-1 tvg-id="89616" tvg-name="MLB 25" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 25
-http://pixelip.tv:80/Ignacio123/Ignacio123/3703.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26481
 #EXTINF:-1 tvg-id="89617" tvg-name="MLB 26" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 26
-http://pixelip.tv:80/Ignacio123/Ignacio123/3704.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26482
 #EXTINF:-1 tvg-id="89618" tvg-name="MLB 27" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 27
-http://pixelip.tv:80/Ignacio123/Ignacio123/3705.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26483
 #EXTINF:-1 tvg-id="89619" tvg-name="MLB 28" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 28
-http://pixelip.tv:80/Ignacio123/Ignacio123/3706.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26484
 #EXTINF:-1 tvg-id="89620" tvg-name="MLB 29" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 29
-http://pixelip.tv:80/Ignacio123/Ignacio123/3707.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26485
 #EXTINF:-1 tvg-id="89621" tvg-name="MLB 30" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 30
-http://pixelip.tv:80/Ignacio123/Ignacio123/3708.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26486
 #EXTINF:-1 tvg-id="89622" tvg-name="MLB 31" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 31
-http://pixelip.tv:80/Ignacio123/Ignacio123/3709.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26487
 #EXTINF:-1 tvg-id="89623" tvg-name="MLB 32" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 32
-http://pixelip.tv:80/Ignacio123/Ignacio123/3710.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26488
 #EXTINF:-1 tvg-id="89624" tvg-name="MLB 33" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 33
-http://pixelip.tv:80/Ignacio123/Ignacio123/3711.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26489
 #EXTINF:-1 tvg-id="89625" tvg-name="MLB 34" tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pact8g94aw3omejumntj" group-title="MLB Games (Source 2)",MLB 34
-http://pixelip.tv:80/Ignacio123/Ignacio123/3712.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/26490
 #EXTINF:-1 tvg-id="MLB-ArizonaDiamondbacks.us" tvg-name="MLB: Arizona Diamondbacks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Arizona Diamondbacks
-http://pixelip.tv:80/Ignacio123/Ignacio123/1237.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126925
 #EXTINF:-1 tvg-id="MLB-AtlantaBraves.us" tvg-name="MLB: Atlanta Braves" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Atlanta Braves
-http://pixelip.tv:80/Ignacio123/Ignacio123/1258.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126926
 #EXTINF:-1 tvg-id="MLB-BaltimoreOrioles.us" tvg-name="MLB: Baltimore Orioles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Baltimore Orioles
-http://pixelip.tv:80/Ignacio123/Ignacio123/1246.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126927
 #EXTINF:-1 tvg-id="MLB-BostonRedSox.us" tvg-name="MLB: Boston Red Sox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Boston Red Sox
-http://pixelip.tv:80/Ignacio123/Ignacio123/1236.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126928
 #EXTINF:-1 tvg-id="MLB-ChicagoCubs.us" tvg-name="MLB: Chicago Cubs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Chicago Cubs
-http://pixelip.tv:80/Ignacio123/Ignacio123/1247.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126929
 #EXTINF:-1 tvg-id="MLB-ChicagoWhiteSox.us" tvg-name="MLB: Chicago White Sox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Chicago White Sox
-http://pixelip.tv:80/Ignacio123/Ignacio123/1241.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126930
 #EXTINF:-1 tvg-id="MLB-CincinnatiReds.us" tvg-name="MLB: Cincinnati Reds" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Cincinnati Reds
-http://pixelip.tv:80/Ignacio123/Ignacio123/1251.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126931
 #EXTINF:-1 tvg-id="MLB-ClevelandGuardians.us" tvg-name="MLB: Cleveland Guardians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Cleveland Guardians
-http://pixelip.tv:80/Ignacio123/Ignacio123/1253.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126932
 #EXTINF:-1 tvg-id="MLB-ColoradoRockies.us" tvg-name="MLB: Colorado Rockies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Colorado Rockies
-http://pixelip.tv:80/Ignacio123/Ignacio123/1243.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126933
 #EXTINF:-1 tvg-id="MLB-DetroitTigers.us" tvg-name="MLB: Detroit Tigers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Detroit Tigers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1255.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126934
 #EXTINF:-1 tvg-id="MLB-HoustonAstros.us" tvg-name="MLB: Houston Astros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Houston Astros
-http://pixelip.tv:80/Ignacio123/Ignacio123/1257.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126935
 #EXTINF:-1 tvg-id="MLB-KansasCityRoyals.us" tvg-name="MLB: Kansas City Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Kansas City Royals
-http://pixelip.tv:80/Ignacio123/Ignacio123/1245.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126936
 #EXTINF:-1 tvg-id="MLB-LosAngelesAngels.us" tvg-name="MLB: Los Angeles Angels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Los Angeles Angels
-http://pixelip.tv:80/Ignacio123/Ignacio123/1239.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126937
 #EXTINF:-1 tvg-id="MLB-LosAngelesDodgers.us" tvg-name="MLB: Los Angeles Dodgers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Los Angeles Dodgers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1235.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126938
 #EXTINF:-1 tvg-id="MLB-MiamiMarlins.us" tvg-name="MLB: Miami Marlins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Miami Marlins
-http://pixelip.tv:80/Ignacio123/Ignacio123/1240.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126939
 #EXTINF:-1 tvg-id="MLB-MilwaukeeBrewers.us" tvg-name="MLB: Milwaukee Brewers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Milwaukee Brewers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1256.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126940
 #EXTINF:-1 tvg-id="MLB-MinnesotaTwins.us" tvg-name="MLB: Minnesota Twins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Minnesota Twins
-http://pixelip.tv:80/Ignacio123/Ignacio123/1230.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126941
 #EXTINF:-1 tvg-id="MLB-NewYorkMets.us" tvg-name="MLB: New York Mets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: New York Mets
-http://pixelip.tv:80/Ignacio123/Ignacio123/1233.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126942
 #EXTINF:-1 tvg-id="MLB-NewYorkYankees.us" tvg-name="MLB: New York Yankees" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: New York Yankees
-http://pixelip.tv:80/Ignacio123/Ignacio123/1252.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126943
 #EXTINF:-1 tvg-id="MLB-Athletics.us" tvg-name="MLB: Oakland Athletics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Oakland Athletics
-http://pixelip.tv:80/Ignacio123/Ignacio123/1242.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126944
 #EXTINF:-1 tvg-id="MLB-PhiladelphiaPhillies.us" tvg-name="MLB: Philadelphia Phillies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Philadelphia Phillies
-http://pixelip.tv:80/Ignacio123/Ignacio123/1244.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126945
 #EXTINF:-1 tvg-id="MLB-PittsburghPirates.us" tvg-name="MLB: Pittsburgh Pirates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Pittsburgh Pirates
-http://pixelip.tv:80/Ignacio123/Ignacio123/1248.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126946
 #EXTINF:-1 tvg-id="MLB-SanDiegoPadres.us" tvg-name="MLB: San Diego Padres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: San Diego Padres
-http://pixelip.tv:80/Ignacio123/Ignacio123/1238.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126947
 #EXTINF:-1 tvg-id="MLB-SanFranciscoGiants.us" tvg-name="MLB: San Francisco Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: San Francisco Giants
-http://pixelip.tv:80/Ignacio123/Ignacio123/1232.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126948
 #EXTINF:-1 tvg-id="MLB-SeattleMariners.us" tvg-name="MLB: Seattle Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Seattle Mariners
-http://pixelip.tv:80/Ignacio123/Ignacio123/1254.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126949
 #EXTINF:-1 tvg-id="MLB-St.LouisCardinals.us" tvg-name="MLB: St. Louis Cardinals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: St. Louis Cardinals
-http://pixelip.tv:80/Ignacio123/Ignacio123/1234.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126950
 #EXTINF:-1 tvg-id="MLB-TampaBayRays.us" tvg-name="MLB: Tampa Bay Rays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Tampa Bay Rays
-http://pixelip.tv:80/Ignacio123/Ignacio123/1231.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126951
 #EXTINF:-1 tvg-id="MLB-TexasRangers.us" tvg-name="MLB: Texas Rangers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Texas Rangers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1249.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126952
 #EXTINF:-1 tvg-id="MLB-TorontoBlueJays.us" tvg-name="MLB: Toronto Blue Jays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Toronto Blue Jays
-http://pixelip.tv:80/Ignacio123/Ignacio123/1250.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126953
 #EXTINF:-1 tvg-id="MLB-WashingtonNationals.us" tvg-name="MLB: Washington Nationals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="MLB Teams",MLB: Washington Nationals
-http://pixelip.tv:80/Ignacio123/Ignacio123/1259.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/126954
 #EXTINF:-1 group-title="Entertainment" tvg-id="MOTORTREND.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" tvg-name="MotorTrend",MotorTrend
-http://pixelip.tv:80/Ignacio123/Ignacio123/52.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130132
 #EXTINF:-1 group-title="Entertainment" tvg-id="MSG.(Alt..feed).-.MSG2.OVERFLOW.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG",MSG
-http://pixelip.tv:80/Ignacio123/Ignacio123/1096.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141480
 #EXTINF:-1 group-title="News" tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" tvg-name="MS NOW",MS NOW
-http://pixelip.tv:80/Ignacio123/Ignacio123/808800.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136649
 #EXTINF:-1 group-title="Entertainment" tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" tvg-name="MTV",MTV
-http://pixelip.tv:80/Ignacio123/Ignacio123/71.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129919
 #EXTINF:-1 group-title="Entertainment" tvg-id="MTV.Classic.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" tvg-name="MTV Classic",MTV Classic
-http://pixelip.tv:80/Ignacio123/Ignacio123/132.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129921
 #EXTINF:-1 group-title="Entertainment" tvg-id="MTVLIVE.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" tvg-name="MTV Live",MTV Live
-http://pixelip.tv:80/Ignacio123/Ignacio123/8.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129922
 #EXTINF:-1 group-title="Entertainment" tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" tvg-name="MTV2",MTV2
-http://pixelip.tv:80/Ignacio123/Ignacio123/103.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129920
 #EXTINF:-1 group-title="Entertainment" tvg-id="mtv-U.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" tvg-name="mtvU",mtvU
-http://pixelip.tv:80/Ignacio123/Ignacio123/12.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129923
 #EXTINF:-1 group-title="Entertainment" tvg-id="Much.Music.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" tvg-name="MUCH",MUCH
-http://pixelip.tv:80/Ignacio123/Ignacio123/2510.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129733
 #EXTINF:-1 tvg-id="WWOR-DT.us_locals1" tvg-name="MY9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5PHKiTAE7JUFx_HYInWdsbibl58txBuHngzcHgbxQ0AEn1Ps7Vx5dozyKwIqVv4GGzqYYvAJGEcYDNhaupGqvG--hpuxWBTf9jkMg9w" group-title="Entertainment",My9
-http://pixelip.tv:80/Ignacio123/Ignacio123/920.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/117216
 #EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="Movieplex" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/movie-plex-us.png" group-title="Movies",Movieplex
-http://pixelip.tv:80/Ignacio123/Ignacio123/170.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130058
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
-http://pixelip.tv:80/Ignacio123/Ignacio123/281.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129928
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.Wild.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" tvg-name="National Geographic Wild",National Geographic Wild
-http://pixelip.tv:80/Ignacio123/Ignacio123/276.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129927
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV
-http://pixelip.tv:80/Ignacio123/Ignacio123/1115.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136816
 #EXTINF:-1 group-title="News" tvg-id="WNBC-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="WNBC",WNBC
-http://pixelip.tv:80/Ignacio123/Ignacio123/445.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10227
 #EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" tvg-logo="https://play-lh.googleusercontent.com/Tb2x4l2dlgyZYOUUEWlprQiu279mBQ4_fh8vVSProE9hpwUdTBjV8hr29znZ7N7hLZ4" group-title="Sports",NBC Sports Bay Area
-http://pixelip.tv:80/Ignacio123/Ignacio123/1151.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136471
 #EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.us2" tvg-name="NBCSN Boston" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nbcsn-boston-us.png" group-title="Sports",NBCSN Boston
-http://pixelip.tv:80/Ignacio123/Ignacio123/1136.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136473
 #EXTINF:-1 tvg-id="NBC.Sports.California.Plus.us2" tvg-name="NBC Sports California" tvg-logo="https://play-lh.googleusercontent.com/Tb2x4l2dlgyZYOUUEWlprQiu279mBQ4_fh8vVSProE9hpwUdTBjV8hr29znZ7N7hLZ4" group-title="Sports",NBC Sports California
-http://pixelip.tv:80/Ignacio123/Ignacio123/1176.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136474
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBCSN Philadelphia" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nbcsn-philadelphia-us.png" group-title="Sports",NBCSN Philadelphia
-http://pixelip.tv:80/Ignacio123/Ignacio123/1181.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136477
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.Plus.us2" tvg-name="NBCSN Philly+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NBC_Sports_Philadelphia_Plus_2023.svg/1920px-NBC_Sports_Philadelphia_Plus_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Sports",NBCSN Philly+
-http://pixelip.tv:80/Ignacio123/Ignacio123/1169.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136478
 #EXTINF:-1 group-title="News" tvg-id="NewsNation.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" tvg-name="NewsNation",NewsNation
-http://pixelip.tv:80/Ignacio123/Ignacio123/238.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129931
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/NESN_logo_2019.png" group-title="Sports",NESN
-http://pixelip.tv:80/Ignacio123/Ignacio123/1168.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141484
 #EXTINF:-1 tvg-id="NESN+.New.England.Sports.Network.Plus.us2" tvg-name="NESN Plus" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/nesn-plus-us.png" group-title="Sports",NESN Plus
-http://pixelip.tv:80/Ignacio123/Ignacio123/1179.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141485
 #EXTINF:-1 tvg-id="News.12.New.Jersey.us2" tvg-name="News12 NewJersey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News12 NewJersey
-http://pixelip.tv:80/Ignacio123/Ignacio123/237.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 01" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_01_.png" group-title="NBA Games",NBA 01
-http://pixelip.tv:80/Ignacio123/Ignacio123/1299.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 02" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_02_.png" group-title="NBA Games",NBA 02
-http://pixelip.tv:80/Ignacio123/Ignacio123/1300.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 03" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_03_.png" group-title="NBA Games",NBA 03
-http://pixelip.tv:80/Ignacio123/Ignacio123/1301.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 04" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_04.png" group-title="NBA Games",NBA 04
-http://pixelip.tv:80/Ignacio123/Ignacio123/1302.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 05" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_05_.png" group-title="NBA Games",NBA 05
-http://pixelip.tv:80/Ignacio123/Ignacio123/1303.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 06" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_06_.png" group-title="NBA Games",NBA 06
-http://pixelip.tv:80/Ignacio123/Ignacio123/1304.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 07" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_07_.png" group-title="NBA Games",NBA 07
-http://pixelip.tv:80/Ignacio123/Ignacio123/1305.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 08" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_08_.png" group-title="NBA Games",NBA 08
-http://pixelip.tv:80/Ignacio123/Ignacio123/1306.ts
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA 09" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_09_.png" group-title="NBA Games",NBA 09
-http://pixelip.tv:80/Ignacio123/Ignacio123/1307.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 10" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_10_.png" group-title="NBA Games",NBA 10
-http://pixelip.tv:80/Ignacio123/Ignacio123/1308.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 11" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_11_.png" group-title="NBA Games",NBA 11
-http://pixelip.tv:80/Ignacio123/Ignacio123/1309.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 12" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_12_.png" group-title="NBA Games",NBA 12
-http://pixelip.tv:80/Ignacio123/Ignacio123/1310.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 13" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_13_.png" group-title="NBA Games",NBA 13
-http://pixelip.tv:80/Ignacio123/Ignacio123/1311.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 14" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_14.png" group-title="NBA Games",NBA 14
-http://pixelip.tv:80/Ignacio123/Ignacio123/1312.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 15" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_15.png" group-title="NBA Games",NBA 15
-http://pixelip.tv:80/Ignacio123/Ignacio123/1313.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/8353
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_01_.png" group-title="NBA Games (Source 1)",NBA 01
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249134
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_02_.png" group-title="NBA Games (Source 1)",NBA 02
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249135
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_03_.png" group-title="NBA Games (Source 1)",NBA 03
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249136
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_04.png" group-title="NBA Games (Source 1)",NBA 04
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249137
+#EXTINF:-1 tvg-id="" tvg-name="NBA 05" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_05_.png" group-title="NBA Games (Source 1)",NBA 05
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249138
+#EXTINF:-1 tvg-id="" tvg-name="NBA 06" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_06_.png" group-title="NBA Games (Source 1)",NBA 06
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249139
+#EXTINF:-1 tvg-id="" tvg-name="NBA 07" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_07_.png" group-title="NBA Games (Source 1)",NBA 07
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249140
+#EXTINF:-1 tvg-id="" tvg-name="NBA 08" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_08_.png" group-title="NBA Games (Source 1)",NBA 08
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249141
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA 09" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_09_.png" group-title="NBA Games (Source 1)",NBA 09
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249142
+#EXTINF:-1 tvg-id="" tvg-name="NBA 10" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_10_.png" group-title="NBA Games (Source 1)",NBA 10
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249143
+#EXTINF:-1 tvg-id="" tvg-name="NBA 11" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_11_.png" group-title="NBA Games (Source 1)",NBA 11
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249144
+#EXTINF:-1 tvg-id="" tvg-name="NBA 12" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_12_.png" group-title="NBA Games (Source 1)",NBA 12
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249145
+#EXTINF:-1 tvg-id="" tvg-name="NBA 13" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_13_.png" group-title="NBA Games (Source 1)",NBA 13
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249146
+#EXTINF:-1 tvg-id="" tvg-name="NBA 14" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_14.png" group-title="NBA Games (Source 1)",NBA 14
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249147
+#EXTINF:-1 tvg-id="" tvg-name="NBA 15" tvg-logo="https://puddintap.click/ico/new/NBA/NBA_15.png" group-title="NBA Games (Source 1)",NBA 15
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249148
+#EXTINF:-1 tvg-id="" tvg-name="NBA 16" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 16
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249149
+#EXTINF:-1 tvg-id="" tvg-name="NBA 17" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 17
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249150
+#EXTINF:-1 tvg-id="" tvg-name="NBA 18" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 18
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249151
+#EXTINF:-1 tvg-id="" tvg-name="NBA 19" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 19
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249152
+#EXTINF:-1 tvg-id="" tvg-name="NBA 20" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 20
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249153
+#EXTINF:-1 tvg-id="" tvg-name="NBA 21" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 21
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249154
+#EXTINF:-1 tvg-id="" tvg-name="NBA 22" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 22
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249155
+#EXTINF:-1 tvg-id="" tvg-name="NBA 23" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 23
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249156
+#EXTINF:-1 tvg-id="" tvg-name="NBA 24" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 24
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249157
+#EXTINF:-1 tvg-id="" tvg-name="NBA 25" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 25
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249158
+#EXTINF:-1 tvg-id="" tvg-name="NBA 26" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 26
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249159
+#EXTINF:-1 tvg-id="" tvg-name="NBA 27" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 27
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249160
+#EXTINF:-1 tvg-id="" tvg-name="NBA 28" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 28
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249161
+#EXTINF:-1 tvg-id="" tvg-name="NBA 29" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 29
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249162
+#EXTINF:-1 tvg-id="" tvg-name="NBA 30" tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" group-title="NBA Games (Source 2)",NBA 30
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249163
 #EXTINF:-1 tvg-id="NBA-AtlantaHawks.us" tvg-name="NBA: Atlanta Hawks" tvg-logo="https://i.ibb.co/7V6nqg1/atlanta-hawks.png" group-title="NBA Teams",NBA: Atlanta Hawks
-http://pixelip.tv:80/Ignacio123/Ignacio123/4977.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33310
 #EXTINF:-1 tvg-id="NBA-BostonCeltics.us" tvg-name="NBA: Boston Celtics" tvg-logo="https://i.ibb.co/fYGgZ74/boston-celtics.png" group-title="NBA Teams",NBA: Boston Celtics
-http://pixelip.tv:80/Ignacio123/Ignacio123/4997.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33311
 #EXTINF:-1 tvg-id="NBA-BrooklynNets.us" tvg-name="NBA: Brooklyn Nets" tvg-logo="https://i.ibb.co/5T1cTSf/brooklyn-nets.png" group-title="NBA Teams",NBA: Brooklyn Nets
-http://pixelip.tv:80/Ignacio123/Ignacio123/4986.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33312
 #EXTINF:-1 tvg-id="NBA-CharlotteHornets.us" tvg-name="NBA: Charlotte Hornets" tvg-logo="https://i.ibb.co/R6Q6zP1/charlotte-hornets.png" group-title="NBA Teams",NBA: Charlotte Hornets
-http://pixelip.tv:80/Ignacio123/Ignacio123/4970.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33313
 #EXTINF:-1 tvg-id="NBA-ChicagoBulls.us" tvg-name="NBA: Chicago Bulls" tvg-logo="https://i.ibb.co/HxT2sHk/chicago-bulls.png" group-title="NBA Teams",NBA: Chicago Bulls
-http://pixelip.tv:80/Ignacio123/Ignacio123/4984.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33314
 #EXTINF:-1 tvg-id="NBA-ClevelandCavaliers.us" tvg-name="NBA: Cleveland Cavaliers" tvg-logo="https://i.ibb.co/6td7fmZ/cleveland-cavaliers.png" group-title="NBA Teams",NBA: Cleveland Cavaliers
-http://pixelip.tv:80/Ignacio123/Ignacio123/4980.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33315
 #EXTINF:-1 tvg-id="NBA-DallasMavericks.us" tvg-name="NBA: Dallas Mavericks" tvg-logo="https://i.ibb.co/s6T0Hz3/dallas-mavericks.png" group-title="NBA Teams",NBA: Dallas Mavericks
-http://pixelip.tv:80/Ignacio123/Ignacio123/4983.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33316
 #EXTINF:-1 tvg-id="NBA-DenverNuggets.us" tvg-name="NBA: Denver Nuggets" tvg-logo="https://i.ibb.co/VYXhfxc/denver-nuggets.png" group-title="NBA Teams",NBA: Denver Nuggets
-http://pixelip.tv:80/Ignacio123/Ignacio123/4979.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33317
 #EXTINF:-1 tvg-id="NBA-DetroitPistons.us" tvg-name="NBA: Detroit Pistons" tvg-logo="https://i.ibb.co/hf3F432/detroit-pistons.png" group-title="NBA Teams",NBA: Detroit Pistons
-http://pixelip.tv:80/Ignacio123/Ignacio123/4985.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33318
 #EXTINF:-1 tvg-id="NBA-GoldenStateWarriors.us" tvg-name="NBA: Golden State Warriors" tvg-logo="https://i.ibb.co/tPj4vVC/golden-state-warriors.png" group-title="NBA Teams",NBA: Golden State Warriors
-http://pixelip.tv:80/Ignacio123/Ignacio123/4972.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33319
 #EXTINF:-1 tvg-id="NBA-HoustonRockets.us" tvg-name="NBA: Houston Rockets" tvg-logo="https://i.ibb.co/gVTY3pt/houston-rockets.png" group-title="NBA Teams",NBA: Houston Rockets
-http://pixelip.tv:80/Ignacio123/Ignacio123/4982.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33320
 #EXTINF:-1 tvg-id="NBA-IndianaPacers.us" tvg-name="NBA: Indiana Pacers" tvg-logo="https://i.ibb.co/st2FVB6/indiana-pacers.png" group-title="NBA Teams",NBA: Indiana Pacers
-http://pixelip.tv:80/Ignacio123/Ignacio123/4987.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33321
 #EXTINF:-1 tvg-id="NBA-LAClippers.us" tvg-name="NBA: Los Angeles Clippers" tvg-logo="https://i.ibb.co/mSxkgDS/los-angeles-clippers.png" group-title="NBA Teams",NBA: Los Angeles Clippers
-http://pixelip.tv:80/Ignacio123/Ignacio123/4996.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33322
 #EXTINF:-1 tvg-id="NBA-LosAngelesLakers.us" tvg-name="NBA: Los Angeles Lakers" tvg-logo="https://i.ibb.co/NVJyJsk/los-angeles-lakers.png" group-title="NBA Teams",NBA: Los Angeles Lakers
-http://pixelip.tv:80/Ignacio123/Ignacio123/4974.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33323
 #EXTINF:-1 tvg-id="NBA-MemphisGrizzlies.us" tvg-name="NBA: Memphis Grizzlies" tvg-logo="https://i.ibb.co/S76qCvS/memphis-grizzlies.png" group-title="NBA Teams",NBA: Memphis Grizzlies
-http://pixelip.tv:80/Ignacio123/Ignacio123/4993.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33324
 #EXTINF:-1 tvg-id="NBA-MiamiHeat.us" tvg-name="NBA: Miami Heat" tvg-logo="https://i.ibb.co/7bLZQd8/miami-heat.png" group-title="NBA Teams",NBA: Miami Heat
-http://pixelip.tv:80/Ignacio123/Ignacio123/4975.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33325
 #EXTINF:-1 tvg-id="NBA-MilwaukeeBucks.us" tvg-name="NBA: Milwaukee Bucks" tvg-logo="https://i.ibb.co/MSpvFZN/milwaukee-bucks.png" group-title="NBA Teams",NBA: Milwaukee Bucks
-http://pixelip.tv:80/Ignacio123/Ignacio123/4973.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33326
 #EXTINF:-1 tvg-id="NBA-MinnesotaTimberwolves.us" tvg-name="NBA: Minnesota Timberwolves" tvg-logo="https://i.ibb.co/mD1X19h/minnesota-timberwolves.png" group-title="NBA Teams",NBA: Minnesota Timberwolves
-http://pixelip.tv:80/Ignacio123/Ignacio123/4968.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33327
 #EXTINF:-1 tvg-id="NBA-NewOrleansPelicans.us" tvg-name="NBA: New Orleans Pelicans" tvg-logo="https://i.ibb.co/xmMxFZt/new-orleans-pelicans.png" group-title="NBA Teams",NBA: New Orleans Pelicans
-http://pixelip.tv:80/Ignacio123/Ignacio123/4994.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33328
 #EXTINF:-1 tvg-id="NBA-NewYorkKnicks.us" tvg-name="NBA: New York Knicks" tvg-logo="https://i.ibb.co/XsFLwbn/new-york-knicks.png" group-title="NBA Teams",NBA: New York Knicks
-http://pixelip.tv:80/Ignacio123/Ignacio123/4991.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33329
 #EXTINF:-1 tvg-id="NBA-OklahomaCityThunder.us" tvg-name="NBA: Oklahoma City Thunder" tvg-logo="https://i.ibb.co/Wnx2KWy/oklahoma-city-thunder.png" group-title="NBA Teams",NBA: Oklahoma City Thunder
-http://pixelip.tv:80/Ignacio123/Ignacio123/4969.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33330
 #EXTINF:-1 tvg-id="NBA-OrlandoMagic.us" tvg-name="NBA: Orlando Magic" tvg-logo="https://i.ibb.co/Qmj1JrB/orlando-magic.png" group-title="NBA Teams",NBA: Orlando Magic
-http://pixelip.tv:80/Ignacio123/Ignacio123/4976.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33331
 #EXTINF:-1 tvg-id="NBA-Philadelphia76ers.us" tvg-name="NBA: Philadelphia 76ers" tvg-logo="https://i.ibb.co/hd5bLsY/philadelphia-76ers.png" group-title="NBA Teams",NBA: Philadelphia 76ers
-http://pixelip.tv:80/Ignacio123/Ignacio123/4992.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33332
 #EXTINF:-1 tvg-id="NBA-PhoenixSuns.us" tvg-name="NBA: Phoenix Suns" tvg-logo="https://i.ibb.co/4MM73LM/phoenix-suns.png" group-title="NBA Teams",NBA: Phoenix Suns
-http://pixelip.tv:80/Ignacio123/Ignacio123/4978.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33333
 #EXTINF:-1 tvg-id="NBA-PortlandTrailBlazers.us" tvg-name="NBA: Portland Trail Blazers" tvg-logo="https://i.ibb.co/hXZN0mp/portland-trail-blazers.png" group-title="NBA Teams",NBA: Portland Trail Blazers
-http://pixelip.tv:80/Ignacio123/Ignacio123/4990.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33334
 #EXTINF:-1 tvg-id="NBA-SacramentoKings.us" tvg-name="NBA: Sacramento Kings" tvg-logo="https://i.ibb.co/fQHsjp4/sacramento-kings.png" group-title="NBA Teams",NBA: Sacramento Kings
-http://pixelip.tv:80/Ignacio123/Ignacio123/4989.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33335
 #EXTINF:-1 tvg-id="NBA-SanAntonioSpurs.us" tvg-name="NBA: San Antonio Spurs" tvg-logo="https://i.ibb.co/7b3sfLk/san-antonio-spurs.png" group-title="NBA Teams",NBA: San Antonio Spurs
-http://pixelip.tv:80/Ignacio123/Ignacio123/4971.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33336
 #EXTINF:-1 tvg-id="NBA-TorontoRaptors.us" tvg-name="NBA: Toronto Raptors" tvg-logo="https://i.ibb.co/mD68yf1/toronto-raptors.png" group-title="NBA Teams",NBA: Toronto Raptors
-http://pixelip.tv:80/Ignacio123/Ignacio123/4988.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33337
 #EXTINF:-1 tvg-id="NBA-UtahJazz.us" tvg-name="NBA: Utah Jazz" tvg-logo="https://i.ibb.co/b6XMfRR/utah-jazz.png" group-title="NBA Teams",NBA: Utah Jazz
-http://pixelip.tv:80/Ignacio123/Ignacio123/4981.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33338
 #EXTINF:-1 tvg-id="NBA-WashingtonWizards.us" tvg-name="NBA: Washington Wizards" tvg-logo="https://i.ibb.co/QQ3YXPp/washington-wizards.png" group-title="NBA Teams",NBA: Washington Wizards
-http://pixelip.tv:80/Ignacio123/Ignacio123/4995.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/33339
 #EXTINF:-1 tvg-id="" tvg-name="NFL 01" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_13_.png" group-title="NFL Games (Source 1)",NFL 01
-http://pixelip.tv:80/Ignacio123/Ignacio123/4495.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242106
 #EXTINF:-1 tvg-id="" tvg-name="NFL 02" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_15_.png" group-title="NFL Games (Source 1)",NFL 02
-http://pixelip.tv:80/Ignacio123/Ignacio123/4497.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242107
 #EXTINF:-1 tvg-id="" tvg-name="NFL 03" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_12_.png" group-title="NFL Games (Source 1)",NFL 03
-http://pixelip.tv:80/Ignacio123/Ignacio123/4494.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242108
 #EXTINF:-1 tvg-id="" tvg-name="NFL 04" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_01_.PNG" group-title="NFL Games (Source 1)",NFL 04
-http://pixelip.tv:80/Ignacio123/Ignacio123/4483.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242109
 #EXTINF:-1 tvg-id="" tvg-name="NFL 05" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_08_.png" group-title="NFL Games (Source 1)",NFL 05
-http://pixelip.tv:80/Ignacio123/Ignacio123/4490.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242110
 #EXTINF:-1 tvg-id="" tvg-name="NFL 06" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_04_.png" group-title="NFL Games (Source 1)",NFL 06
-http://pixelip.tv:80/Ignacio123/Ignacio123/4486.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242111
 #EXTINF:-1 tvg-id="" tvg-name="NFL 07" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_09_.png" group-title="NFL Games (Source 1)",NFL 07
-http://pixelip.tv:80/Ignacio123/Ignacio123/4491.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242112
 #EXTINF:-1 tvg-id="" tvg-name="NFL 08" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_05_.png" group-title="NFL Games (Source 1)",NFL 08
-http://pixelip.tv:80/Ignacio123/Ignacio123/4487.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242113
 #EXTINF:-1 tvg-id="" tvg-name="NFL 09" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_07_.png" group-title="NFL Games (Source 1)",NFL 09
-http://pixelip.tv:80/Ignacio123/Ignacio123/4489.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242114
 #EXTINF:-1 tvg-id="" tvg-name="NFL 10" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_14_.png" group-title="NFL Games (Source 1)",NFL 10
-http://pixelip.tv:80/Ignacio123/Ignacio123/4496.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242115
 #EXTINF:-1 tvg-id="" tvg-name="NFL 11" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_11_.png" group-title="NFL Games (Source 1)",NFL 11
-http://pixelip.tv:80/Ignacio123/Ignacio123/4493.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242116
 #EXTINF:-1 tvg-id="" tvg-name="NFL 12" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_10_.png" group-title="NFL Games (Source 1)",NFL 12
-http://pixelip.tv:80/Ignacio123/Ignacio123/4492.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242117
 #EXTINF:-1 tvg-id="" tvg-name="NFL 13" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_16_.png" group-title="NFL Games (Source 1)",NFL 13
-http://pixelip.tv:80/Ignacio123/Ignacio123/4498.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242118
 #EXTINF:-1 tvg-id="" tvg-name="NFL 14" tvg-logo="https://puddintap.click/ico/new/NFL/NFL_02_.png" group-title="NFL Games (Source 1)",NFL 14
-http://pixelip.tv:80/Ignacio123/Ignacio123/4484.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/242119
 #EXTINF:-1 tvg-id="" tvg-name="NFL 15" tvg-logo="https://logo.m3uassets.com/nfl01.png" group-title="NFL Games (Source 2)",NFL 15
-http://pixelip.tv:80/Ignacio123/Ignacio123/1265.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12480
 #EXTINF:-1 tvg-id="" tvg-name="NFL 16" tvg-logo="https://logo.m3uassets.com/nfl01.png" group-title="NFL Games (Source 2)",NFL 16
-http://pixelip.tv:80/Ignacio123/Ignacio123/1263.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12481
 #EXTINF:-1 tvg-id="" tvg-name="NFL 17" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 17
-http://pixelip.tv:80/Ignacio123/Ignacio123/1262.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12482
 #EXTINF:-1 tvg-id="" tvg-name="NFL 18" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 18
-http://pixelip.tv:80/Ignacio123/Ignacio123/1260.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12483
 #EXTINF:-1 tvg-id="nodetails" tvg-name="NFL 19" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 19
-http://pixelip.tv:80/Ignacio123/Ignacio123/4477.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12484
 #EXTINF:-1 tvg-id="nodetails" tvg-name="NFL 20" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 20
-http://pixelip.tv:80/Ignacio123/Ignacio123/4476.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12485
 #EXTINF:-1 tvg-id="nodetails" tvg-name="NFL 21" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 21
-http://pixelip.tv:80/Ignacio123/Ignacio123/4471.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12486
 #EXTINF:-1 tvg-id="nodetails" tvg-name="NFL 22" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 22
-http://pixelip.tv:80/Ignacio123/Ignacio123/4474.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12487
 #EXTINF:-1 tvg-id="nodetails" tvg-name="NFL 23" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 23
-http://pixelip.tv:80/Ignacio123/Ignacio123/4468.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12488
 #EXTINF:-1 tvg-id="nodetails" tvg-name="NFL 24" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 24
-http://pixelip.tv:80/Ignacio123/Ignacio123/4475.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12489
 #EXTINF:-1 tvg-id="nodetails" tvg-name="NFL 25" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 25
-http://pixelip.tv:80/Ignacio123/Ignacio123/4469.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12490
 #EXTINF:-1 tvg-id="nodetails" tvg-name="NFL 26" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 26
-http://pixelip.tv:80/Ignacio123/Ignacio123/4473.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12491
 #EXTINF:-1 tvg-id="" tvg-name="NFL 27" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 27
-http://pixelip.tv:80/Ignacio123/Ignacio123/4472.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12492
 #EXTINF:-1 tvg-id="nodetails" tvg-name="NFL 28" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 28
-http://pixelip.tv:80/Ignacio123/Ignacio123/4478.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12493
 #EXTINF:-1 tvg-id="" tvg-name="NFL 29" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 29
-http://pixelip.tv:80/Ignacio123/Ignacio123/4470.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12494
 #EXTINF:-1 tvg-id="nodetails" tvg-name="NFL 30" tvg-logo="http://pixelip.tv:80/images/0f5879c33eace61a9c31a794e41ef3b4.png" group-title="NFL Games (Source 2)",NFL 30
-http://pixelip.tv:80/Ignacio123/Ignacio123/4479.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12495
 #EXTINF:-1 tvg-id="NFL-ArizonaCardinals.us" tvg-name="NFL: Arizona Cardinals" tvg-logo="http://onlytimewilltell.xyz:2086/images/a0b1b014aa06286b74887d6403aa60fd.png" group-title="NFL Teams",NFL: Arizona Cardinals
-http://pixelip.tv:80/Ignacio123/Ignacio123/1276.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249241
 #EXTINF:-1 tvg-id="NFL-AtlantaFalcons.us" tvg-name="NFL: Atlanta Falcons" tvg-logo="http://onlytimewilltell.xyz:2086/images/2b174e7b8565eebfa5352081481751e7.png" group-title="NFL Teams",NFL: Atlanta Falcons
-http://pixelip.tv:80/Ignacio123/Ignacio123/1297.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249242
 #EXTINF:-1 tvg-id="NFL-BaltimoreRavens.us" tvg-name="NFL: Baltimore Ravens" tvg-logo="http://onlytimewilltell.xyz:2086/images/c5f7a6e7de7309bd5caf676742d45392.png" group-title="NFL Teams",NFL: Baltimore Ravens
-http://pixelip.tv:80/Ignacio123/Ignacio123/1281.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249243
 #EXTINF:-1 tvg-id="NFL-BuffaloBills.us" tvg-name="NFL: Buffalo Bills" tvg-logo="http://onlytimewilltell.xyz:2086/images/2e633e6aec59ec6c5820c693346721df.png" group-title="NFL Teams",NFL: Buffalo Bills
-http://pixelip.tv:80/Ignacio123/Ignacio123/1294.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249244
 #EXTINF:-1 tvg-id="NFL-CarolinaPanthers.us" tvg-name="NFL: Carolina Panthers" tvg-logo="http://onlytimewilltell.xyz:2086/images/f52091bfe0e300b04a9adc553411e8ad.png" group-title="NFL Teams",NFL: Carolina Panthers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1280.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249245
 #EXTINF:-1 tvg-id="NFL-ChicagoBears.us" tvg-name="NFL: Chicago Bears" tvg-logo="http://onlytimewilltell.xyz:2086/images/b32bbe5723c27674960bd20292063c73.png" group-title="NFL Teams",NFL: Chicago Bears
-http://pixelip.tv:80/Ignacio123/Ignacio123/1282.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249246
 #EXTINF:-1 tvg-id="NFL-CincinnatiBengals.us" tvg-name="NFL: Cincinnati Bengals" tvg-logo="http://onlytimewilltell.xyz:2086/images/a4a2b76ca73d52a8cc0af7fb75dfe17f.png" group-title="NFL Teams",NFL: Cincinnati Bengals
-http://pixelip.tv:80/Ignacio123/Ignacio123/1277.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249247
 #EXTINF:-1 tvg-id="NFL-ClevelandBrowns.us" tvg-name="NFL: Cleveland Browns" tvg-logo="http://onlytimewilltell.xyz:2086/images/472202337280ffdac38610911dd91c69.png" group-title="NFL Teams",NFL: Cleveland Browns
-http://pixelip.tv:80/Ignacio123/Ignacio123/1283.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249248
 #EXTINF:-1 tvg-id="NFL-DallasCowboys.us" tvg-name="NFL: Dallas Cowboys" tvg-logo="http://onlytimewilltell.xyz:2086/images/607be19feb324c1e77f5be3308d2c505.png" group-title="NFL Teams",NFL: Dallas Cowboys
-http://pixelip.tv:80/Ignacio123/Ignacio123/1271.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249249
 #EXTINF:-1 tvg-id="NFL-DenverBroncos.us" tvg-name="NFL: Denver Broncos" tvg-logo="http://onlytimewilltell.xyz:2086/images/f35f85a863344ef012d25117ccb29541.png" group-title="NFL Teams",NFL: Denver Broncos
-http://pixelip.tv:80/Ignacio123/Ignacio123/1290.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249250
 #EXTINF:-1 tvg-id="NFL-DetroitLions.us" tvg-name="NFL: Detroit Lions" tvg-logo="http://onlytimewilltell.xyz:2086/images/a3f735bc44d32869e6543d54fd62d6bb.png" group-title="NFL Teams",NFL: Detroit Lions
-http://pixelip.tv:80/Ignacio123/Ignacio123/1284.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249251
 #EXTINF:-1 tvg-id="NFL-GreenBayPackers.us" tvg-name="NFL: Green Bay Packers" tvg-logo="http://onlytimewilltell.xyz:2086/images/875f0ff643a2db96e9fd46d12f35e2c2.png" group-title="NFL Teams",NFL: Green Bay Packers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1286.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249252
 #EXTINF:-1 tvg-id="NFL-HoustonTexans.us" tvg-name="NFL: Houston Texans" tvg-logo="http://onlytimewilltell.xyz:2086/images/64b24a9f2530e6cbc9387bd7f745f53a.png" group-title="NFL Teams",NFL: Houston Texans
-http://pixelip.tv:80/Ignacio123/Ignacio123/1274.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249253
 #EXTINF:-1 tvg-id="NFL-IndianapolisColts.us" tvg-name="NFL: Indianapolis Colts" tvg-logo="http://onlytimewilltell.xyz:2086/images/b42d4adf7f59f39c99cb4da487633596.png" group-title="NFL Teams",NFL: Indianapolis Colts
-http://pixelip.tv:80/Ignacio123/Ignacio123/1273.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249254
 #EXTINF:-1 tvg-id="NFL-JacksonvilleJaguars.us" tvg-name="NFL: Jacksonville Jaguars" tvg-logo="http://onlytimewilltell.xyz:2086/images/b32465a95d457ea860c58519f9db0a58.png" group-title="NFL Teams",NFL: Jacksonville Jaguars
-http://pixelip.tv:80/Ignacio123/Ignacio123/1269.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249255
 #EXTINF:-1 tvg-id="NFL-KansasCityChiefs.us" tvg-name="NFL: Kansas City Chiefs" tvg-logo="http://onlytimewilltell.xyz:2086/images/2b4f2a3af5db8e9361be7b1aa2418fde.png" group-title="NFL Teams",NFL: Kansas City Chiefs
-http://pixelip.tv:80/Ignacio123/Ignacio123/1268.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249256
 #EXTINF:-1 tvg-id="NFL-LasVegasRaiders.us" tvg-name="NFL: Las Vegas Raiders" tvg-logo="http://onlytimewilltell.xyz:2086/images/d1f5a543d289b4337c27f213e84dca70.png" group-title="NFL Teams",NFL: Las Vegas Raiders
-http://pixelip.tv:80/Ignacio123/Ignacio123/1279.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249257
 #EXTINF:-1 tvg-id="NFL-LosAngelesChargers.us" tvg-name="NFL: Los Angeles Chargers" tvg-logo="http://onlytimewilltell.xyz:2086/images/04b0576e30f5536ea729a4e0947a2381.png" group-title="NFL Teams",NFL: Los Angeles Chargers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1270.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249258
 #EXTINF:-1 tvg-id="NFL-LosAngelesRams.us" tvg-name="NFL: Los Angeles Rams" tvg-logo="http://onlytimewilltell.xyz:2086/images/32867a745fb3e677eb2447087b9eb3f2.png" group-title="NFL Teams",NFL: Los Angeles Rams
-http://pixelip.tv:80/Ignacio123/Ignacio123/1275.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249259
 #EXTINF:-1 tvg-id="NFL-MiamiDolphins.us" tvg-name="NFL: Miami Dolphins" tvg-logo="http://onlytimewilltell.xyz:2086/images/5719b62bd4c7aeac9df70ad9ef2347f4.png" group-title="NFL Teams",NFL: Miami Dolphins
-http://pixelip.tv:80/Ignacio123/Ignacio123/1289.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249260
 #EXTINF:-1 tvg-id="NFL-MinnesotaVikings.us" tvg-name="NFL: Minnesota Vikings" tvg-logo="http://onlytimewilltell.xyz:2086/images/6fd7612d6cd37717f6ccb8570571fc11.png" group-title="NFL Teams",NFL: Minnesota Vikings
-http://pixelip.tv:80/Ignacio123/Ignacio123/1287.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249261
 #EXTINF:-1 tvg-id="NFL-NewEnglandPatriots.us" tvg-name="NFL: New England Patriots" tvg-logo="http://onlytimewilltell.xyz:2086/images/aea2d7ca1cf45aaa179764d60882b48b.png" group-title="NFL Teams",NFL: New England Patriots
-http://pixelip.tv:80/Ignacio123/Ignacio123/1291.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249262
 #EXTINF:-1 tvg-id="NFL-NewOrleansSaints.us" tvg-name="NFL: New Orleans Saints" tvg-logo="http://onlytimewilltell.xyz:2086/images/d378d159f308ed474da16b7fc5607856.png" group-title="NFL Teams",NFL: New Orleans Saints
-http://pixelip.tv:80/Ignacio123/Ignacio123/1272.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249263
 #EXTINF:-1 tvg-id="NFL-NewYorkGiants.us" tvg-name="NFL: New York Giants" tvg-logo="http://onlytimewilltell.xyz:2086/images/a3ebd231a94ad06196869268c69d57de.png" group-title="NFL Teams",NFL: New York Giants
-http://pixelip.tv:80/Ignacio123/Ignacio123/1288.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249264
 #EXTINF:-1 tvg-id="NFL-NewYorkJets.us" tvg-name="NFL: New York Jets" tvg-logo="http://onlytimewilltell.xyz:2086/images/5ce65a393d3e613974dd993ac891e59e.png" group-title="NFL Teams",NFL: New York Jets
-http://pixelip.tv:80/Ignacio123/Ignacio123/1266.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249265
 #EXTINF:-1 tvg-id="NFL-PhiladelphiaEagles.us" tvg-name="NFL: Philadelphia Eagles" tvg-logo="http://onlytimewilltell.xyz:2086/images/639d4c589be27260f30facdf7b1535b5.png" group-title="NFL Teams",NFL: Philadelphia Eagles
-http://pixelip.tv:80/Ignacio123/Ignacio123/1293.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249266
 #EXTINF:-1 tvg-id="NFL-PittsburghSteelers.us" tvg-name="NFL: Pittsburgh Steelers" tvg-logo="http://onlytimewilltell.xyz:2086/images/272937e37a2e7f0e5c0b056806e8e690.png" group-title="NFL Teams",NFL: Pittsburgh Steelers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1267.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249267
 #EXTINF:-1 tvg-id="NFL-SanFrancisco49ers.us" tvg-name="NFL: San Francisco 49ers" tvg-logo="http://onlytimewilltell.xyz:2086/images/2620fd4a77a9e2e7bf9c7a355cb2ef56.png" group-title="NFL Teams",NFL: San Francisco 49ers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1278.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249268
 #EXTINF:-1 tvg-id="NFL-SeattleSeahawks.us" tvg-name="NFL: Seattle Seahawks" tvg-logo="http://onlytimewilltell.xyz:2086/images/9230a8bcc38bcc499d779857fca967aa.png" group-title="NFL Teams",NFL: Seattle Seahawks
-http://pixelip.tv:80/Ignacio123/Ignacio123/1296.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249269
 #EXTINF:-1 tvg-id="NFL-TampaBayBuccaneers.us" tvg-name="NFL: Tampa Bay Buccaneers" tvg-logo="http://onlytimewilltell.xyz:2086/images/ff606738d83126297c409cf113c15768.png" group-title="NFL Teams",NFL: Tampa Bay Buccaneers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1292.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249270
 #EXTINF:-1 tvg-id="NFL-TennesseeTitans.us" tvg-name="NFL: Tennessee Titans" tvg-logo="http://onlytimewilltell.xyz:2086/images/21bf0916a710dc040102dc0fc4a79bc7.png" group-title="NFL Teams",NFL: Tennessee Titans
-http://pixelip.tv:80/Ignacio123/Ignacio123/1285.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249271
 #EXTINF:-1 tvg-id="NFL-WashingtonCommanders.us" tvg-name="NFL: Washington Commanders" tvg-logo="http://onlytimewilltell.xyz:2086/images/b6dd008a6773ae8d9e8c2d2dd14b27ee.png" group-title="NFL Teams",NFL: Washington Commanders
-http://pixelip.tv:80/Ignacio123/Ignacio123/1295.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249272
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL Network",NFL Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/1108.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/167981
 #EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-name="NFL RedZone",NFL RedZone
-http://pixelip.tv:80/Ignacio123/Ignacio123/1094.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12479
 #EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" tvg-name="NHL Network",NHL Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/1101.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/167982
 #EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",Nickelodeon
-http://pixelip.tv:80/Ignacio123/Ignacio123/288.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137684
 #EXTINF:-1 group-title="Kids" tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" tvg-name="NickJr",NickJr
-http://pixelip.tv:80/Ignacio123/Ignacio123/294.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137683
 #EXTINF:-1 group-title="Kids" tvg-id="Nick.Music.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" tvg-name="NickMusic USA",NickMusic USA
 http://pixelip.tv:80/Ignacio123/Ignacio123/300.ts
 #EXTINF:-1 group-title="Kids" tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" tvg-name="NickToons",NickToons
-http://pixelip.tv:80/Ignacio123/Ignacio123/286.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137686
 #EXTINF:-1 group-title="Entertainment" tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" tvg-name="Oprah Winfrey Network",Oprah Winfrey Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/39.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129936
 #EXTINF:-1 group-title="Documentary" tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" tvg-name="Outdoor Channel",Outdoor Channel
-http://pixelip.tv:80/Ignacio123/Ignacio123/13.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129933
 #EXTINF:-1 group-title="Sports" tvg-id="Outside.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" tvg-name="OUTSIDE TV",OUTSIDE TV
-http://pixelip.tv:80/Ignacio123/Ignacio123/125.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129934
 #EXTINF:-1 group-title="Entertainment" tvg-id="Ovation.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" tvg-name="Ovation",Ovation
-http://pixelip.tv:80/Ignacio123/Ignacio123/129.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129935
 #EXTINF:-1 group-title="Entertainment" tvg-id="Oxygen.True.Crime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" tvg-name="Oxygen",Oxygen
-http://pixelip.tv:80/Ignacio123/Ignacio123/77.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/15912
 #EXTINF:-1 group-title="Entertainment" tvg-id="Paramount.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" tvg-name="Paramount Network",Paramount Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/5.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129938
 #EXTINF:-1 group-title="Entertainment" tvg-id="Pursuit.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel",Pursuit Channel
-http://pixelip.tv:80/Ignacio123/Ignacio123/45.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129944
 #EXTINF:-1 tvg-id="WPIX-DT.us_locals1" tvg-name="PIX11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/1200px-PIX11_2017.svg.png?20180304001403" group-title="News",PIX11(WPIX)
-http://pixelip.tv:80/Ignacio123/Ignacio123/946.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129862
 #EXTINF:-1 group-title="Entertainment" tvg-id="QVC.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/qvc-us.png" tvg-name="QVC",QVC
-http://pixelip.tv:80/Ignacio123/Ignacio123/49.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129945
 #EXTINF:-1 group-title="Entertainment" tvg-id="ReelzChannel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" tvg-name="ReelzChannel",ReelzChannel
-http://pixelip.tv:80/Ignacio123/Ignacio123/95.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129948
 #EXTINF:-1 group-title="Entertainment" tvg-id="Revolt.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" tvg-name="Revolt",Revolt
-http://pixelip.tv:80/Ignacio123/Ignacio123/20.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129950
 #EXTINF:-1 tvg-id="ScreenPix.us2" tvg-name="ScreenPix" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/screenpix-us.png" group-title="Movies",ScreenPix
-http://pixelip.tv:80/Ignacio123/Ignacio123/193.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130052
 #EXTINF:-1 tvg-id="ScreenPix.Action.us2" tvg-name="ScreenPix Action" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/screenpix-action-us.png" group-title="Movies",ScreenPix Action
-http://pixelip.tv:80/Ignacio123/Ignacio123/165.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130051
 #EXTINF:-1 tvg-id="ScreenPix.Voices.us2" tvg-name="ScreenPix Voices" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/screenpix-voices-us.png" group-title="Movies",ScreenPix Voices
-http://pixelip.tv:80/Ignacio123/Ignacio123/148.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130053
 #EXTINF:-1 tvg-id="ScreenPix.Westerns.us2" tvg-name="ScreenPix Westerns" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/screenpix-westerns-us.png" group-title="Movies",ScreenPix Westerns
-http://pixelip.tv:80/Ignacio123/Ignacio123/187.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130054
 #EXTINF:-1 group-title="Sports" tvg-id="SEC.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network",SEC Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/1119.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141496
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://i.ibb.co/9wyhp92/showtime-icon-us.png" group-title="Movies",Showtime
-http://pixelip.tv:80/Ignacio123/Ignacio123/200.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129996
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" tvg-name="Showtime 2",Showtime 2
-http://pixelip.tv:80/Ignacio123/Ignacio123/190.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130019
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" tvg-name="Showtime Extreme",Showtime Extreme
-http://pixelip.tv:80/Ignacio123/Ignacio123/173.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129999
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.Next.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" tvg-name="Showtime Next",Showtime Next
-http://pixelip.tv:80/Ignacio123/Ignacio123/212.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130001
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Family Zone" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/showtime-family-zone-us.png" group-title="Movies",Showtime Family Zone
-http://pixelip.tv:80/Ignacio123/Ignacio123/158.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130000
 #EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/showtime-showcase-us.png" group-title="Movies",Showtime Showcase
-http://pixelip.tv:80/Ignacio123/Ignacio123/157.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129998
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.Women.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" tvg-name="Showtime Women",Showtime Women
-http://pixelip.tv:80/Ignacio123/Ignacio123/213.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130002
 #EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-name="SHOxBET" tvg-logo="https://i.pinimg.com/originals/90/38/12/903812417068d8e6b249e823297ae908.png" group-title="Movies",SHOxBET
-http://pixelip.tv:80/Ignacio123/Ignacio123/171.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130016
 #EXTINF:-1 group-title="Documentary" tvg-id="Smithsonian.HD.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" tvg-name="SMITHSONIAN CHANNEL",SMITHSONIAN CHANNEL
-http://pixelip.tv:80/Ignacio123/Ignacio123/263.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129953
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SNY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="Sports",SNY
-http://pixelip.tv:80/Ignacio123/Ignacio123/1105.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141499
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/sony-movies-us.png" group-title="Movies",Sony Movie Channel
-http://pixelip.tv:80/Ignacio123/Ignacio123/150.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130020
 #EXTINF:-1 group-title="Sports" tvg-id="Sportsman.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" tvg-name="Sportsman Channel",Sportsman Channel
-http://pixelip.tv:80/Ignacio123/Ignacio123/124.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129954
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum Sportsnet Dodgers" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/spectrum-sportsnet-la-us.png" group-title="Sports",Spectrum Sportsnet Dodgers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1125.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141497
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="Spectrum Sportsnet Lakers" tvg-logo="http://iptvboss.xyz/logos/USA/SpectrumSportsNetLALakers.us.png" group-title="Sports",Spectrum Sportsnet Lakers
-http://pixelip.tv:80/Ignacio123/Ignacio123/1148.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141498
 #EXTINF:-1 group-title="Sports" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",Stadium
-http://pixelip.tv:80/Ignacio123/Ignacio123/1118.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141500
 #EXTINF:-1 group-title="Entertainment" tvg-id="Start.TV.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",Start TV
-http://pixelip.tv:80/Ignacio123/Ignacio123/59.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129955
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",Starz
-http://pixelip.tv:80/Ignacio123/Ignacio123/205.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130004
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-cinema-us.png" group-title="Movies",Starz Cinema
-http://pixelip.tv:80/Ignacio123/Ignacio123/161.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130003
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy",Starz Comedy
-http://pixelip.tv:80/Ignacio123/Ignacio123/156.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130006
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Edge.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" tvg-name="Starz Edge",Starz Edge
-http://pixelip.tv:80/Ignacio123/Ignacio123/162.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130007
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Encore.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" tvg-name="Starz Encore",Starz Encore
-http://pixelip.tv:80/Ignacio123/Ignacio123/198.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130060
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" tvg-name="Starz Encore Action",Starz Encore Action
-http://pixelip.tv:80/Ignacio123/Ignacio123/183.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130009
 #EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="Starz Encore Black" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-encore-black-us.png" group-title="Movies",Starz Encore Black
-http://pixelip.tv:80/Ignacio123/Ignacio123/164.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130062
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" tvg-name="STARZ ENCORE CLASSIC",STARZ ENCORE CLASSIC
-http://pixelip.tv:80/Ignacio123/Ignacio123/211.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130010
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-encore-family-us.png" group-title="Movies",Starz Encore Family
-http://pixelip.tv:80/Ignacio123/Ignacio123/182.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130011
 #EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-encore-suspense-us.png" group-title="Movies",Starz Encore Suspense
-http://pixelip.tv:80/Ignacio123/Ignacio123/160.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130012
 #EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-name="Starz Encore West" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-encore-us.png" group-title="Movies",Starz Encore West
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644331.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/257258
 #EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-encore-westerns-us.png" group-title="Movies",Starz Encore Westerns
-http://pixelip.tv:80/Ignacio123/Ignacio123/167.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/13038
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-in-black-us.png" group-title="Movies",Starz In Black
-http://pixelip.tv:80/Ignacio123/Ignacio123/142.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130008
 #EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids & Family" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/starz-kids-and-family-us.png" group-title="Movies",Starz Kids & Family
-http://pixelip.tv:80/Ignacio123/Ignacio123/215.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130018
 #EXTINF:-1 group-title="Movies" tvg-id="SundanceTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" tvg-name="SundanceTV",SundanceTV
-http://pixelip.tv:80/Ignacio123/Ignacio123/22.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129957
 #EXTINF:-1 group-title="Entertainment" tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY",SYFY
-http://pixelip.tv:80/Ignacio123/Ignacio123/102.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129958
 #EXTINF:-1 group-title="Entertainment" tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-name="TBS",TBS
-http://pixelip.tv:80/Ignacio123/Ignacio123/123.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129960
 #EXTINF:-1 group-title="Movies" tvg-id="Turner.Classic.Movies.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" tvg-name="TCM",TCM
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644343.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129962
 #EXTINF:-1 group-title="Sports" tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel
-http://pixelip.tv:80/Ignacio123/Ignacio123/1098.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136481
 #EXTINF:-1 tvg-id="WNJU-DT.us_locals1" tvg-name="Telemundo (WNJU) Linden NJ" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/telemundo-us.png" group-title="Español",Telemundo (WNJU) Linden NJ
-http://pixelip.tv:80/Ignacio123/Ignacio123/991.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/135393
 #EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-name="The Movie Channel" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/the-movie-channel-us.png" group-title="Movies",The Movie Channel
-http://pixelip.tv:80/Ignacio123/Ignacio123/149.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130063
 #EXTINF:-1 group-title="Documentary" tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-name="TLC",TLC
-http://pixelip.tv:80/Ignacio123/Ignacio123/55.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129964
 #EXTINF:-1 group-title="Entertainment" tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
-http://pixelip.tv:80/Ignacio123/Ignacio123/10.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129966
 #EXTINF:-1 group-title="Documentary" tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
-http://pixelip.tv:80/Ignacio123/Ignacio123/271.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129968
 #EXTINF:-1 group-title="Entertainment" tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" tvg-name="truTV",truTV
-http://pixelip.tv:80/Ignacio123/Ignacio123/6.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129969
 #EXTINF:-1 group-title="Sports" tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1
-http://pixelip.tv:80/Ignacio123/Ignacio123/2520.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/142475
 #EXTINF:-1 group-title="Sports" tvg-id="TSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2",TSN 2
-http://pixelip.tv:80/Ignacio123/Ignacio123/2602.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/142476
 #EXTINF:-1 group-title="Sports" tvg-id="TSN.3.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3",TSN 3
-http://pixelip.tv:80/Ignacio123/Ignacio123/2650.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/142477
 #EXTINF:-1 group-title="Sports" tvg-id="TSN.4.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4",TSN 4
-http://pixelip.tv:80/Ignacio123/Ignacio123/2615.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/142478
 #EXTINF:-1 group-title="Sports" tvg-id="TSN.5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5",TSN 5
-http://pixelip.tv:80/Ignacio123/Ignacio123/2640.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/268551
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV.Land.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLand",TVLand
-http://pixelip.tv:80/Ignacio123/Ignacio123/18.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129970
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV.ONE.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne
-http://pixelip.tv:80/Ignacio123/Ignacio123/114.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129971
 #EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png?_=20200204003557" group-title="Español",TUDN
-http://pixelip.tv:80/Ignacio123/Ignacio123/2644363.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249593
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/87.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129973
 #EXTINF:-1 group-title="Entertainment" tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1",VH1
-http://pixelip.tv:80/Ignacio123/Ignacio123/58.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129975
 #EXTINF:-1 group-title="Entertainment" tvg-id="Vice.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" tvg-name="Vice",Vice
-http://pixelip.tv:80/Ignacio123/Ignacio123/23.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129976
 #EXTINF:-1 group-title="Entertainment" tvg-id="W.Network.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/w-network-ca.png" tvg-name="W NETWORK",W NETWORK
-http://pixelip.tv:80/Ignacio123/Ignacio123/2634.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129771
 #EXTINF:-1 group-title="News" tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" tvg-name="Weather Channel",Weather Channel
-http://pixelip.tv:80/Ignacio123/Ignacio123/233.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/8359
 #EXTINF:-1 group-title="Entertainment" tvg-id="WE.tv.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" tvg-name="WeTV",WeTV
-http://pixelip.tv:80/Ignacio123/Ignacio123/56.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129977
 #EXTINF:-1 group-title="Documentary" tvg-id="World.Fishing.Network.HD.(US).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK",WORLD FISHING NETWORK
-http://pixelip.tv:80/Ignacio123/Ignacio123/1144.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129773
 #EXTINF:-1 group-title="Sports" tvg-id="Yes.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
-http://pixelip.tv:80/Ignacio123/Ignacio123/1083.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/263032
 #EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-name="Univision(WXTV) New York" tvg-logo="" group-title="Español",Univision(WXTV) Paterson NJ
-http://pixelip.tv:80/Ignacio123/Ignacio123/1013.ts
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/135434
+#EXTINF:-1 group-title="Entertainment" tvg-id="AlienNationByDUST.us" tvg-logo="http://epg.ophion.feralhosting.com/logos/USA/aliennation.jpg" tvg-name="ALIEN NATION",ALIEN NATION
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256723
+#EXTINF:-1 group-title="Entertainment" tvg-id="AMGTV.us" tvg-logo="https://static.epg.best/us/AMGTV.us.png" tvg-name="AMG TV",AMG TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129823
+#EXTINF:-1 group-title="Entertainment" tvg-id="AWE.us" tvg-logo="https://i.ibb.co/nkMn5Q9/awe-us.png" tvg-name="AWE",AWE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129828
+#EXTINF:-1 group-title="Entertainment" tvg-id="AXSTV.us" tvg-logo="https://i.ibb.co/0tnstTq/axs-tv.png" tvg-name="AXS TV",AXS TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129830
+#EXTINF:-1 group-title="Entertainment" tvg-id="BETGospel.us" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHwd_PUsdFmIJ2q4zTxBvw6GHeWS6bi9NqhyCnd4uzH4w.png" tvg-name="BET GOSPEL",BET GOSPEL
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/251080
+#EXTINF:-1 group-title="Entertainment" tvg-id="CatchyComedy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/240px-Catchy_Comedy_logo.svg.png" tvg-name="CATCHY COMEDY (FORMERLY DECADES)",CATCHY COMEDY (FORMERLY DECADES)
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129845
+#EXTINF:-1 group-title="Entertainment" tvg-id="Charge!.us" tvg-logo="https://i.ibb.co/0n0rbhM/charge.png" tvg-name="CHARGE!",CHARGE!
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129847
+#EXTINF:-1 group-title="Entertainment" tvg-id="Circle.peacocktv" tvg-logo="https://wsmradio.com/wp-content/uploads/sites/10/2019/12/Circle_Web_600x600.jpg" tvg-name="CIRCLE",CIRCLE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129848
+#EXTINF:-1 group-title="Entertainment" tvg-id="ColdCaseFilesbyA&E.pluto" tvg-logo="https://epg.ophion.feralhosting.com/logos/USA/coldcasefiles.jpg" tvg-name="COLD CASE FILES",COLD CASE FILES
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256724
+#EXTINF:-1 group-title="Entertainment" tvg-id="ComedyTV.us" tvg-logo="https://iptvboss.xyz/logos/USA/ComedyTV.us.png" tvg-name="COMEDY.TV",COMEDY.TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261524
+#EXTINF:-1 group-title="Entertainment" tvg-id="TheCowboyChannel.us" tvg-logo="https://i.ibb.co/0YwN3W7/cowboy-channel.png" tvg-name="COWBOY CHANNEL",COWBOY CHANNEL
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129857
+#EXTINF:-1 group-title="Entertainment" tvg-id="CrimeandInvestigationNetwork.us" tvg-logo="https://i.ibb.co/gd8hCPt/crime-and-investigation.png" tvg-name="CRIME & INVESTIGATION",CRIME & INVESTIGATION
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129860
+#EXTINF:-1 group-title="Entertainment" tvg-id="AandECrime360.us" tvg-logo="https://iptvboss.xyz/logos/USA/Crime360.us.png" tvg-name="CRIME 360",CRIME 360
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256722
+#EXTINF:-1 group-title="Entertainment" tvg-id="CTVSpeed.ca" tvg-logo="https://iptvboss.xyz/logos/Canada/CTVSpeed.ca.png" tvg-name="CTV SPEED",CTV SPEED
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/12372
+#EXTINF:-1 group-title="Entertainment" tvg-id="Dabl.us" tvg-logo="https://brybar.cx:443/images/VXiz89LY2q-BpHNtB3gBkftrbR4Ip8YNxiaPjS4gP2RLhzolfLqPU0dBs5k1yAxCL3e7MRy4kNWcu9dfpxFX3Q.png" tvg-name="DABL",DABL
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/251081
+#EXTINF:-1 group-title="Entertainment" tvg-id="DogTV.us" tvg-logo="https://i.ibb.co/yPhnmz1/dog-tv-us.png" tvg-name="DOG TV",DOG TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129868
+#EXTINF:-1 group-title="Entertainment" tvg-id="Dust.us" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1BtFmYjgzhFTEs8z7CeNiiNyz7NhfL-DH8d24md3L0oKAyI1hjOUHHS3GzzuWILcZiV7RO1dBYzIJHLff30BhY.png" tvg-name="DUST",DUST
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/251083
+#EXTINF:-1 group-title="Entertainment" tvg-id="EbonyTVbyLionsgate.us" tvg-logo="http://epg.ophion.feralhosting.com/logos/USA/ebonytv.jpg" tvg-name="EBONY",EBONY
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256726
+#EXTINF:-1 group-title="Entertainment" tvg-id="ElReyNetwork.us" tvg-logo="https://iptvboss.xyz/logos/USA/ELREYHD.png" tvg-name="EL REY REBEL",EL REY REBEL
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256727
+#EXTINF:-1 group-title="Entertainment" tvg-id="FETV.us" tvg-logo="https://i.imgur.com/BhkhhWw.png" tvg-name="FE TV",FE TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/11650
+#EXTINF:-1 group-title="Entertainment" tvg-id="GreatAmericanFamily.us" tvg-logo="https://i.ibb.co/8chnxpw/gac-family.png" tvg-name="GAC FAMILY (GREAT AMERICAN COUNTRY)",GAC FAMILY (GREAT AMERICAN COUNTRY)
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129882
+#EXTINF:-1 group-title="Entertainment" tvg-id="GreatAmericanAdventures.us" tvg-logo="https://iptvboss.xyz/logos/USA/GreatAmericanAdventures.us.png" tvg-name="GREAT AMERICAN ADVENTURES",GREAT AMERICAN ADVENTURES
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256729
+#EXTINF:-1 group-title="Entertainment" tvg-id="GreatAmericanLiving.us" tvg-logo="https://iptvboss.xyz/logos/USA/GreatAmericanLiving.us.png" tvg-name="GREAT AMERICAN LIVING",GREAT AMERICAN LIVING
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261528
+#EXTINF:-1 group-title="Entertainment" tvg-id="HeroesandIcons.us" tvg-logo="https://i.imgur.com/LQz1gal.gif" tvg-name="HEROES AND ICONS",HEROES AND ICONS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129889
+#EXTINF:-1 group-title="Entertainment" tvg-id="HerSphere.us" tvg-logo="https://iptvboss.xyz/logos/USA/HerSphere.us.png" tvg-name="HERSPHERE",HERSPHERE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256730
+#EXTINF:-1 group-title="Entertainment" tvg-id="HSN.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/HSN2_logo_new.png/revision/latest/scale-to-width-down/250?cb=20220104031744" tvg-name="HSN 2",HSN 2
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129895
+#EXTINF:-1 group-title="Entertainment" tvg-id="IFC.us" tvg-logo="https://i.ibb.co/Mh42Y0s/ifc-us.png" tvg-name="IFC",IFC
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129897
+#EXTINF:-1 group-title="Entertainment" tvg-id="IonMystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/220px-ION_Mystery_logo.svg.png" tvg-name="ION MYSTERY",ION MYSTERY
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129901
+#EXTINF:-1 group-title="Entertainment" tvg-id="IONPlus.us" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/68/USAJ2200014K9_20201208T081550.png" tvg-name="ION PLUS",ION PLUS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129902
+#EXTINF:-1 group-title="Entertainment" tvg-id="JewelryTelevision.us" tvg-logo="https://i.imgur.com/1HJraea.png" tvg-name="JEWELRY TV",JEWELRY TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129904
+#EXTINF:-1 group-title="Entertainment" tvg-id="JusticeCentral.us" tvg-logo="https://i.ibb.co/QbMJfRZ/justice-central.png" tvg-name="JUSTICE CENTRAL",JUSTICE CENTRAL
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129906
+#EXTINF:-1 group-title="Entertainment" tvg-id="LawAndCrime.us" tvg-logo="https://i.ibb.co/Br7WdmG/law-and-crime-network-us.png" tvg-name="LAW AND CRIME",LAW AND CRIME
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129908
+#EXTINF:-1 group-title="Entertainment" tvg-id="METVWJLP.us" tvg-logo="https://i.ibb.co/KFY3P68/me-tv.png" tvg-name="ME TV",ME TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129914
+#EXTINF:-1 group-title="Entertainment" tvg-id="MeTV+.us" tvg-logo="https://cdnmetv.metv.com/2sP5J-1620921942-73-page-metvplus.png" tvg-name="ME TV+",ME TV+
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129915
+#EXTINF:-1 group-title="Entertainment" tvg-id="MeTvToons.us" tvg-logo="https://epg.ophion.feralhosting.com/logos/USA/metvtoons.png" tvg-name="MeTV Toons",MeTV Toons
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/239352
+#EXTINF:-1 group-title="Entertainment" tvg-id="NBCLXKTMDDT3.us" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHpGE2jrLYL4GzKJ7IYwdGj.png" tvg-name="NBCLX",NBCLX
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/251084
+#EXTINF:-1 group-title="Entertainment" tvg-id="CineNostalgia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Classic_Reruns_TV.png" tvg-name="NOSTALGIA NETWORK",NOSTALGIA NETWORK
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129932
+#EXTINF:-1 group-title="Entertainment" tvg-id="PixL.us" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/us/PixLTV.us.png" tvg-name="PIXL",PIXL
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/11642
+#EXTINF:-1 group-title="Entertainment" tvg-id="POP.us" tvg-logo="https://i.ibb.co/QvsPFqc/pop.png" tvg-name="POP",POP
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129943
+#EXTINF:-1 group-title="Entertainment" tvg-id="QVC2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/QVC2_logo_2019.svg/640px-QVC2_logo_2019.svg.png" tvg-name="QVC 2",QVC 2
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129946
+#EXTINF:-1 group-title="Entertainment" tvg-id="QVC3.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/QVC3.us.png" tvg-name="QVC 3",QVC 3
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129947
+#EXTINF:-1 group-title="Entertainment" tvg-id="RecipeTV.us" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s1BtFmYjgzhFTEs8z7CeNiiNyz7NhfL-DH8d24md3L0oc_0BOck6hbfcKbHNAvyW0SbI0JiewN0jL0LYW5EFujk.png" tvg-name="RECIPE TV",RECIPE TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/251085
+#EXTINF:-1 group-title="Entertainment" tvg-id="RetroTV.us" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/retro_tv.png" tvg-name="RETRO TV",RETRO TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129949
+#EXTINF:-1 group-title="Entertainment" tvg-id="RFDTV.us" tvg-logo="https://i.ibb.co/1LDYdSm/rfd-tv-us.png" tvg-name="RFD TV",RFD TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129952
+#EXTINF:-1 group-title="Entertainment" tvg-id="Tastemade.us" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAK3508707A_20210525T051649.png" tvg-name="TASTEMADE",TASTEMADE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129959
+#EXTINF:-1 group-title="Entertainment" tvg-id="TheGrio.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Grio.svg/220px-The_Grio.svg.png" tvg-name="THE GRIO",THE GRIO
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129963
+#EXTINF:-1 group-title="Entertainment" tvg-id="TMZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TMZLogo.svg/300px-TMZLogo.svg.png" tvg-name="TMZ LIVE",TMZ LIVE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129965
+#EXTINF:-1 group-title="Entertainment" tvg-id="TotalCrime.us" tvg-logo="https://iptvboss.xyz/logos/USA/TotalCrime.us.png" tvg-name="TOTAL CRIME",TOTAL CRIME
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256732
+#EXTINF:-1 group-title="Entertainment" tvg-id="UP.us" tvg-logo="https://i.ibb.co/YPbbvNM/up-tv-us.png" tvg-name="UP TV",UP TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129972
+#EXTINF:-1 group-title="News" tvg-id="CSPAN2.us" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/c-span-2-us.png" tvg-name="US | C-SPAN 2",C-SPAN 2
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137047
+#EXTINF:-1 group-title="News" tvg-id="CSPAN3.us" tvg-logo="http://stopthecap.com/wp-content/uploads/2010/02/cspan3.png" tvg-name="US | C-SPAN 3",C-SPAN 3
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137080
+#EXTINF:-1 group-title="News" tvg-id="Cheddar.us" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s4_TDMsZgXBoScc6PgXqK0N6Q9D-mdMfTZdvye3iPHQLdpvl5kxIU5MuoEemVbRLlA.png" tvg-name="US | CHEDDAR NEWS",CHEDDAR NEWS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/251086
+#EXTINF:-1 group-title="News" tvg-id="CNBCWorld.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CNBCWorld.us.png" tvg-name="US | CNBC WORLD",CNBC WORLD
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/8342
+#EXTINF:-1 group-title="News" tvg-id="CNNinternational.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CNNinternational.us.png" tvg-name="US | CNN INTERNATIONAL",CNN INTERNATIONAL
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/8344
+#EXTINF:-1 group-title="News" tvg-id="ABCWTNH.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWTNH.us.png" tvg-name="CT | HARTFORD | ABC  WTNH",CT | HARTFORD | ABC  WTNH
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9779
+#EXTINF:-1 group-title="News" tvg-id="CBSWFSB.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWFSB.us.png" tvg-name="CT | HARTFORD | CBS WFSB",CT | HARTFORD | CBS WFSB
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9873
+#EXTINF:-1 group-title="News" tvg-id="FOXWTIC.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWTIC.us.png" tvg-name="CT | HARTFORD | FOX WTIC",CT | HARTFORD | FOX WTIC
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10004
+#EXTINF:-1 group-title="News" tvg-id="PBSWEDH.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxIxYSuoHMQmiSgnMLITX6JUiO6h1ikGJ2o0qOGluIJnQ.png" tvg-name="CT | HARTFORD | PBS WEDH",CT | HARTFORD | PBS WEDH
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243521
+#EXTINF:-1 group-title="News" tvg-id="NBCWVIT.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWVIT.us.png" tvg-name="CT | NEW BRITAIN | NBC WVIT",CT | NEW BRITAIN | NBC WVIT
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10131
+#EXTINF:-1 group-title="News" tvg-id="FoxNewsChannel.us" tvg-logo="https://i.ibb.co/DLkK99x/fox-news-framed-us.png" tvg-name="US | FOX NEWS",FOX NEWS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136761
+#EXTINF:-1 group-title="News" tvg-id="FOXWeather.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWeather.us.png" tvg-name="US | FOX WEATHER",FOX WEATHER
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/8348
+#EXTINF:-1 group-title="News" tvg-id="InfoWars.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/InfoWars.us.png" tvg-name="US | INFO WARS",INFO WARS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136944
+#EXTINF:-1 group-title="News" tvg-id="COVID19" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/N12+News12BrooklynPlus.us.png" tvg-name="US | NEWS 12 BROOKLYN",NEWS 12 BROOKLYN
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/11675
+#EXTINF:-1 group-title="News" tvg-id="N12News12LongIsland.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/N12News12LongIsland.us.png" tvg-name="US | NEWS 12 LONG ISLAND",NEWS 12 LONG ISLAND
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/8352
+#EXTINF:-1 group-title="News" tvg-id="News12Bronx.us" tvg-logo="https://tinyurl.com/y62g4o5n" tvg-name="US | NEWS 12 THE BRONX",NEWS 12 THE BRONX
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/8354
+#EXTINF:-1 group-title="News" tvg-id="News12Westchester.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/N12News12Westchester.us.png" tvg-name="US | NEWS 12 WESTCHESTER",NEWS 12 WESTCHESTER
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/8355
+#EXTINF:-1 group-title="News" tvg-id="News12HudsonValleyPlus.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/N12news12hudsonvalley.us.png" tvg-name="US | NEWS 12+ HUDSON VALLEY",NEWS 12+ HUDSON VALLEY
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/11677
+#EXTINF:-1 group-title="News" tvg-id="NewsmaxTV.us" tvg-logo="http://fanc.tmsimg.com/assets/s97163_ll_h3_aa.png" tvg-name="US | NEWSMAX",NEWSMAX
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/142479
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBwaSkZVbGLTYgg6_Bajwhx2XjhniULjbAK3adgydWVIRA.png" tvg-name="NJ | PBS NJTV",NJ | PBS NJTV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243537
+#EXTINF:-1 group-title="News" tvg-id="ABCWTEN.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWTEN.us.png" tvg-name="NY | ALBANY | ABC WTEN",NY | ALBANY | ABC WTEN
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9822
+#EXTINF:-1 group-title="News" tvg-id="FOXWXXA.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWXXA.us.png" tvg-name="NY | ALBANY | FOX WXXA",NY | ALBANY | FOX WXXA
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10055
+#EXTINF:-1 group-title="News" tvg-id="NBCWNYT.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWNYT.us.png" tvg-name="NY | ALBANY | NBC WNYT",NY | ALBANY | NBC WNYT
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10223
+#EXTINF:-1 group-title="News" tvg-id="FOXWICZ.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWICZ.us.png" tvg-name="NY | BINGHAMPTON | FOX WICZ",NY | BINGHAMPTON | FOX WICZ
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9932
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJByTZNeNdvnyQq_lXkJ79HhX2ZpDSgM9ZT_eO2bH9tuPYA.png" tvg-name="NY | BINGHAMPTON | PBS WSKG",NY | BINGHAMPTON | PBS WSKG
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243540
+#EXTINF:-1 group-title="News" tvg-id="NBCWBGH.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWBGH.us.png" tvg-name="NY | BINGHAMTON | NBC WBGH",NY | BINGHAMTON | NBC WBGH
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10224
+#EXTINF:-1 group-title="News" tvg-id="CWWNLO.us" tvg-logo="https://www.nexstar.tv/wp-content/uploads/2016/09/wnlo-09282016.jpg" tvg-name="NY | BUFFALO CW23 WNLO",NY | BUFFALO CW23 WNLO
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/117217
+#EXTINF:-1 group-title="News" tvg-id="ABCWKBW.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWKBW.us.png" tvg-name="NY | BUFFALO | ABC WKBW",NY | BUFFALO | ABC WKBW
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9823
+#EXTINF:-1 group-title="News" tvg-id="CBSWIVB.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWIVB.us.png" tvg-name="NY | BUFFALO | CBS WIVB",NY | BUFFALO | CBS WIVB
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9933
+#EXTINF:-1 group-title="News" tvg-id="FOXWUTV.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWXXA.us.png" tvg-name="NY | BUFFALO | Fox 29",NY | BUFFALO | Fox 29
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/11640
+#EXTINF:-1 group-title="News" tvg-id="NBCWGRZ.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWGRZ.us.png" tvg-name="NY | BUFFALO | NBC WGRZ",NY | BUFFALO | NBC WGRZ
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10225
+#EXTINF:-1 group-title="News" tvg-id="PBSWNED.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxElqBhomIhcfthYBtAN-m_buCiKiOgsQPHb3bR-90cIg.png" tvg-name="NY | BUFFALO | PBS WNED",NY | BUFFALO | PBS WNED
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243541
+#EXTINF:-1 group-title="News" tvg-id="NBCWETM.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWETM.us.png" tvg-name="NY | ELMIRA | NBC WETM",NY | ELMIRA | NBC WETM
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10226
+#EXTINF:-1 group-title="News" tvg-id="WLNYWLNY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/WLNY_55.svg/revision/latest/scale-to-width-down/250?cb=20170121022327" tvg-name="NY | NEW YORK | CBS 10/55   WLNY",NY | NEW YORK | CBS 10/55   WLNY
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/117221
+#EXTINF:-1 group-title="News" tvg-id="PBSWLIW.us" tvg-logo="https://iptvboss.xyz/logos/USA/WLIW.png" tvg-name="NY | NEW YORK | PBS WLIW",NY | NEW YORK | PBS WLIW
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243563
+#EXTINF:-1 group-title="News" tvg-id="PBSWNET.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBwk1SqPZQcqWsReBCgVOpipIYBjIgLx2lhdOiG1aNRdTA.png" tvg-name="NY | NY | PBS WNET",NY | NY | PBS WNET
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243542
+#EXTINF:-1 group-title="News" tvg-id="NBCWPTZ.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWPTZ.us.png" tvg-name="NY | PLATTSBURGH | NBC WPTZ",NY | PLATTSBURGH | NBC WPTZ
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10228
+#EXTINF:-1 group-title="News" tvg-id="PBSWCFE.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBwqw__meK-HF0JwjhQkegCmWYpJnK68rwyg0tfE6L4c8w.png" tvg-name="NY | PLATTSBURGH | PBS WCFE",NY | PLATTSBURGH | PBS WCFE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243543
+#EXTINF:-1 group-title="News" tvg-id="CBSWROC.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWROC.us.png" tvg-name="NY | ROCHESTER | CBS WROC",NY | ROCHESTER | CBS WROC
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9935
+#EXTINF:-1 group-title="News" tvg-id="FOXWUHF.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWUHF.us.png" tvg-name="NY | ROCHESTER | FOX WUHF",NY | ROCHESTER | FOX WUHF
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10057
+#EXTINF:-1 group-title="News" tvg-id="NBCWHEC.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWHEC.us.png" tvg-name="NY | ROCHESTER | NBC WHEC",NY | ROCHESTER | NBC WHEC
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10229
+#EXTINF:-1 group-title="News" tvg-id="PBSWXXI.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxo2X3UCLvpcKAG5sLg3Y4YCMXf4seUHfA_JDrw5NBnMw.png" tvg-name="NY | ROCHESTER | PBS WXXI",NY | ROCHESTER | PBS WXXI
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243544
+#EXTINF:-1 group-title="News" tvg-id="CBSWRGB.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWRGB.us.png" tvg-name="NY | SCHENECTADY | CBS WRGB",NY | SCHENECTADY | CBS WRGB
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9936
+#EXTINF:-1 group-title="News" tvg-id="ABCWSYR.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWSYR.us.png" tvg-name="NY | SYRACUSE | ABC WSYR",NY | SYRACUSE | ABC WSYR
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9825
+#EXTINF:-1 group-title="News" tvg-id="CBSWTVH.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWTVH.us.png" tvg-name="NY | SYRACUSE | CBS WTVH",NY | SYRACUSE | CBS WTVH
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9937
+#EXTINF:-1 group-title="News" tvg-id="FOXWSYT.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXKFXK.us.png" tvg-name="NY | SYRACUSE | FOX WSYT",NY | SYRACUSE | FOX WSYT
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10058
+#EXTINF:-1 group-title="News" tvg-id="NBCWSTM.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWSTM.us.png" tvg-name="NY | SYRACUSE | NBC WSTM",NY | SYRACUSE | NBC WSTM
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10230
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxfxgU4jiJnu9AeRH_-xYMApQx10b2WKUpLjMt8sHNAqQ.png" tvg-name="NY | SYRACUSE | PBS WCNY",NY | SYRACUSE | PBS WCNY
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243545
+#EXTINF:-1 group-title="News" tvg-id="FOXWFXV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/WFXV-06.png/235px-WFXV-06.png" tvg-name="NY | UTICA - ROME | FOX 33 WFXV",NY | UTICA - ROME | FOX 33 WFXV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/29342
+#EXTINF:-1 group-title="News" tvg-id="ABCWUTR.us" tvg-logo="http://fanc.tmsimg.com/assets/s28708_ll_h3_ab.png" tvg-name="NY | UTICA | ABC WUTR",NY | UTICA | ABC WUTR
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/29339
+#EXTINF:-1 group-title="News" tvg-id="NBCWKTV.us" tvg-logo="https://deadline.com/wp-content/uploads/2020/10/CBS_1920-2.png?crop=398px%2C206px%2C1168px%2C655px&resize=681%2C383" tvg-name="NY | UTICA | CBS Utica | WKTV",NY | UTICA | CBS Utica | WKTV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/29340
+#EXTINF:-1 group-title="News" tvg-id="NBCWVNC.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWVNC.us.png" tvg-name="NY | WATERTOWN | NBC WVNC",NY | WATERTOWN | NBC WVNC
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10232
+#EXTINF:-1 group-title="News" tvg-id="PBSWPBS.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBy_Rg1UZgyCzpN5EEksdkR468sV6CJOmBTT2HnBgnigeQ.png" tvg-name="NY | WATERTOWN | PBS WPBS",NY | WATERTOWN | PBS WPBS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243546
+#EXTINF:-1 group-title="News" tvg-id="OneAmericaNewsNetwork.us" tvg-logo="https://i.ibb.co/8bXwddT/one-america-news-network-us.png" tvg-name="US | ONE AMERICA NEWS NETWORK",ONE AMERICA NEWS NETWORK
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137146
+#EXTINF:-1 group-title="News" tvg-id="CWWSWB.us" tvg-logo="http://mrrobottv.xyz/logo/new%20logos/CW.png" tvg-name="PA |  WILKES-BARRE | CW38 WSWB",PA |  WILKES-BARRE | CW38 WSWB
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/117236
+#EXTINF:-1 group-title="News" tvg-id="CBSWTAJ.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWTAJ.us.png" tvg-name="PA | ALTOONA | CBS WTAJ",PA | ALTOONA | CBS WTAJ
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9948
+#EXTINF:-1 group-title="News" tvg-id="Philly57.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" tvg-name="PA | EAST PHILADELPHIA CW",PA | EAST PHILADELPHIA CW
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/117106
+#EXTINF:-1 group-title="News" tvg-id="ABCWJET.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWJET.us.png" tvg-name="PA | ERIE | ABC WJET",PA | ERIE | ABC WJET
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9833
+#EXTINF:-1 group-title="News" tvg-id="CBSWSEE.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWSEE.us.png" tvg-name="PA | ERIE | CBS 35 WSEE",PA | ERIE | CBS 35 WSEE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9949
+#EXTINF:-1 group-title="News" tvg-id="FOXWFXP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/WFXP_logo.png" tvg-name="PA | ERIE | FOX 66 WFXP",PA | ERIE | FOX 66 WFXP
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10067
+#EXTINF:-1 group-title="News" tvg-id="NBCWICU.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWICU.us.png" tvg-name="PA | ERIE | NBC WICU",PA | ERIE | NBC WICU
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10248
+#EXTINF:-1 group-title="News" tvg-id="PBSWQLN.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxHzjZuryLyHIvekTLXtJ798uhkwvlB8by9v4SLK-xCRg.png" tvg-name="PA | ERIE | PBS WQLN",PA | ERIE | PBS WQLN
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243550
+#EXTINF:-1 group-title="News" tvg-id="PBSWITF.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxYruaqOT0VDq6ACWvKGbV4wkte50ZNmLcIif40WdWo8Q.png" tvg-name="PA | HARRISBURG | PBS WITF",PA | HARRISBURG | PBS WITF
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243551
+#EXTINF:-1 group-title="News" tvg-id="FOXWWCP.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWWCP.us.png" tvg-name="PA | JOHNSTOWN | FOX WWCP",PA | JOHNSTOWN | FOX WWCP
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10068
+#EXTINF:-1 group-title="News" tvg-id="NBCWJAC.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWJAC.us.png" tvg-name="PA | JOHNSTOWN | NBC WJAC",PA | JOHNSTOWN | NBC WJAC
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10249
+#EXTINF:-1 group-title="News" tvg-id="NBCWGAL.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWGAL.us.png" tvg-name="PA | LANCASTER | NBC WGAL",PA | LANCASTER | NBC WGAL
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10251
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://cwphilly.cbslocal.com/wp-content/uploads/sites/31326045/2012/12/Philly-CW57.png?w=1500" tvg-name="PA | PHILADELPHIA CW 57 (WPSG)",PA | PHILADELPHIA CW 57 (WPSG)
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/117116
+#EXTINF:-1 group-title="News" tvg-id="MYNetworkWPHL.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Myphl17_logo.svg/revision/latest/scale-to-width-down/200?cb=20160127034339" tvg-name="PA | PHILADELPHIA PHL 17 WPHL",PA | PHILADELPHIA PHL 17 WPHL
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/117240
+#EXTINF:-1 group-title="News" tvg-id="NewWFMZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png" tvg-name="PA | PHILADELPHIA WFMZ 69",PA | PHILADELPHIA WFMZ 69
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/117241
+#EXTINF:-1 group-title="News" tvg-id="ABCWPVI.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWPVI.us.png" tvg-name="PA | PHILADELPHIA | ABC WPVI",PA | PHILADELPHIA | ABC WPVI
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9834
+#EXTINF:-1 group-title="News" tvg-id="CBSKYW.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSKYW.us.png" tvg-name="PA | PHILADELPHIA | CBS KYW",PA | PHILADELPHIA | CBS KYW
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9950
+#EXTINF:-1 group-title="News" tvg-id="FOXWTXF.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWTXF.us.png" tvg-name="PA | PHILADELPHIA | FOX WTXF",PA | PHILADELPHIA | FOX WTXF
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10069
+#EXTINF:-1 group-title="News" tvg-id="NBCWCAU.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWCAU.us.png" tvg-name="PA | PHILADELPHIA | NBC WCAU",PA | PHILADELPHIA | NBC WCAU
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10252
+#EXTINF:-1 group-title="News" tvg-id="PBSWHYY.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJByR2sBNevQ__MhKaFdcuqGOfsuXBX18Ff0ndLH8ZjqrKw.png" tvg-name="PA | PHILLY | PBS WHYY",PA | PHILLY | PBS WHYY
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243552
+#EXTINF:-1 group-title="News" tvg-id="CWWPKD.us" tvg-logo="" tvg-name="PA | PITTSBURG CW",PA | PITTSBURG CW
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141403
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Wpnt-logo-copy.png" tvg-name="PA | PITTSBURGH MYTV 22 THE POINT",PA | PITTSBURGH MYTV 22 THE POINT
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/117243
+#EXTINF:-1 group-title="News" tvg-id="ABCWTAE.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWTAE.us.png" tvg-name="PA | PITTSBURGH | ABC WTAE",PA | PITTSBURGH | ABC WTAE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9835
+#EXTINF:-1 group-title="News" tvg-id="CBSKDKA.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSKDKA.us.png" tvg-name="PA | PITTSBURGH | CBS KDKA",PA | PITTSBURGH | CBS KDKA
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9951
+#EXTINF:-1 group-title="News" tvg-id="FOXWPGH.us" tvg-logo="" tvg-name="PA | PITTSBURGH | FOX WPGH",PA | PITTSBURGH | FOX WPGH
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/229658
+#EXTINF:-1 group-title="News" tvg-id="NBCWPXI.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWPXI.us.png" tvg-name="PA | PITTSBURGH | NBC WPXI",PA | PITTSBURGH | NBC WPXI
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10253
+#EXTINF:-1 group-title="News" tvg-id="PBSWQED.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBynMYG5L0USjcShHLj34anNaDxg40eLmp0iFepF5oXUdw.png" tvg-name="PA | PITTSBURGH | PBS WQED",PA | PITTSBURGH | PBS WQED
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243553
+#EXTINF:-1 group-title="News" tvg-id="PBSWVIA.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s1-tEPkF3T3sDW0C5j5HJBxOTCxtf31Ii4OYRazuSQWyhXihcIZNEs1tEmvJE0jv3g.png" tvg-name="PA | SCRANTON | PBS WVIA",PA | SCRANTON | PBS WVIA
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/243554
+#EXTINF:-1 group-title="News" tvg-id="CBSWYOU.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWYOU.us.png" tvg-name="PA | WILKES BARRE | CBS WYOU",PA | WILKES BARRE | CBS WYOU
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9952
+#EXTINF:-1 group-title="News" tvg-id="NBCWBRE.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWBRE.us.png" tvg-name="PA | WILKES BARRE | NBC WBRE",PA | WILKES BARRE | NBC WBRE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10254
+#EXTINF:-1 group-title="News" tvg-id="ABCWNEP.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWNEP.us.png" tvg-name="PA | WILKES BARRE | WNEP 16",PA | WILKES BARRE | WNEP 16
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/14090
+#EXTINF:-1 group-title="News" tvg-id="FOXWOLF.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWOLF.us.png" tvg-name="PA | WILKES-BARRE | FOX WOLF",PA | WILKES-BARRE | FOX WOLF
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/14089
+#EXTINF:-1 group-title="News" tvg-id="FOXWPMT.us" tvg-logo="FOXWPMT.us" tvg-name="PA | YORK | FOX WPMT",PA | YORK | FOX WPMT
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/10070
+#EXTINF:-1 group-title="News" tvg-id="AmericasVoice.us" tvg-logo="https://tenwafers.xyz:443/images/yIFZT7dpUDF8SbNBpUnYhe_FeqN0DjzmKGl7GcQyogKhkq2K82nN5jMt12LqrABog-UHNXJAVJllAtdceDGzTw.png" tvg-name="US | REAL AMERICAS VOICE",REAL AMERICAS VOICE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/245824
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="" tvg-name="USA: SPECTRUM NEWS - (NEW YORK) ROCHESTER",SPECTRUM NEWS - (NEW YORK) ROCHESTER
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261288
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="" tvg-name="USA: SPECTRUM NEWS - ALBANY CAPITAL REGION",SPECTRUM NEWS - ALBANY CAPITAL REGION
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261287
+#EXTINF:-1 group-title="News" tvg-id="SpectrumNews1NewYork.us" tvg-logo="" tvg-name="USA: SPECTRUM NEWS - NY1",SPECTRUM NEWS - NY1
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261282
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="" tvg-name="USA: Spectrum News 1 Albany",Spectrum News 1 Albany
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261259
+#EXTINF:-1 group-title="News" tvg-id="SPNB" tvg-logo="" tvg-name="USA: Spectrum News 1 Buffalo",Spectrum News 1 Buffalo
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261258
+#EXTINF:-1 group-title="News" tvg-id="SPCTRNS" tvg-logo="" tvg-name="USA: Spectrum News 1 Central NY",Spectrum News 1 Central NY
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261256
+#EXTINF:-1 group-title="News" tvg-id="SPNEWS" tvg-logo="" tvg-name="USA: Spectrum News 1 Hudson Valley",Spectrum News 1 Hudson Valley
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261250
+#EXTINF:-1 group-title="News" tvg-id="SPNR" tvg-logo="" tvg-name="USA: Spectrum News 1 Rochester",Spectrum News 1 Rochester
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261244
+#EXTINF:-1 group-title="News" tvg-id="SPNST" tvg-logo="" tvg-name="USA: Spectrum News 1 Southern Tier",Spectrum News 1 Southern Tier
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/261242
+#EXTINF:-1 group-title="News" tvg-id="BlazeTV.us" tvg-logo="https://static.epg.best/us/BlazeTV.us.png" tvg-name="US | THE BLAZE",THE BLAZE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249238
+#EXTINF:-1 group-title="Sports" tvg-id="SportsNetPittsburgh.us" tvg-logo="https://i.ibb.co/Sy9w2nK/at-and-t-sportsnet-pittsburgh-us.png" tvg-name="USA | AT&T SPORTSNET PITTSBURGH",AT&T SPORTSNET PITTSBURGH
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141448
+#EXTINF:-1 group-title="Sports" tvg-id="BarstoolSports.us" tvg-logo="https://chumley.barstoolsports.com/union/2021/02/10/adsite-social-share.d89533ed.png" tvg-name="USA | BARSTOOL SPORTS",BARSTOOL SPORTS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141451
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports.us" tvg-logo="https://i.ibb.co/j5x6cvV/bein-sports.png" tvg-name="USA | BEIN SPORTS",BEIN SPORTS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141452
+#EXTINF:-1 group-title="Sports" tvg-id="NextLevelSports.us" tvg-logo="https://static.epg.best/be/ElevenSports1FR.be.png" tvg-name="USA | ELEVEN SPORTS NETWORK",ELEVEN SPORTS NETWORK
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141456
+#EXTINF:-1 group-title="Sports" tvg-id="espndeportes.us" tvg-logo="https://i.ibb.co/z2b84DX/espn-deportes.png" tvg-name="USA | ESPN DEPORTES",ESPN DEPORTES
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/136157
+#EXTINF:-1 group-title="Sports" tvg-id="ESportsNetwork.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/Ginx%20TV.png" tvg-name="USA | ESPORTS TV",ESPORTS TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141459
+#EXTINF:-1 group-title="Sports" tvg-id="FanDuelRacing.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FanDuelRacing.us.png" tvg-name="USA | FANDUEL RACING (FORMERLY TVG 2)",FANDUEL RACING (FORMERLY TVG 2)
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/25195
+#EXTINF:-1 group-title="Sports" tvg-id="FanDuelTV.us" tvg-logo="https://cdn-images.bloodhorse.com/i/bloodhorse-images/2022/08/daa40cd519a34fa893eb269f27594cce.jpg?preset=mh" tvg-name="USA | FANDUEL TV (FORMERLY TVG NETWORK)",FANDUEL TV (FORMERLY TVG NETWORK)
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141461
+#EXTINF:-1 group-title="Sports" tvg-id="FightNetwork.us" tvg-logo="https://i.ibb.co/SX5m3Bq/fight-network.png" tvg-name="USA | FIGHT NETWORK",FIGHT NETWORK
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141462
+#EXTINF:-1 group-title="Sports" tvg-id="FITE247.us" tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" tvg-name="USA | FITE TV 24 HOUR BOXING",FITE TV 24 HOUR BOXING
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141463
+#EXTINF:-1 group-title="Sports" tvg-id="FoxDeportes.us" tvg-logo="https://i.ibb.co/qYQNzY0/fox-sports-deportes-us.png" tvg-name="USA | FOX DEPORTES",FOX DEPORTES
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141464
+#EXTINF:-1 group-title="Sports" tvg-id="foxsoccerplus.us" tvg-logo="https://i.ibb.co/NN2g54H/fox-soccer-plus.png" tvg-name="USA | FOX SOCCER PLUS",FOX SOCCER PLUS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141465
+#EXTINF:-1 group-title="Sports" tvg-id="fuboSportsNetwork.us" tvg-logo="https://i.ibb.co/PZRrm4H/fubo-sports-network.png" tvg-name="USA | FUBO SPORTS NETWORK",FUBO SPORTS NETWORK
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141468
+#EXTINF:-1 group-title="Sports" tvg-id="FuelTV.us" tvg-logo="https://iptvboss.xyz/logos/USA/FuelTV.us.png" tvg-name="FUEL TV",FUEL TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256728
+#EXTINF:-1 group-title="Sports" tvg-id="gameplus.us" tvg-logo="https://i.ibb.co/stvqwDC/game-plus-ca.png" tvg-name="USA | GAME +",GAME +
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141469
+#EXTINF:-1 group-title="Sports" tvg-id="GOLTVEnglish.us" tvg-logo="http://epg4you.com/logos/goltv.png" tvg-name="USA | GOL TV",GOL TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141470
+#EXTINF:-1 group-title="Sports" tvg-id="SP: Longhorn Network" tvg-logo="https://i.ibb.co/J7T9wkk/longhorn-network.png" tvg-name="USA | LONGHORN NETWORK",LONGHORN NETWORK
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141474
+#EXTINF:-1 group-title="Sports" tvg-id="MASN2.us" tvg-logo="https://i.ibb.co/dg6h0R6/masn-2.png" tvg-name="USA | MASN 2",MASN 2
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141477
+#EXTINF:-1 group-title="Sports" tvg-id="MavTV.us" tvg-logo="https://i.ibb.co/W0QdkCz/mavtv-motorsports.png" tvg-name="USA | MAV TV",MAV TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141478
+#EXTINF:-1 group-title="Sports" tvg-id="MSG2.us" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/msg.png" tvg-name="USA | MSG 2",MSG 2
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141481
+#EXTINF:-1 group-title="Sports" tvg-id="MSGSNZone1.us" tvg-logo="https://i.ibb.co/SXwMtzv/msgsn.png" tvg-name="USA | MSGSN (FORMERLY MSG+)",MSGSN (FORMERLY MSG+)
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141482
+#EXTINF:-1 group-title="Sports" tvg-id="MSGSN2Zone1.us" tvg-logo="https://i.ibb.co/SPN2RN0/msg.png" tvg-name="USA | MSGSN2",MSGSN2
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141483
+#EXTINF:-1 group-title="Sports" tvg-id="PokerGO.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/PokerGO.us.png" tvg-name="POKER GO",POKER GO
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129942
+#EXTINF:-1 group-title="Sports" tvg-id="RedbullTV.us" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W1FF1UQFy-YWPgVfnH5RZxHShakoWWahh7EhdfvlsRQVRbVw56pAIkGZGT7bevsdCA.png" tvg-name="RED BULL TV",RED BULL TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/251079
+#EXTINF:-1 group-title="Sports" tvg-id="US: STADIUM 2" tvg-logo="https://i.ibb.co/RBLSbRk/stadium-us.png" tvg-name="USA | STADIUM 2",STADIUM 2
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141501
+#EXTINF:-1 group-title="Sports" tvg-id="US: STADIUM 3" tvg-logo="https://i.ibb.co/RBLSbRk/stadium-us.png" tvg-name="USA | STADIUM 3",STADIUM 3
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141502
+#EXTINF:-1 group-title="Sports" tvg-id="UFC24_7.us" tvg-logo="https://i.ibb.co/3h78mCJ/ufc-tv.png" tvg-name="USA | UFC TV",UFC TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141504
+#EXTINF:-1 group-title="Sports" tvg-id="VSIN.us" tvg-logo="https://i.ibb.co/1QcR1rW/vsin.png" tvg-name="USA | VSIN",VSIN
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141505
+#EXTINF:-1 group-title="Sports" tvg-id="Willow.us" tvg-logo="https://i.ibb.co/DrX2fM1/willow-us.png" tvg-name="WILLOW TV",WILLOW TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129980
+#EXTINF:-1 group-title="Sports" tvg-id="WillowCricketXtra.us" tvg-logo="https://i.ibb.co/y0tT7F9/willow-xtra-us.png" tvg-name="USA | WILLOW XTRA",WILLOW XTRA
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141506
+#EXTINF:-1 group-title="Sports" tvg-id="WWENetwork.peacocktv" tvg-logo="https://i.ibb.co/sHTpq91/wwe-network.png" tvg-name="USA | WWE NETWORK",WWE NETWORK
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141507
+#EXTINF:-1 group-title="Sports" tvg-id="YES2Overflow.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82128_h15_aa.png" tvg-name="USA | YES 2",YES 2
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/141508
+#EXTINF:-1 group-title="Movies" tvg-id="StoriesbyAMC.us" tvg-logo="https://i.ibb.co/2FP00VT/amc-presents.png" tvg-name="AMC PRESENTS",AMC PRESENTS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129820
+#EXTINF:-1 group-title="Movies" tvg-id="AMCPlus.us" tvg-logo="https://i.ibb.co/2FPm4GJ/amc-plus.png" tvg-name="AMC+",AMC+
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129821
+#EXTINF:-1 group-title="Movies" tvg-id="CinemaxClassics.us" tvg-logo="http://iptvboss.xyz/logos/USA/Cinemax5StarMAX.us.png" tvg-name="CINEMAX CLASSICS",CINEMAX CLASSICS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130017
+#EXTINF:-1 group-title="Movies" tvg-id="HBODrama.us" tvg-logo="http://iptvboss.xyz/logos/USA/HBOSignature.us.png" tvg-name="HBO SIGNATURE",HBO SIGNATURE
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129993
+#EXTINF:-1 group-title="Movies" tvg-id="IndiePlex.us" tvg-logo="http://fanc.tmsimg.com/assets/s49751_ll_h3_ab.png" tvg-name="INDIEPLEX EAST",INDIEPLEX EAST
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130057
+#EXTINF:-1 group-title="Movies" tvg-id="LifetimeRealWomen.us" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/LifetimeRealWomen.us.png" tvg-name="LIFETIME REAL WOMEN",LIFETIME REAL WOMEN
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/16840
+#EXTINF:-1 group-title="Movies" tvg-id="MGM+Marquee.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MGM%2B_Marquee_2023.svg/revision/latest/scale-to-width-down/300?cb=20230117170334" tvg-name="MGM+ Marquee",MGM+ Marquee
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129989
+#EXTINF:-1 group-title="Movies" tvg-id="RetroPlex.us" tvg-logo="http://iptvboss.xyz/logos/USA/RetroPlex.us.png" tvg-name="RETROPLEX",RETROPLEX
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130014
+#EXTINF:-1 group-title="Movies" tvg-id="rewind.ca" tvg-logo="https://i.ibb.co/b36vdN3/rewind-ca.png" tvg-name="REWIND",REWIND
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/25638
+#EXTINF:-1 group-title="Movies" tvg-id="TheMovieChannelExtra.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s4_TDMsZgXBoScc6PgXqK0OFQtZn-lP9DRpW-gHf0DNkPsoSpfK4VlfUnsgDoh_qfNygrLUFW359umY6S0ALZ4I.png" tvg-name="THE MOVIE CHANNEL XTRA",THE MOVIE CHANNEL XTRA
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/130064
+#EXTINF:-1 group-title="Movies" tvg-id="TCM.us" tvg-logo="http://fanc.tmsimg.com/assets/s64312_ll_h3_aa.png" tvg-name="TURNER CLASSIC MOVIES",TURNER CLASSIC MOVIES
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/21540
+#EXTINF:-1 group-title="Documentary" tvg-id="CuriousityStream.us" tvg-logo="https://cdn.realscreen.com/wp/wp-content/uploads/2020/12/CuriosityStream-Logo.wine_.jpg?7ae179" tvg-name="CURIOSITY STREAM",CURIOSITY STREAM
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129861
+#EXTINF:-1 group-title="Documentary" tvg-id="DiscoveryTurbo.us" tvg-logo="https://i.ibb.co/bPHZvB9/motortrend.png" tvg-name="Discovery Turbo",Discovery Turbo
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/129917
+#EXTINF:-1 group-title="Documentary" tvg-id="Documentary+.us" tvg-logo="https://iptvboss.xyz/logos/USA/Documentary%2B.us.png" tvg-name="DOCUMENTARY PLUS",DOCUMENTARY PLUS
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256725
+#EXTINF:-1 group-title="Documentary" tvg-id="HistoryAndWarfare.us" tvg-logo="https://iptvboss.xyz/logos/USA/HistoryAndWarfareNow.us.png" tvg-name="HISTORY AND WARFARE NOW",HISTORY AND WARFARE NOW
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/256731
+#EXTINF:-1 group-title="Documentary" tvg-id="MilitaryHistoryChannel.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F05%2FMilitary_Channel_logo_(RGB_-_BLK_BG).png" tvg-name="MILITARY CHANNEL",MILITARY CHANNEL
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/9766
+#EXTINF:-1 group-title="Kids" tvg-id="BabyFirst.us" tvg-logo="https://iptvboss.xyz/logos/USA/BabyFirst.us.png" tvg-name="US | BABY FIRST",BABY FIRST
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137673
+#EXTINF:-1 group-title="Kids" tvg-id="TeenNick.us" tvg-logo="https://iptvboss.xyz/logos/USA/TeenNick.us.png" tvg-name="US | TEEN NICK",TEEN NICK
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/137688
+#EXTINF:-1 group-title="Español" tvg-id="CINL" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpa3kK4C9fXFAHoiM3Z7F1FQ.PNG" tvg-name="USL: CINE LATINO",CINE LATINO
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249543
+#EXTINF:-1 group-title="Español" tvg-id="CMEX" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoiPk-qD53HvvWGffjAuEtMdjTnn-la5bwWgpTBCAJBTUg.png" tvg-name="USL: CINE MEXICANO",CINE MEXICANO
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249540
+#EXTINF:-1 group-title="Español" tvg-id="CINSONY" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqp5wuFgPHjJkGtJ6UweWbFiw.PNG" tvg-name="USL: CINE SONY",CINE SONY
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249542
+#EXTINF:-1 group-title="Español" tvg-id="EL: GALAVISION EAST" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoh2162wJnwHir78Gp0USBLlh2yS5Z7jLxb_C_EQ80F8QQ.png" tvg-name="USL: GALAVISION EAST",GALAVISION EAST
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249552
+#EXTINF:-1 group-title="Español" tvg-id="MEGAUS" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoj7NvGNGosJbk20jIapJJeN9V-DaU8gi0jTJGKXidAd7Q.png" tvg-name="USL: MEGA TV",MEGA TV
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249563
+#EXTINF:-1 group-title="Español" tvg-id="MEGDTV" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUogkIobCW1QsEcZht8T_xiE6NGSraXNkVYKO6hC9OuqFZA.png" tvg-name="USL: MEGA TV(PR)",MEGA TV(PR)
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249562
+#EXTINF:-1 group-title="Español" tvg-id="" tvg-logo="" tvg-name="LAT | NBC UNIVERSO",NBC UNIVERSO
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/135379
+#EXTINF:-1 group-title="Español" tvg-id="PASNLA" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpS87BO76R4J0U_ZpjiWC2ZQ.png" tvg-name="USL: PASIONES",PASIONES
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249567
+#EXTINF:-1 group-title="Español" tvg-id="TelemundoWNJU.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpACFJKQMJzypWZtD58QTaiWM4Ni4Jk0RoyBVq6g74yz0.png" tvg-name="USL: TELEMUNDO EAST",TELEMUNDO EAST
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249599
+#EXTINF:-1 group-title="Español" tvg-id="TR3S" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUoguns3ZjvwX1P60pkHhB4aD.png" tvg-name="USL: TR3S",TR3S
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249580
+#EXTINF:-1 group-title="Español" tvg-id="UniMas.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqp3TSQ8pHgs7v0jGcEKWs3dA.png" tvg-name="USL: UNIMAS EAST",UNIMAS EAST
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249601
+#EXTINF:-1 group-title="Español" tvg-id="Univision.us" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUojlLSh263kkaIAKgbzYaZl9_4it15QgCiPMI54bGf4jKA.png" tvg-name="USL: UNIVISION EAST",UNIVISION EAST
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249591
+#EXTINF:-1 group-title="Español" tvg-id="VME" tvg-logo="https://tenwafers.xyz:443/images/VXiz89LY2q-BpHNtB3gBkftrbR4Ip8YNxiaPjS4gP2QB45VCd5k9OZuBPlH_h6NRZ4rlk8N3SClyLp21t50-ig.png" tvg-name="USL: V-ME",V-ME
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249585
+#EXTINF:-1 group-title="Español" tvg-id="VMOV" tvg-logo="https://tenwafers.xyz:443/images/VXiz89LY2q-BpHNtB3gBkftrbR4Ip8YNxiaPjS4gP2QB45VCd5k9OZuBPlH_h6NRwE1lCgCrCeiM7KIeJ1ch_urP7XXAgMePjnQ-mII5bOc.png" tvg-name="USL: VIENDOMOVIES",VIENDOMOVIES
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249588
+#EXTINF:-1 group-title="Español" tvg-id="WAPAUS" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2-cc3QANGsiQWLH8D7JUohBzS-yYBHQbuk2G74EAfZWwUEGdi6OuRw5wzeNA-gpXA.png" tvg-name="USL: WAPA AMERICA",WAPA AMERICA
+http://hardcoremedia.xyz:80/C8neuwYKes/1socukC9UKYe/249589
